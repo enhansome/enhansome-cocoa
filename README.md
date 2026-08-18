@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 496,610 | 🐛 100 | 📅 2026-06-30
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,022 | 🐛 102 | 📅 2026-06-30
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -79,7 +79,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-**[PageControls](https://github.com/popwarsweet/PageControls) ⭐ 1,101 | 🐛 4 | 🌐 Swift | 📅 2022-05-02**
+**[PageControls](https://github.com/popwarsweet/PageControls) ⭐ 1,100 | 🐛 4 | 🌐 Swift | 📅 2022-05-02**
 *from [popwarsweet](https://github.com/popwarsweet):*
 
 > *This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble found here: <https://dribbble.com/shots/2578447-Page-Control-Indicator-Transitions-Collection>*
@@ -124,7 +124,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-**[ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) ⭐ 7,311 | 🐛 12 | 🌐 Swift | 📅 2024-03-31**
+**[ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) ⭐ 7,310 | 🐛 12 | 🌐 Swift | 📅 2024-03-31**
 *from [marcosgriselli](https://github.com/marcosgriselli):*
 
 > *ViewAnimator brings your UI to life with just one line*
@@ -133,7 +133,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,060 | 🐛 1 | 🌐 Swift | 📅 2026-07-30**
+**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,061 | 🐛 1 | 🌐 Swift | 📅 2026-07-30**
 *from [exyte](https://github.com/exyte):*
 
 > *Toasts and popups library written with SwiftUI*
@@ -142,7 +142,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-**[PrecisionLevelSlider](https://github.com/muukii/PrecisionLevelSlider) ⭐ 170 | 🐛 3 | 🌐 Swift | 📅 2025-04-10**
+**[PrecisionLevelSlider](https://github.com/muukii/PrecisionLevelSlider) ⭐ 170 | 🐛 2 | 🌐 Swift | 📅 2026-08-17**
 *from [muukii](https://github.com/muukii):*
 
 > *PrecisionLevelSlider*
@@ -167,7 +167,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Elegant SVG animation kit for swift*
 
-**[ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) ⭐ 7,311 | 🐛 12 | 🌐 Swift | 📅 2024-03-31**
+**[ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) ⭐ 7,310 | 🐛 12 | 🌐 Swift | 📅 2024-03-31**
 *from [marcosgriselli](https://github.com/marcosgriselli):*
 
 > *ViewAnimator brings your UI to life with just one line*
@@ -222,7 +222,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Easy interactive interruptible custom ViewController transitions*
 
-**[Shiny](https://github.com/efremidze/Shiny) ⭐ 844 | 🐛 3 | 🌐 Swift | 📅 2025-07-09**
+**[Shiny](https://github.com/efremidze/Shiny) ⭐ 845 | 🐛 3 | 🌐 Swift | 📅 2025-07-09**
 *from [efremidze](https://github.com/efremidze):*
 
 > *Iridescent Effect View (inspired by Apple Pay Cash) ✨*
@@ -284,7 +284,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## PageControl
 
-**[PageControls](https://github.com/popwarsweet/PageControls) ⭐ 1,101 | 🐛 4 | 🌐 Swift | 📅 2022-05-02**
+**[PageControls](https://github.com/popwarsweet/PageControls) ⭐ 1,100 | 🐛 4 | 🌐 Swift | 📅 2022-05-02**
 *from [popwarsweet](https://github.com/popwarsweet):*
 
 > *This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble found here: <https://dribbble.com/shots/2578447-Page-Control-Indicator-Transitions-Collection>*
@@ -346,12 +346,12 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *URLEmbeddedView automatically caches the object that is confirmed the Open Graph Protocol.*
 
-**[VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) ⭐ 2,905 | 🐛 20 | 🌐 Swift | 📅 2022-12-06**
+**[VegaScroll](https://github.com/AppliKeySolutions/VegaScroll) ⭐ 2,904 | 🐛 20 | 🌐 Swift | 📅 2022-12-06**
 *from [ApplikeySolutions](https://github.com/ApplikeySolutions):*
 
 > *↕️ VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9.*
 
-**[folding-cell](https://github.com/Ramotion/folding-cell) ⭐ 10,186 | 🐛 12 | 🌐 Swift | 📅 2024-04-28**
+**[folding-cell](https://github.com/Ramotion/folding-cell) ⭐ 10,185 | 🐛 12 | 🌐 Swift | 📅 2024-04-28**
 *from [Ramotion](https://github.com/Ramotion):*
 
 > *:octocat: 📃 FoldingCell is an expanding content cell with animation inspired by folding paper card material design. Swift UI Library by @Ramotion*
@@ -464,14 +464,14 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Toast
 
-**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,060 | 🐛 1 | 🌐 Swift | 📅 2026-07-30**
+**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,061 | 🐛 1 | 🌐 Swift | 📅 2026-07-30**
 *from [exyte](https://github.com/exyte):*
 
 > *Toasts and popups library written with SwiftUI*
 
 ## Slider
 
-**[PrecisionLevelSlider](https://github.com/muukii/PrecisionLevelSlider) ⭐ 170 | 🐛 3 | 🌐 Swift | 📅 2025-04-10**
+**[PrecisionLevelSlider](https://github.com/muukii/PrecisionLevelSlider) ⭐ 170 | 🐛 2 | 🌐 Swift | 📅 2026-08-17**
 *from [muukii](https://github.com/muukii):*
 
 > *PrecisionLevelSlider*
@@ -490,7 +490,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Craft that perfect SwiftUI button effect 👌🏼*
 
-**[DynamicButton](https://github.com/yannickl/DynamicButton) ⭐ 1,153 | 🐛 6 | 🌐 Swift | 📅 2019-09-28**
+**[DynamicButton](https://github.com/yannickl/DynamicButton) ⭐ 1,152 | 🐛 6 | 🌐 Swift | 📅 2019-09-28**
 *from [yannickl](https://github.com/yannickl):*
 
 > *Yet another animated flat buttons in Swift*
@@ -552,7 +552,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *UITabBarController with swipe interaction between its tabs.*
 
-**[flashy-tabbar](https://github.com/Cuberto/flashy-tabbar) ⭐ 732 | 🐛 6 | 🌐 Swift | 📅 2023-06-14**
+**[flashy-tabbar](https://github.com/Cuberto/flashy-tabbar) ⭐ 731 | 🐛 6 | 🌐 Swift | 📅 2023-06-14**
 *from [Cuberto](https://github.com/Cuberto):*
 
 > *One another nice animated tabbar*
@@ -567,7 +567,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!*
 
-**[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) ⭐ 11,090 | 🐛 17 | 🌐 Swift | 📅 2022-01-26**
+**[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) ⭐ 11,091 | 🐛 17 | 🌐 Swift | 📅 2022-01-26**
 *from [Ramotion](https://github.com/Ramotion):*
 
 > *:octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion*
@@ -674,7 +674,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Kit for building custom gauges + easy reproducible Apple's style ring gauges.*
 
-**[NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) ⭐ 10,710 | 🐛 1 | 🌐 Swift | 📅 2026-03-18**
+**[NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) ⭐ 10,709 | 🐛 1 | 🌐 Swift | 📅 2026-03-18**
 *from [ninjaprox](https://github.com/ninjaprox):*
 
 > *A collection of awesome loading animations*
@@ -743,7 +743,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Fully customizable and extensible action sheet controller written in Swift*
 
-**[YNDropDownMenu](https://github.com/younatics/YNDropDownMenu) ⭐ 1,330 | 🐛 8 | 🌐 Swift | 📅 2026-07-07**
+**[YNDropDownMenu](https://github.com/younatics/YNDropDownMenu) ⭐ 1,329 | 🐛 8 | 🌐 Swift | 📅 2026-07-07**
 *from [younatics](https://github.com/younatics):*
 
 > *✨ Awesome Dropdown menu for iOS with Swift 4*
@@ -873,7 +873,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Highly customizable alertview and alert/notification/success/error/alarm popup written in Swift*
 
-**[CRToast](https://github.com/cruffenach/CRToast) ⭐ 4,127 | 🐛 69 | 🌐 Objective-C | 📅 2024-05-02**
+**[CRToast](https://github.com/cruffenach/CRToast) ⭐ 4,126 | 🐛 69 | 🌐 Objective-C | 📅 2024-05-02**
 *from [cruffenach](https://github.com/cruffenach):*
 
 > *A modern iOS toast view that can fit your notification needs*
@@ -1033,7 +1033,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Inifinite swipeable stacked UIViews.*
 
-**[Koloda](https://github.com/Yalantis/Koloda) ⭐ 5,398 | 🐛 50 | 🌐 Swift | 📅 2024-05-29**
+**[Koloda](https://github.com/Yalantis/Koloda) ⭐ 5,397 | 🐛 50 | 🌐 Swift | 📅 2024-05-29**
 *from [Yalantis](https://github.com/Yalantis):*
 
 > \*KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. \*
@@ -1188,7 +1188,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *ForceBlur Animation for iOS Messaging Apps*
 
-**[VisualEffectView](https://github.com/efremidze/VisualEffectView) ⭐ 1,415 | 🐛 11 | 🌐 Swift | 📅 2025-12-29**
+**[VisualEffectView](https://github.com/efremidze/VisualEffectView) ⭐ 1,414 | 🐛 11 | 🌐 Swift | 📅 2025-12-29**
 *from [efremidze](https://github.com/efremidze):*
 
 > *Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱*
@@ -1220,14 +1220,14 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A customizable calendar view for iOS.*
 
-**[FSCalendar](https://github.com/WenchaoIOS/FSCalendar) ⭐ 10,647 | 🐛 503 | 🌐 Objective-C | 📅 2024-08-10**
+**[FSCalendar](https://github.com/WenchaoIOS/FSCalendar) ⭐ 10,646 | 🐛 503 | 🌐 Objective-C | 📅 2024-08-10**
 *from [WenchaoD](https://github.com/WenchaoD):*
 
 > *A fully customizable iOS calendar library, compatible with Objective-C and Swift*
 
 ## Introduction
 
-**[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,382 | 🐛 11 | 🌐 Swift | 📅 2024-10-10**
+**[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,398 | 🐛 11 | 🌐 Swift | 📅 2024-10-10**
 *from [SvenTiigi](https://github.com/SvenTiigi):*
 
 > *Showcase your awesome new app features 📱*
@@ -1327,7 +1327,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Picker
 
-**[reel-search](https://github.com/Ramotion/reel-search) ⭐ 2,505 | 🐛 5 | 🌐 Swift | 📅 2020-04-06**
+**[reel-search](https://github.com/Ramotion/reel-search) ⭐ 2,504 | 🐛 5 | 🌐 Swift | 📅 2020-04-06**
 *from [Ramotion](https://github.com/Ramotion):*
 
 > *:octocat: 🔍 RAMReel is a UI controller that allows you to choose options from a list. Swift UI library made by @Ramotion*
@@ -1399,7 +1399,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Gallery
 
-**[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) ⭐ 8,712 | 🐛 335 | 🌐 Objective-C | 📅 2024-06-27**
+**[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) ⭐ 8,711 | 🐛 335 | 🌐 Objective-C | 📅 2024-06-27**
 *from [mwaterfall](https://github.com/mwaterfall):*
 
 > *A simple iOS photo and video browser with grid view, captions and selections.*
@@ -1449,4 +1449,4 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-18._
