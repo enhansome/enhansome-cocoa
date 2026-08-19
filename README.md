@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,450 | 🐛 102 | 📅 2026-08-18
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 497,658 | 🐛 102 | 📅 2026-08-18
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -133,7 +133,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,061 | 🐛 1 | 🌐 Swift | 📅 2026-07-30**
+**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,060 | 🐛 1 | 🌐 Swift | 📅 2026-07-30**
 *from [exyte](https://github.com/exyte):*
 
 > *Toasts and popups library written with SwiftUI*
@@ -464,7 +464,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Toast
 
-**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,061 | 🐛 1 | 🌐 Swift | 📅 2026-07-30**
+**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,060 | 🐛 1 | 🌐 Swift | 📅 2026-07-30**
 *from [exyte](https://github.com/exyte):*
 
 > *Toasts and popups library written with SwiftUI*
@@ -1077,7 +1077,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Simple and highly customizable iOS tag list view, in Swift.*
 
-**[ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) ⭐ 4,602 | 🐛 29 | 🌐 Swift | 📅 2023-10-27**
+**[ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) ⭐ 4,603 | 🐛 29 | 🌐 Swift | 📅 2023-10-27**
 *from [optonaut](https://github.com/optonaut):*
 
 > *UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http\://) written in Swift*
@@ -1227,7 +1227,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Introduction
 
-**[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,414 | 🐛 11 | 🌐 Swift | 📅 2024-10-10**
+**[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,420 | 🐛 11 | 🌐 Swift | 📅 2024-10-10**
 *from [SvenTiigi](https://github.com/SvenTiigi):*
 
 > *Showcase your awesome new app features 📱*
