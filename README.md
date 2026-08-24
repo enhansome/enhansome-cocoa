@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,327 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,521 | 🐛 106 | 📅 2026-08-21
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -133,7 +133,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,058 | 🐛 1 | 🌐 Swift | 📅 2026-07-30**
+**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,060 | 🐛 1 | 🌐 Swift | 📅 2026-07-30**
 *from [exyte](https://github.com/exyte):*
 
 > *Toasts and popups library written with SwiftUI*
@@ -197,7 +197,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *The Swift library for showing the rounded coach marks (useful for onboarding or run-time help purposes)*
 
-**[Hero](https://github.com/HeroTransitions/Hero) ⭐ 22,486 | 🐛 42 | 🌐 Swift | 📅 2025-01-23**
+**[Hero](https://github.com/HeroTransitions/Hero) ⭐ 22,487 | 🐛 42 | 🌐 Swift | 📅 2025-01-23**
 *from [HeroTransitions](https://github.com/HeroTransitions):*
 
 > *Elegant transition library for iOS & tvOS*
@@ -232,7 +232,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *:sparkles: Twinkle iOS/tvOS app elements in Swift*
 
-**[CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) ⭐ 3,468 | 🐛 22 | 🌐 Swift | 📅 2023-05-22**
+**[CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) ⭐ 3,467 | 🐛 22 | 🌐 Swift | 📅 2023-05-22**
 *from [ChiliLabs](https://github.com/ChiliLabs):*
 
 > *A set of cool animated page controls written in Swift to replace boring UIPageControl.*
@@ -464,7 +464,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Toast
 
-**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,058 | 🐛 1 | 🌐 Swift | 📅 2026-07-30**
+**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,060 | 🐛 1 | 🌐 Swift | 📅 2026-07-30**
 *from [exyte](https://github.com/exyte):*
 
 > *Toasts and popups library written with SwiftUI*
@@ -495,7 +495,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Yet another animated flat buttons in Swift*
 
-**[FloatingButton](https://github.com/exyte/FloatingButton) ⭐ 1,267 | 🐛 0 | 🌐 Swift | 📅 2026-07-08**
+**[FloatingButton](https://github.com/exyte/FloatingButton) ⭐ 1,268 | 🐛 0 | 🌐 Swift | 📅 2026-07-08**
 *from [exyte](https://github.com/exyte):*
 
 > *Easily customizable floating button menu created with SwiftUI*
@@ -1210,7 +1210,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A Github's like work contribution timeline. 🤸🏻*
 
-**[CalendarKit](https://github.com/richardtop/CalendarKit) ⭐ 2,706 | 🐛 36 | 🌐 Swift | 📅 2026-07-06**
+**[CalendarKit](https://github.com/richardtop/CalendarKit) ⭐ 2,705 | 🐛 36 | 🌐 Swift | 📅 2026-07-06**
 *from [richardtop](https://github.com/richardtop):*
 
 > *📅 Fully customizable calendar for iOS*
@@ -1227,7 +1227,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Introduction
 
-**[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,430 | 🐛 11 | 🌐 Swift | 📅 2024-10-10**
+**[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,431 | 🐛 11 | 🌐 Swift | 📅 2024-10-10**
 *from [SvenTiigi](https://github.com/SvenTiigi):*
 
 > *Showcase your awesome new app features 📱*
@@ -1385,7 +1385,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## TreeView
 
-**[RATreeView](https://github.com/Augustyniak/RATreeView) ⭐ 2,481 | 🐛 105 | 🌐 Objective-C | 📅 2019-12-10**
+**[RATreeView](https://github.com/Augustyniak/RATreeView) ⭐ 2,480 | 🐛 105 | 🌐 Objective-C | 📅 2019-12-10**
 *from [Augustyniak](https://github.com/Augustyniak):*
 
 > *Library providing easy-to-use interface for displaying tree structures on iOS and tvOS.*

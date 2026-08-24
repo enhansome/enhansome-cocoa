@@ -1,7 +1,4037 @@
 {
-  "items": [],
+  "items": [
+    {
+      "description": "Elegant SVG animation kit for swift\nThis is a selection of custom page controls to replace UIPageControl, inspired by a dribbble found here: https://dribbble.com/shots/2578447-Page-Control-Indicator-Transitions-Collection\nEasy to use UITableViewCell implementing swiping to trigger actions.\nnull\n📝 The next in the generations of 'growing textviews' optimized for iOS 8 and above.\nGeneral-purpose contextual cards for iOS\nViewAnimator brings your UI to life with just one line\nToasts and popups library written with SwiftUI\nPrecisionLevelSlider\nLightweight, highly customizable Pin Code Field library for iOS, written in Swift",
+      "items": [
+        {
+          "node_type": "item",
+          "title": "Elephant",
+          "description": "from s2mr:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 187564378,
+            "language": "Swift",
+            "last_commit": "2026-05-24T17:34:53Z",
+            "owner": "s2mr",
+            "repo": "Elephant",
+            "stars": 151
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PageControls",
+          "description": "from popwarsweet:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 65334177,
+            "language": "Swift",
+            "last_commit": "2022-05-02T20:03:58Z",
+            "owner": "popwarsweet",
+            "repo": "PageControls",
+            "stars": 1100
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "SwipyCell",
+          "description": "from moritzsternemann:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 50125524,
+            "language": "Swift",
+            "last_commit": "2023-08-30T17:36:41Z",
+            "owner": "moritzsternemann",
+            "repo": "SwipyCell",
+            "stars": 260
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "rubber-range-picker",
+          "description": "from Cuberto:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 170722300,
+            "language": "Swift",
+            "last_commit": "2019-08-28T11:34:15Z",
+            "owner": "Cuberto",
+            "repo": "rubber-range-picker",
+            "stars": 402
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "NextGrowingTextView",
+          "description": "from muukii:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 48213223,
+            "language": "Swift",
+            "last_commit": "2026-08-21T18:15:48Z",
+            "owner": "FluidGroup",
+            "repo": "NextGrowingTextView",
+            "stars": 1797
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "BulletinBoard",
+          "description": "from alexisakers:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 104852627,
+            "language": "Swift",
+            "last_commit": "2022-05-16T18:03:28Z",
+            "owner": "alexaubry",
+            "repo": "BulletinBoard",
+            "stars": 5338
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "ViewAnimator",
+          "description": "from marcosgriselli:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 106023615,
+            "language": "Swift",
+            "last_commit": "2024-03-31T11:37:25Z",
+            "owner": "marcosgriselli",
+            "repo": "ViewAnimator",
+            "stars": 7309
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PopupView",
+          "description": "from exyte:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 258158475,
+            "language": "Swift",
+            "last_commit": "2026-07-30T06:44:34Z",
+            "owner": "exyte",
+            "repo": "PopupView",
+            "stars": 4060
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "PrecisionLevelSlider",
+          "description": "from muukii:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 74893152,
+            "language": "Swift",
+            "last_commit": "2026-08-17T07:48:15Z",
+            "owner": "FluidGroup",
+            "repo": "PrecisionLevelSlider",
+            "stars": 170
+          }
+        },
+        {
+          "node_type": "item",
+          "title": "KAPinField",
+          "description": "from kirualex:",
+          "children": [],
+          "repo_info": {
+            "archived": false,
+            "id": 153141269,
+            "language": "Swift",
+            "last_commit": "2023-01-16T16:43:55Z",
+            "owner": "alexiscreuzot",
+            "repo": "KAPinField",
+            "stars": 182
+          }
+        }
+      ],
+      "title": "New"
+    },
+    {
+      "description": null,
+      "items": [
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Elephant",
+              "description": "from s2mr:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 187564378,
+                "language": "Swift",
+                "last_commit": "2026-05-24T17:34:53Z",
+                "owner": "s2mr",
+                "repo": "Elephant",
+                "stars": 151
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ViewAnimator",
+              "description": "from marcosgriselli:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106023615,
+                "language": "Swift",
+                "last_commit": "2024-03-31T11:37:25Z",
+                "owner": "marcosgriselli",
+                "repo": "ViewAnimator",
+                "stars": 7309
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SPLarkController",
+              "description": "from ivanvorobei:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 172318888,
+                "language": "Swift",
+                "last_commit": "2022-03-27T17:48:29Z",
+                "owner": "ivanvorobei",
+                "repo": "SPLarkController",
+                "stars": 985
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SpeechRecognizerButton",
+              "description": "from alexruperez:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122995414,
+                "language": "Swift",
+                "last_commit": "2019-08-15T14:42:37Z",
+                "owner": "alexruperez",
+                "repo": "SpeechRecognizerButton",
+                "stars": 184
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZoomTransitioning",
+              "description": "from WorldDownTown:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62843320,
+                "language": "Swift",
+                "last_commit": "2019-07-01T23:52:56Z",
+                "owner": "WorldDownTown",
+                "repo": "ZoomTransitioning",
+                "stars": 670
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SABlurImageView",
+              "description": "from marty-suzuki:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32972342,
+                "language": "Swift",
+                "last_commit": "2020-11-10T17:42:36Z",
+                "owner": "marty-suzuki",
+                "repo": "SABlurImageView",
+                "stars": 552
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RoundCoachMark",
+              "description": "from digital-horizon:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 114119348,
+                "language": "Swift",
+                "last_commit": "2020-06-29T08:00:15Z",
+                "owner": "digital-horizon",
+                "repo": "RoundCoachMark",
+                "stars": 69
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hero",
+              "description": "from HeroTransitions:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74697963,
+                "language": "Swift",
+                "last_commit": "2025-01-23T20:27:30Z",
+                "owner": "HeroTransitions",
+                "repo": "Hero",
+                "stars": 22487
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Comets",
+              "description": "from cruisediary:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152174609,
+                "language": "Swift",
+                "last_commit": "2019-08-03T07:03:06Z",
+                "owner": "cruisediary",
+                "repo": "Comets",
+                "stars": 614
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CLWaterWaveView",
+              "description": "from cristi-lupu:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 120179104,
+                "language": "Swift",
+                "last_commit": "2020-05-13T20:29:14Z",
+                "owner": "cristi-lupu",
+                "repo": "CLWaterWaveView",
+                "stars": 58
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "garland-view",
+              "description": "from Ramotion:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94412485,
+                "language": "Swift",
+                "last_commit": "2020-04-06T07:04:46Z",
+                "owner": "Ramotion",
+                "repo": "garland-view",
+                "stars": 495
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Transition",
+              "description": "from Touchwonders:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84843135,
+                "language": "Swift",
+                "last_commit": "2020-11-02T08:11:20Z",
+                "owner": "Touchwonders",
+                "repo": "Transition",
+                "stars": 2626
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Shiny",
+              "description": "from efremidze:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 113637739,
+                "language": "Swift",
+                "last_commit": "2025-07-09T18:00:13Z",
+                "owner": "efremidze",
+                "repo": "Shiny",
+                "stars": 845
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Twinkle",
+              "description": "from piemonte:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31300362,
+                "language": "Swift",
+                "last_commit": "2026-01-21T06:17:49Z",
+                "owner": "piemonte",
+                "repo": "Twinkle",
+                "stars": 616
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CHIPageControl",
+              "description": "from ChiliLabs:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84822726,
+                "language": "Swift",
+                "last_commit": "2023-05-22T02:43:41Z",
+                "owner": "ChiliLabs",
+                "repo": "CHIPageControl",
+                "stars": 3467
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BubbleTransition",
+              "description": "from andreamazz:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35510454,
+                "language": "Swift",
+                "last_commit": "2020-11-04T15:29:03Z",
+                "owner": "andreamazz",
+                "repo": "BubbleTransition",
+                "stars": 3303
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AnimatedTransitionGallery",
+              "description": "from shu223:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17571013,
+                "language": "Objective-C",
+                "last_commit": "2024-04-30T08:03:53Z",
+                "owner": "shu223",
+                "repo": "AnimatedTransitionGallery",
+                "stars": 2504
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CBZSplashView",
+              "description": "from callumboddy:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22106659,
+                "language": "Objective-C",
+                "last_commit": "2017-02-01T14:26:38Z",
+                "owner": "callumboddy",
+                "repo": "CBZSplashView",
+                "stars": 1478
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JazzHands",
+              "description": "from IFTTT:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13200787,
+                "language": "Objective-C",
+                "last_commit": "2024-07-30T13:01:27Z",
+                "owner": "IFTTT",
+                "repo": "JazzHands",
+                "stars": 6361
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PulsingHalo",
+              "description": "from shu223:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14949479,
+                "language": "Objective-C",
+                "last_commit": "2021-10-12T09:37:09Z",
+                "owner": "shu223",
+                "repo": "PulsingHalo",
+                "stars": 1786
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DCAnimationKit",
+              "description": "from daltoniam:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 17984544,
+                "language": "Objective-C",
+                "last_commit": "2016-02-09T09:42:42Z",
+                "owner": "daltoniam",
+                "repo": "DCAnimationKit",
+                "stars": 804
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WobbleView",
+              "description": "from inFullMobile:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33611821,
+                "language": "Swift",
+                "last_commit": "2017-05-30T20:56:02Z",
+                "owner": "dotintent",
+                "repo": "WobbleView",
+                "stars": 2169
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RZTransitions",
+              "description": "from Raizlabs:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15236811,
+                "language": "Objective-C",
+                "last_commit": "2020-02-06T19:14:19Z",
+                "owner": "Rightpoint",
+                "repo": "RZTransitions",
+                "stars": 1860
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UITextField-Shake",
+              "description": "from andreamazz:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16646704,
+                "language": "Objective-C",
+                "last_commit": "2017-12-14T10:52:27Z",
+                "owner": "andreamazz",
+                "repo": "UITextField-Shake",
+                "stars": 726
+              }
+            }
+          ],
+          "description": "Elegant SVG animation kit for swift\nViewAnimator brings your UI to life with just one line\nCustom transition between controllers. Settings controller for your iOS app.\nUIButton subclass with push to talk recording, speech recognition and Siri-style waveform view.\nZoomTransitioning provides a custom transition with image zooming animation and swiping the screen edge.\nYou can use blur effect and it's animation easily to call only two methods.\nThe Swift library for showing the rounded coach marks (useful for onboarding or run-time help purposes)\nElegant transition library for iOS & tvOS\n☄️Comets: Animating Particles in Swift\nA UIView what able to show water wave effect\n:octocat: ≡ GarlandView seamlessly transitions between multiple lists of content. Swift UI library made by @Ramotion\nEasy interactive interruptible custom ViewController transitions\nIridescent Effect View (inspired by Apple Pay Cash) ✨\n:sparkles: Twinkle iOS/tvOS app elements in Swift\nA set of cool animated page controls written in Swift to replace boring UIPageControl.\nA custom modal transition that presents and dismiss a controller with an expanding bubble effect.\nA gallery app of custom animated transitions for iOS.\nTwitter style Splash Screen View. Grows to reveal the Initial view behind\nA simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros.\niOS Component for creating a pulsing animation.\nA collection of animations for iOS. Simple, just add water animations.\nnull\nA library of custom iOS View Controller Animations and Interactions.\nUITextField category that adds shake animation",
+          "node_type": "group",
+          "title": "Animation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PageControls",
+              "description": "from popwarsweet:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 65334177,
+                "language": "Swift",
+                "last_commit": "2022-05-02T20:03:58Z",
+                "owner": "popwarsweet",
+                "repo": "PageControls",
+                "stars": 1100
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PagingKit",
+              "description": "from kazuhiro4949:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96034920,
+                "language": "Swift",
+                "last_commit": "2022-08-08T23:47:02Z",
+                "owner": "kazuhiro4949",
+                "repo": "PagingKit",
+                "stars": 1391
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TKRubberIndicator",
+              "description": "from TBXark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45082974,
+                "language": "Swift",
+                "last_commit": "2024-08-21T09:11:19Z",
+                "owner": "tbxark",
+                "repo": "TKRubberIndicator",
+                "stars": 1465
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FlexiblePageControl",
+              "description": "from shima11:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87271284,
+                "language": "Swift",
+                "last_commit": "2023-09-14T03:49:23Z",
+                "owner": "shima11",
+                "repo": "FlexiblePageControl",
+                "stars": 795
+              }
+            }
+          ],
+          "description": "This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble found here: https://dribbble.com/shots/2578447-Page-Control-Indicator-Transitions-Collection\n*PagingKit provides customizable menu UI. It has more flexible layout and design than the other libraries. *\nA rubber animation pagecontrol\nA flexible UIPageControl like Instagram.",
+          "node_type": "group",
+          "title": "PageControl"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SwipyCell",
+              "description": "from moritzsternemann:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50125524,
+                "language": "Swift",
+                "last_commit": "2023-08-30T17:36:41Z",
+                "owner": "moritzsternemann",
+                "repo": "SwipyCell",
+                "stars": 260
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TableFlip",
+              "description": "from mergesort:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72555349,
+                "language": "Swift",
+                "last_commit": "2021-01-17T15:12:23Z",
+                "owner": "mergesort",
+                "repo": "TableFlip",
+                "stars": 558
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ISTimeline",
+              "description": "from instant-solutions:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 61381395,
+                "language": "Swift",
+                "last_commit": "2021-01-04T12:34:45Z",
+                "owner": "instant-solutions",
+                "repo": "ISTimeline",
+                "stars": 1000
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwipeCellKit",
+              "description": "from SwipeCellKit:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80831537,
+                "language": "Swift",
+                "last_commit": "2024-05-19T14:19:08Z",
+                "owner": "SwipeCellKit",
+                "repo": "SwipeCellKit",
+                "stars": 6283
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwiftyComments",
+              "description": "from tsucres:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106421175,
+                "language": "Swift",
+                "last_commit": "2020-12-28T14:14:52Z",
+                "owner": "tsucres",
+                "repo": "SwiftyComments",
+                "stars": 226
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "YNExpandableCell",
+              "description": "from younatics:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 84613303,
+                "language": "Swift",
+                "last_commit": "2026-07-08T07:29:52Z",
+                "owner": "younatics",
+                "repo": "YNExpandableCell",
+                "stars": 451
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BWSwipeRevealCell",
+              "description": "from bitwit:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46137484,
+                "language": "Swift",
+                "last_commit": "2019-04-08T22:38:20Z",
+                "owner": "bitwit",
+                "repo": "BWSwipeRevealCell",
+                "stars": 68
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "URLEmbeddedView",
+              "description": "from marty-suzuki:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53236277,
+                "language": "Swift",
+                "last_commit": "2020-01-11T05:30:03Z",
+                "owner": "marty-suzuki",
+                "repo": "URLEmbeddedView",
+                "stars": 646
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VegaScroll",
+              "description": "from ApplikeySolutions:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102494292,
+                "language": "Swift",
+                "last_commit": "2022-12-06T09:25:24Z",
+                "owner": "ApplikeySolutions",
+                "repo": "VegaScroll",
+                "stars": 2904
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "folding-cell",
+              "description": "from Ramotion:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48376164,
+                "language": "Swift",
+                "last_commit": "2024-04-28T23:42:52Z",
+                "owner": "Ramotion",
+                "repo": "folding-cell",
+                "stars": 10181
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SAParallaxViewControllerSwift",
+              "description": "from marty-suzuki:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 30030988,
+                "language": "Swift",
+                "last_commit": "2016-09-23T14:51:44Z",
+                "owner": "marty-suzuki",
+                "repo": "SAParallaxViewControllerSwift",
+                "stars": 260
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SlackTextViewController",
+              "description": "from slackhq:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 23082332,
+                "language": "Objective-C",
+                "last_commit": "2018-10-29T18:56:03Z",
+                "owner": "slackhq",
+                "repo": "SlackTextViewController",
+                "stars": 8267
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MPSkewed",
+              "description": "from MP0w:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20107020,
+                "language": "Objective-C",
+                "last_commit": "2015-05-17T20:41:08Z",
+                "owner": "MP0w",
+                "repo": "MPSkewed",
+                "stars": 431
+              }
+            }
+          ],
+          "description": "Easy to use UITableViewCell implementing swiping to trigger actions.\nA simpler way to do cool UITableView animations! (╯°□°）╯︵ ┻━┻\nSimple timeline view written in Swift 3\nSwipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.\nUITableView based component designed to display a hierarchy of expandable/foldable comments.\n✨ Awesome expandable, collapsible tableview cell for iOS written in Swift 4\nA Swift library for swipeable table cells\nURLEmbeddedView automatically caches the object that is confirmed the Open Graph Protocol.\n↕️ VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9.\n:octocat: 📃 FoldingCell is an expanding content cell with animation inspired by folding paper card material design. Swift UI Library by @Ramotion\nSAParallaxViewControllerSwift realizes parallax scrolling with blur effect. In addition, it realizes seamless opening transition.\nA drop-in UIViewController subclass with a growing text input view and other useful messaging features\n*An iOS collection view subclass to present a list of skewed images and a collection view layout to add parallax to the images *",
+          "node_type": "group",
+          "title": "TableView"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "rubber-range-picker",
+              "description": "from Cuberto:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 170722300,
+                "language": "Swift",
+                "last_commit": "2019-08-28T11:34:15Z",
+                "owner": "Cuberto",
+                "repo": "rubber-range-picker",
+                "stars": 402
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "fluid-slider",
+              "description": "from Ramotion:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 107671636,
+                "language": "Swift",
+                "last_commit": "2022-06-01T06:20:38Z",
+                "owner": "Ramotion",
+                "repo": "fluid-slider",
+                "stars": 1984
+              }
+            }
+          ],
+          "description": "null\n:octocat:💧 A slider widget with a popup bubble displaying the precise value selected. Swift UI library made by @Ramotion",
+          "node_type": "group",
+          "title": "RangeSelect"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NextGrowingTextView",
+              "description": "from muukii:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48213223,
+                "language": "Swift",
+                "last_commit": "2026-08-21T18:15:48Z",
+                "owner": "FluidGroup",
+                "repo": "NextGrowingTextView",
+                "stars": 1797
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CreditCardForm-iOS",
+              "description": "from orazz:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73180483,
+                "language": "Swift",
+                "last_commit": "2020-05-30T17:09:15Z",
+                "owner": "orazz",
+                "repo": "CreditCardForm-iOS",
+                "stars": 1463
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SkyFloatingLabelTextField",
+              "description": "from Skyscanner:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 48360584,
+                "language": "Swift",
+                "last_commit": "2025-07-14T20:03:31Z",
+                "owner": "Skyscanner",
+                "repo": "SkyFloatingLabelTextField",
+                "stars": 4125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Translucid",
+              "description": "from Ekhoo:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48218222,
+                "language": "Swift",
+                "last_commit": "2017-10-24T06:37:20Z",
+                "owner": "Ekhoo",
+                "repo": "Translucid",
+                "stars": 545
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NumberMorphView",
+              "description": "from me-abhinav:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 53822374,
+                "language": "Swift",
+                "last_commit": "2017-12-04T04:13:31Z",
+                "owner": "me-abhinav",
+                "repo": "NumberMorphView",
+                "stars": 1582
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FloatLabelFields",
+              "description": "from FahimF:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27321578,
+                "language": "Swift",
+                "last_commit": "2020-01-15T14:53:28Z",
+                "owner": "FahimF",
+                "repo": "FloatLabelFields",
+                "stars": 1180
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DTTextField",
+              "description": "from iDhaval:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87069790,
+                "language": "Swift",
+                "last_commit": "2022-11-25T09:24:34Z",
+                "owner": "iDhaval",
+                "repo": "DTTextField",
+                "stars": 332
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CountdownLabel",
+              "description": "from suzuki-0000:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 49942729,
+                "language": "Swift",
+                "last_commit": "2022-03-07T04:03:30Z",
+                "owner": "suzuki-0000",
+                "repo": "CountdownLabel",
+                "stars": 1014
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "WSTagsField",
+              "description": "from whitesmith:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62551802,
+                "language": "Swift",
+                "last_commit": "2022-10-20T06:32:55Z",
+                "owner": "whitesmith",
+                "repo": "WSTagsField",
+                "stars": 1285
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CBPinEntryView",
+              "description": "from Fawxy:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85485269,
+                "language": "Swift",
+                "last_commit": "2026-07-19T23:54:15Z",
+                "owner": "Fawxy",
+                "repo": "CBPinEntryView",
+                "stars": 187
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AnimatedMaskLabel",
+              "description": "from jogendra:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 188003328,
+                "language": "Swift",
+                "last_commit": "2019-05-30T17:13:53Z",
+                "owner": "jogendra",
+                "repo": "AnimatedMaskLabel",
+                "stars": 24
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HTYTextField",
+              "description": "from hanton:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45185825,
+                "language": "Swift",
+                "last_commit": "2019-11-02T23:20:50Z",
+                "owner": "hanton",
+                "repo": "HTYTextField",
+                "stars": 309
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RKRichTextView",
+              "description": "from ren6:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10246463,
+                "language": "Objective-C",
+                "last_commit": "2014-05-16T14:51:42Z",
+                "owner": "ren6",
+                "repo": "RKRichTextView",
+                "stars": 145
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RichEditorView",
+              "description": "from cjwirth:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 33443804,
+                "language": "Swift",
+                "last_commit": "2023-12-01T13:12:03Z",
+                "owner": "cjwirth",
+                "repo": "RichEditorView",
+                "stars": 1893
+              }
+            }
+          ],
+          "description": "📝 The next in the generations of 'growing textviews' optimized for iOS 8 and above.\nCreditCardForm is iOS framework that allows developers to create the UI which replicates an actual Credit Card.\nA beautiful and flexible text field control implementation of \"Float Label Pattern\". Written in Swift.\nLightweight library to set an Image as text background. Written in swift.\nA label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.\nText entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.\nDTTextField is a custom textfield with floating placeholder and error label\nSimple countdown UILabel with morphing animation, and some useful function.\nAn iOS text field that represents different Tags\nA customisable view for entering arbitrary length numerical pins or codes in iOS.\nAnimated Mask Label is a nice gradient animated label. This is an easy way to add a shimmering effect to any view in your app. It is useful as an unobtrusive loading indicator.\n*A UITextField with bouncy placeholder. *\nRich Text Editor for iOS\nRichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.",
+          "node_type": "group",
+          "title": "TextField"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BulletinBoard",
+              "description": "from alexisakers:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104852627,
+                "language": "Swift",
+                "last_commit": "2022-05-16T18:03:28Z",
+                "owner": "alexaubry",
+                "repo": "BulletinBoard",
+                "stars": 5338
+              }
+            }
+          ],
+          "description": "General-purpose contextual cards for iOS",
+          "node_type": "group",
+          "title": "Popup"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PopupView",
+              "description": "from exyte:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 258158475,
+                "language": "Swift",
+                "last_commit": "2026-07-30T06:44:34Z",
+                "owner": "exyte",
+                "repo": "PopupView",
+                "stars": 4060
+              }
+            }
+          ],
+          "description": "Toasts and popups library written with SwiftUI",
+          "node_type": "group",
+          "title": "Toast"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PrecisionLevelSlider",
+              "description": "from muukii:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 74893152,
+                "language": "Swift",
+                "last_commit": "2026-08-17T07:48:15Z",
+                "owner": "FluidGroup",
+                "repo": "PrecisionLevelSlider",
+                "stars": 170
+              }
+            }
+          ],
+          "description": "PrecisionLevelSlider",
+          "node_type": "group",
+          "title": "Slider"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KAPinField",
+              "description": "from kirualex:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153141269,
+                "language": "Swift",
+                "last_commit": "2023-01-16T16:43:55Z",
+                "owner": "alexiscreuzot",
+                "repo": "KAPinField",
+                "stars": 182
+              }
+            }
+          ],
+          "description": "Lightweight, highly customizable Pin Code Field library for iOS, written in Swift",
+          "node_type": "group",
+          "title": "Pin"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "buttoncraft",
+              "description": "from atrinh0:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 284474951,
+                "language": "Swift",
+                "last_commit": "2024-11-13T11:00:48Z",
+                "owner": "atrinh0",
+                "repo": "buttoncraft",
+                "stars": 448
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DynamicButton",
+              "description": "from yannickl:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 42578565,
+                "language": "Swift",
+                "last_commit": "2019-09-28T09:26:11Z",
+                "owner": "yannickl",
+                "repo": "DynamicButton",
+                "stars": 1152
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FloatingButton",
+              "description": "from exyte:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 230217359,
+                "language": "Swift",
+                "last_commit": "2026-07-08T08:22:51Z",
+                "owner": "exyte",
+                "repo": "FloatingButton",
+                "stars": 1268
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PMSuperButton",
+              "description": "from pmusolino:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94108478,
+                "language": "Swift",
+                "last_commit": "2023-03-07T13:47:46Z",
+                "owner": "pmusolino",
+                "repo": "PMSuperButton",
+                "stars": 721
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SquishButton",
+              "description": "from BalestraPatrick:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 87650025,
+                "language": "Swift",
+                "last_commit": "2018-03-08T21:26:18Z",
+                "owner": "BalestraPatrick",
+                "repo": "SquishButton",
+                "stars": 395
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AnimatablePlayButton",
+              "description": "from suzuki-0000:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47973601,
+                "language": "Swift",
+                "last_commit": "2020-03-29T16:53:40Z",
+                "owner": "suzuki-0000",
+                "repo": "AnimatablePlayButton",
+                "stars": 80
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TransitionButton",
+              "description": "from AladinWay:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98570094,
+                "language": "Swift",
+                "last_commit": "2022-09-05T11:51:13Z",
+                "owner": "AladinWay",
+                "repo": "TransitionButton",
+                "stars": 1473
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NFDownloadButton",
+              "description": "from LeonardoCardoso:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 91838593,
+                "language": "Swift",
+                "last_commit": "2018-09-29T20:45:33Z",
+                "owner": "leonardocardoso",
+                "repo": "NFDownloadButton",
+                "stars": 438
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MultiToggleButton",
+              "description": "from yonat:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31667796,
+                "language": "Swift",
+                "last_commit": "2024-11-01T14:13:52Z",
+                "owner": "yonat",
+                "repo": "MultiToggleButton",
+                "stars": 86
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LGButton",
+              "description": "from loregr:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 94624954,
+                "language": "Swift",
+                "last_commit": "2020-09-11T02:30:28Z",
+                "owner": "loregr",
+                "repo": "LGButton",
+                "stars": 2281
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DOFavoriteButton",
+              "description": "from okmr-d:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38377312,
+                "language": "Swift",
+                "last_commit": "2022-06-13T14:04:23Z",
+                "owner": "okmr-d",
+                "repo": "DOFavoriteButton",
+                "stars": 3583
+              }
+            }
+          ],
+          "description": "Craft that perfect SwiftUI button effect 👌🏼\nYet another animated flat buttons in Swift\nEasily customizable floating button menu created with SwiftUI\n🔥 PMSuperButton is a powerful UIButton coming from the countryside, but with super powers! 😎\nA button that squishes when pressed. As seen in the Clips app.\nAnimated Play and Pause Button written in Swift, using CALayer, CAKeyframeAnimation.\nUIButton sublass for loading and transition animation.\nRevamped Download Button. It's kinda a reverse engineering of Netflix's app download button.\nMultiple state tap to toggle UIButton in Swift\nA fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.\nCute Animated Button written in Swift.",
+          "node_type": "group",
+          "title": "Button"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SOTabBar",
+              "description": "from Ahmadalsofi:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 231611344,
+                "language": "Swift",
+                "last_commit": "2021-05-30T09:21:45Z",
+                "owner": "Ahmadalsofi",
+                "repo": "SOTabBar",
+                "stars": 677
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwipeableTabBarController",
+              "description": "from marcosgriselli:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 80658654,
+                "language": "Swift",
+                "last_commit": "2023-06-04T21:52:42Z",
+                "owner": "marcosgriselli",
+                "repo": "SwipeableTabBarController",
+                "stars": 1536
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "flashy-tabbar",
+              "description": "from Cuberto:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 159859538,
+                "language": "Swift",
+                "last_commit": "2023-06-14T07:43:21Z",
+                "owner": "Cuberto",
+                "repo": "flashy-tabbar",
+                "stars": 731
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RKSwipeBetweenViewControllers",
+              "description": "from cwRichardKim:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22277409,
+                "language": "Objective-C",
+                "last_commit": "2017-04-16T20:15:06Z",
+                "owner": "cwRichardKim",
+                "repo": "RKSwipeBetweenViewControllers",
+                "stars": 1670
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TLYShyNavBar",
+              "description": "from telly:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 20849184,
+                "language": "Objective-C",
+                "last_commit": "2018-09-20T09:24:13Z",
+                "owner": "telly",
+                "repo": "TLYShyNavBar",
+                "stars": 3700
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "animated-tab-bar",
+              "description": "from Ramotion:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26481815,
+                "language": "Swift",
+                "last_commit": "2022-01-26T02:40:50Z",
+                "owner": "Ramotion",
+                "repo": "animated-tab-bar",
+                "stars": 11088
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Tabman",
+              "description": "from uias:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82300088,
+                "language": "Swift",
+                "last_commit": "2026-07-27T05:31:40Z",
+                "owner": "uias",
+                "repo": "Tabman",
+                "stars": 2924
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VBRRollingPit",
+              "description": "from v-braun:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 142788365,
+                "language": "Swift",
+                "last_commit": "2018-12-25T12:18:50Z",
+                "owner": "v-braun",
+                "repo": "VBRRollingPit",
+                "stars": 333
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FoldingTabBar.iOS",
+              "description": "from Yalantis:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33356195,
+                "language": "Objective-C",
+                "last_commit": "2022-06-13T14:56:56Z",
+                "owner": "Yalantis",
+                "repo": "FoldingTabBar.iOS",
+                "stars": 3663
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BFPaperTabBarController",
+              "description": "from bfeher:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23176219,
+                "language": "Objective-C",
+                "last_commit": "2019-07-30T14:21:45Z",
+                "owner": "bfeher",
+                "repo": "BFPaperTabBarController",
+                "stars": 343
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MinimalTabBar",
+              "description": "from jamesdunay:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 27897763,
+                "language": "Objective-C",
+                "last_commit": "2016-11-29T15:09:47Z",
+                "owner": "jamesdunay",
+                "repo": "MinimalTabBar",
+                "stars": 152
+              }
+            }
+          ],
+          "description": "Light way to add Fancy bottom bar 📲\nUITabBarController with swipe interaction between its tabs.\nOne another nice animated tabbar\nSwipe between ViewControllers like in the Spotify or Twitter app with an interactive Segmented Control in the Navigation Bar\nUnlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!\n:octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion\n™️ A powerful paging view controller with tab bar.\nSimple, beatiful and interactive UITabBar\nFolding Tab Bar and Tab Bar Controller\niOS UITabBar (controller) inspired by Google's Paper Material Design.\nnull",
+          "node_type": "group",
+          "title": "TabBar"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "StepSlider",
+              "description": "from spromicky:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44616396,
+                "language": "Objective-C",
+                "last_commit": "2021-06-15T10:27:43Z",
+                "owner": "spromicky",
+                "repo": "StepSlider",
+                "stars": 576
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KWStepper",
+              "description": "from kyleweiner:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25486638,
+                "language": "Swift",
+                "last_commit": "2019-11-04T06:07:25Z",
+                "owner": "kyleweiner",
+                "repo": "KWStepper",
+                "stars": 170
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MBCircularProgressBar",
+              "description": "from MatiBot:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39333020,
+                "language": "Objective-C",
+                "last_commit": "2024-05-07T16:14:39Z",
+                "owner": "MatiBot",
+                "repo": "MBCircularProgressBar",
+                "stars": 999
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GradientLoadingBar",
+              "description": "from fxm90:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 77480764,
+                "language": "Swift",
+                "last_commit": "2026-02-24T20:35:42Z",
+                "owner": "fxm90",
+                "repo": "GradientLoadingBar",
+                "stars": 893
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "StepProgressView",
+              "description": "from yonat:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30833334,
+                "language": "Swift",
+                "last_commit": "2024-11-01T14:21:02Z",
+                "owner": "yonat",
+                "repo": "StepProgressView",
+                "stars": 382
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ARSLineProgress",
+              "description": "from soberman:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 50310775,
+                "language": "Swift",
+                "last_commit": "2021-12-02T10:38:15Z",
+                "owner": "soberman",
+                "repo": "ARSLineProgress",
+                "stars": 491
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SSSpinnerButton",
+              "description": "from simformsolutions:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 136161323,
+                "language": "Swift",
+                "last_commit": "2024-10-22T06:48:40Z",
+                "owner": "SimformSolutionsPvtLtd",
+                "repo": "SSSpinnerButton",
+                "stars": 450
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GradientCircularProgress",
+              "description": "from keygx:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37773517,
+                "language": "Swift",
+                "last_commit": "2021-08-26T12:08:20Z",
+                "owner": "keygx",
+                "repo": "GradientCircularProgress",
+                "stars": 545
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DockProgress",
+              "description": "from sindresorhus:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 123488065,
+                "language": "Swift",
+                "last_commit": "2026-01-25T06:44:12Z",
+                "owner": "sindresorhus",
+                "repo": "DockProgress",
+                "stars": 1354
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CircularProgress",
+              "description": "from sindresorhus:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153606623,
+                "language": "Swift",
+                "last_commit": "2024-02-20T07:32:46Z",
+                "owner": "sindresorhus",
+                "repo": "CircularProgress",
+                "stars": 578
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RSLoadingView",
+              "description": "from roytornado:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91672266,
+                "language": "Swift",
+                "last_commit": "2019-04-26T02:39:32Z",
+                "owner": "roytornado",
+                "repo": "RSLoadingView",
+                "stars": 415
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RetroProgress",
+              "description": "from hyperoslo:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 146290532,
+                "language": "Swift",
+                "last_commit": "2018-08-27T11:48:14Z",
+                "owner": "hyperoslo",
+                "repo": "RetroProgress",
+                "stars": 18
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MRProgress",
+              "description": "from mrackwitz:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13838338,
+                "language": "Objective-C",
+                "last_commit": "2023-10-15T14:41:59Z",
+                "owner": "mrackwitz",
+                "repo": "MRProgress",
+                "stars": 2526
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GaugeKit",
+              "description": "from skywinder:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 37714997,
+                "language": "Swift",
+                "last_commit": "2022-04-10T17:09:05Z",
+                "owner": "skywinder",
+                "repo": "GaugeKit",
+                "stars": 1022
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "NVActivityIndicatorView",
+              "description": "from ninjaprox:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39452201,
+                "language": "Swift",
+                "last_commit": "2026-03-18T02:19:26Z",
+                "owner": "ninjaprox",
+                "repo": "NVActivityIndicatorView",
+                "stars": 10708
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "UzysAnimatedGifPullToRefresh",
+              "description": "from uzysjung:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19225410,
+                "language": "Objective-C",
+                "last_commit": "2016-07-07T23:05:07Z",
+                "owner": "uzysjung",
+                "repo": "UzysAnimatedGifPullToRefresh",
+                "stars": 1396
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FFCircularProgressView",
+              "description": "from elbryan:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 11455172,
+                "language": "Objective-C",
+                "last_commit": "2018-01-25T08:51:29Z",
+                "owner": "fabianofrancesconi",
+                "repo": "FFCircularProgressView",
+                "stars": 988
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "M13ProgressSuite",
+              "description": "from Marxon13:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15401421,
+                "language": "Objective-C",
+                "last_commit": "2022-03-05T18:27:43Z",
+                "owner": "Marxon13",
+                "repo": "M13ProgressSuite",
+                "stars": 3900
+              }
+            }
+          ],
+          "description": "StepSlider its custom implementation of slider such as UISlider for preset integer values.\nA stepper control with flexible UI and tailored UX.\nA circular, animatable & highly customizable progress bar from the Interface Builder (Objective-C)\nA customizable animated gradient loading bar.\nStep-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.\nA simple animated progress bar in Swift\niOS progress bar, replacement for the default activity indicator.\nForget about typical stereotypic loading, It's time to change. SSSpinnerButton is an elegant button with a diffrent spinner animations.\nCustomizable progress indicator library in Swift\nShow progress in your app's Dock icon\nCircular progress indicator for your macOS app\nAwesome loading animations using 3D engine written with Swift\n💈 Retro looking progress bar straight from the 90s\nCollection of iOS drop-in components to visualize progress\nKit for building custom gauges + easy reproducible Apple's style ring gauges.\nA collection of awesome loading animations\nAdd PullToRefresh using animated GIF to any scrollView with just simple code\nFFCircularProgressView - An iOS 7-inspired blue circular progress view\nA suite containing many tools to display progress information on iOS.",
+          "node_type": "group",
+          "title": "Progress"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SOPullUpView",
+              "description": "from Ahmadalsofi:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 225613456,
+                "language": "Swift",
+                "last_commit": "2020-01-01T14:28:37Z",
+                "owner": "Ahmadalsofi",
+                "repo": "SOPullUpView",
+                "stars": 195
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PullableSheet",
+              "description": "from tattn:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 142321576,
+                "language": "Swift",
+                "last_commit": "2019-10-14T11:55:56Z",
+                "owner": "tattn",
+                "repo": "PullableSheet",
+                "stars": 66
+              }
+            }
+          ],
+          "description": "SOPullUpView library for iOS, with pull up gesture 📱🖐️↕️*\nPullable sheet like a default map app or bottom sheets (Android).",
+          "node_type": "group",
+          "title": "Sheet"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FlowingMenu",
+              "description": "from yannickl:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47339035,
+                "language": "Swift",
+                "last_commit": "2019-10-09T07:52:00Z",
+                "owner": "yannickl",
+                "repo": "FlowingMenu",
+                "stars": 971
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PinterestSegment",
+              "description": "from TBXark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 75727869,
+                "language": "Swift",
+                "last_commit": "2024-08-21T09:12:28Z",
+                "owner": "tbxark",
+                "repo": "PinterestSegment",
+                "stars": 695
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FTPopOverMenu_Swift",
+              "description": "from liufengting:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73904127,
+                "language": "Swift",
+                "last_commit": "2023-11-10T07:05:40Z",
+                "owner": "liufengting",
+                "repo": "FTPopOverMenu_Swift",
+                "stars": 439
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PopMenu",
+              "description": "from CaliCastle:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 129322624,
+                "language": "Swift",
+                "last_commit": "2024-03-12T06:52:56Z",
+                "owner": "CaliCastle",
+                "repo": "PopMenu",
+                "stars": 1691
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "GuillotineMenu",
+              "description": "from Yalantis:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33919573,
+                "language": "Swift",
+                "last_commit": "2020-04-13T12:49:18Z",
+                "owner": "Yalantis",
+                "repo": "GuillotineMenu",
+                "stars": 2881
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwipeMenuViewController",
+              "description": "from yysskk:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95869769,
+                "language": "Swift",
+                "last_commit": "2026-07-23T21:58:21Z",
+                "owner": "yysskk",
+                "repo": "SwipeMenuViewController",
+                "stars": 1279
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "XLActionController",
+              "description": "from xmartlabs:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 47781142,
+                "language": "Swift",
+                "last_commit": "2023-03-17T21:29:18Z",
+                "owner": "xmartlabs",
+                "repo": "XLActionController",
+                "stars": 3301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "YNDropDownMenu",
+              "description": "from younatics:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82458708,
+                "language": "Swift",
+                "last_commit": "2026-07-07T23:52:48Z",
+                "owner": "younatics",
+                "repo": "YNDropDownMenu",
+                "stars": 1329
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Panels",
+              "description": "from antoniocasero:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 144263731,
+                "language": "Swift",
+                "last_commit": "2020-02-05T21:42:25Z",
+                "owner": "antoniocasero",
+                "repo": "Panels",
+                "stars": 1489
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SideMenu",
+              "description": "from jonkykong:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 48572197,
+                "language": "Swift",
+                "last_commit": "2023-02-09T09:07:10Z",
+                "owner": "jonkykong",
+                "repo": "SideMenu",
+                "stars": 5816
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MediumMenu",
+              "description": "from pixyzehn:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 30140907,
+                "language": "Swift",
+                "last_commit": "2019-03-27T18:05:13Z",
+                "owner": "pixyzehn",
+                "repo": "MediumMenu",
+                "stars": 314
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Hexacon",
+              "description": "from gautier-gdx:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 53795349,
+                "language": "Swift",
+                "last_commit": "2024-06-16T21:22:06Z",
+                "owner": "gautier-gdx",
+                "repo": "Hexacon",
+                "stars": 348
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ENSwiftSideMenu",
+              "description": "from evnaz:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22571389,
+                "language": "Swift",
+                "last_commit": "2020-04-22T09:23:30Z",
+                "owner": "devgenios",
+                "repo": "ENSwiftSideMenu",
+                "stars": 1801
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "XLPagerTabStrip",
+              "description": "from xmartlabs:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 28266028,
+                "language": "Swift",
+                "last_commit": "2023-11-22T13:34:09Z",
+                "owner": "xmartlabs",
+                "repo": "XLPagerTabStrip",
+                "stars": 6999
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MediumScrollFullScreen",
+              "description": "from pixyzehn:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 30741342,
+                "language": "Swift",
+                "last_commit": "2017-11-04T10:54:21Z",
+                "owner": "pixyzehn",
+                "repo": "MediumScrollFullScreen",
+                "stars": 533
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AKSwiftSlideMenu",
+              "description": "from ashishkakkad8:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43041782,
+                "language": "Swift",
+                "last_commit": "2019-10-14T17:13:41Z",
+                "owner": "ashishkakkad8",
+                "repo": "AKSwiftSlideMenu",
+                "stars": 283
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RESideMenu",
+              "description": "from romaonthego:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10740728,
+                "language": "Objective-C",
+                "last_commit": "2017-12-05T17:29:00Z",
+                "owner": "romaonthego",
+                "repo": "RESideMenu",
+                "stars": 7039
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "cariocamenu",
+              "description": "from arn00s:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 43246154,
+                "language": "Swift",
+                "last_commit": "2020-04-06T07:23:32Z",
+                "owner": "zigzagg16",
+                "repo": "cariocamenu",
+                "stars": 776
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "REFrostedViewController",
+              "description": "from romaonthego:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12928754,
+                "language": "Objective-C",
+                "last_commit": "2022-10-13T07:20:15Z",
+                "owner": "romaonthego",
+                "repo": "REFrostedViewController",
+                "stars": 2935
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TWTSideMenuViewController",
+              "description": "from twotoasters:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12407285,
+                "language": "Objective-C",
+                "last_commit": "2014-09-26T17:00:18Z",
+                "owner": "twotoasters",
+                "repo": "TWTSideMenuViewController",
+                "stars": 842
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AMSlideMenu",
+              "description": "from arturdev:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15450276,
+                "language": "Swift",
+                "last_commit": "2024-08-31T18:51:13Z",
+                "owner": "matghazaryan",
+                "repo": "AMSlideMenu2",
+                "stars": 1193
+              }
+            }
+          ],
+          "description": "Interactive view transition to display menus with flowing and bouncing effects in Swift\nA Pinterest-like segment control with masking animation.\nFTPopOverMenu_Swift, swift version of FTPopOverMenu. FTPopOverMenu is a pop over menu for iOS which is maybe the easiest one to use. Supports both portrait and landscape. It can show from any UIView, any UIBarButtonItem and any CGRect.\nA cool and customizable popup style action sheet for iOS 😎\nOur Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.\nSwipable tab and menu View and ViewController.\nFully customizable and extensible action sheet controller written in Swift\n✨ Awesome Dropdown menu for iOS with Swift 4\nPanels is a framework to easily add sliding panels to your application\nSimple side menu control for iOS, no code necessary! Lots of customization. Add it to your project in 5 minutes or less.\nA menu based on Medium iOS app.\nA fancy hexagonal layout for displaying data like your Apple Watch\n*A simple side menu for iOS written in Swift. *\nAndroid PagerTabStrip for iOS.\nMedium's upper and lower Menu in Scroll.\nSlide Menu (Drawer) in Swift 4 - Xcode 9 - iOS 11\niOS 7/8 style side menu with parallax effect.\nThe fastest zero-tap iOS menu.\niOS 7/8 style blurred view controller that appears on top of your view controller.\nSide Menus for iOS 7\nSliding Menu for iOS (Left and Right menus). Multiple storyboards and XIBs support.",
+          "node_type": "group",
+          "title": "Menu"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MKToolTip",
+              "description": "from metinkilicaslan:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 141012404,
+                "language": "Swift",
+                "last_commit": "2022-01-27T19:44:06Z",
+                "owner": "metinkilicaslan",
+                "repo": "MKToolTip",
+                "stars": 157
+              }
+            }
+          ],
+          "description": "MKToolTip is a customizable tooltip view written in Swift that can be used as a informative tip",
+          "node_type": "group",
+          "title": "Tooltip"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MPParallaxView",
+              "description": "from DroidsOnRoids:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 45781894,
+                "language": "Swift",
+                "last_commit": "2018-06-14T12:29:08Z",
+                "owner": "DroidsOnRoids",
+                "repo": "MPParallaxView",
+                "stars": 1734
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MXParallaxHeader",
+              "description": "from maxep:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 45129018,
+                "language": "Objective-C",
+                "last_commit": "2021-09-14T02:56:31Z",
+                "owner": "maxep",
+                "repo": "MXParallaxHeader",
+                "stars": 1739
+              }
+            }
+          ],
+          "description": "Apple TV Parallax effect in Swift.\nSimple parallax header for UIScrollView",
+          "node_type": "group",
+          "title": "Parallax"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "StackViewController",
+              "description": "from seedco:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56003806,
+                "language": "Swift",
+                "last_commit": "2021-10-06T15:35:38Z",
+                "owner": "seedco",
+                "repo": "StackViewController",
+                "stars": 866
+              }
+            }
+          ],
+          "description": "A controller that uses a UIStackView and view controller composition to display content in a list",
+          "node_type": "group",
+          "title": "Stack"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SwiftyShadow",
+              "description": "from noblakit01:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 96878625,
+                "language": "Swift",
+                "last_commit": "2019-09-07T17:50:10Z",
+                "owner": "noblakit01",
+                "repo": "SwiftyShadow",
+                "stars": 63
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ShadowView",
+              "description": "from PierrePerrin:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98349346,
+                "language": "Swift",
+                "last_commit": "2024-08-29T15:01:07Z",
+                "owner": "PierrePerrin",
+                "repo": "ShadowView",
+                "stars": 413
+              }
+            }
+          ],
+          "description": "Helper Shadow Path for UIView in Swift iOS\nAn iOS Library that makes shadows management easy on UIView.",
+          "node_type": "group",
+          "title": "Shadow"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "SwiftOverlays",
+              "description": "from peterprokop:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25295273,
+                "language": "Swift",
+                "last_commit": "2018-09-19T13:58:29Z",
+                "owner": "peterprokop",
+                "repo": "SwiftOverlays",
+                "stars": 627
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PKHUD",
+              "description": "from pkluz:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20951559,
+                "language": "Swift",
+                "last_commit": "2023-02-16T17:26:12Z",
+                "owner": "pkluz",
+                "repo": "PKHUD",
+                "stars": 3776
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CFNotify",
+              "description": "from hallelujahbaby:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 73270525,
+                "language": "Swift",
+                "last_commit": "2024-05-22T07:20:21Z",
+                "owner": "JT501",
+                "repo": "SwiftNotify",
+                "stars": 502
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CDAlertView",
+              "description": "from candostdagdeviren:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 72364882,
+                "language": "Swift",
+                "last_commit": "2026-08-20T09:43:28Z",
+                "owner": "candostdagdeviren",
+                "repo": "CDAlertView",
+                "stars": 1136
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CRToast",
+              "description": "from cruffenach:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16788636,
+                "language": "Objective-C",
+                "last_commit": "2024-05-02T19:59:52Z",
+                "owner": "cruffenach",
+                "repo": "CRToast",
+                "stars": 4125
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JFMinimalNotifications",
+              "description": "from atljeremy:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9871647,
+                "language": "Swift",
+                "last_commit": "2024-09-30T14:59:22Z",
+                "owner": "atljeremy",
+                "repo": "JFMinimalNotifications",
+                "stars": 934
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TSMessages",
+              "description": "from KrauseFx:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 9421282,
+                "language": "Objective-C",
+                "last_commit": "2023-06-01T11:22:32Z",
+                "owner": "KrauseFx",
+                "repo": "TSMessages",
+                "stars": 4842
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "LNNotificationsUI",
+              "description": "from LeoNatan:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 23719473,
+                "language": "Objective-C",
+                "last_commit": "2017-10-02T05:44:55Z",
+                "owner": "LeoNatan",
+                "repo": "LNNotificationsUI",
+                "stars": 783
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TWMessageBarManager",
+              "description": "from terryworona:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10044221,
+                "language": "Objective-C",
+                "last_commit": "2018-09-17T01:38:44Z",
+                "owner": "terryworona",
+                "repo": "TWMessageBarManager",
+                "stars": 1754
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RKDropdownAlert",
+              "description": "from cwRichardKim:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21945852,
+                "language": "Objective-C",
+                "last_commit": "2017-04-16T20:15:17Z",
+                "owner": "cwRichardKim",
+                "repo": "RKDropdownAlert",
+                "stars": 1528
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RKNotificationHub",
+              "description": "from cwRichardKim:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24688259,
+                "language": "Objective-C",
+                "last_commit": "2018-11-02T16:54:46Z",
+                "owner": "cwRichardKim",
+                "repo": "RKNotificationHub",
+                "stars": 3033
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Notie",
+              "description": "from thii:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 46536182,
+                "language": "Swift",
+                "last_commit": "2017-05-28T08:40:28Z",
+                "owner": "thii",
+                "repo": "Notie",
+                "stars": 84
+              }
+            }
+          ],
+          "description": "SwiftOverlays is a Swift GUI library for displaying various popups and notifications\nA Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.\nA customizable framework to create draggable views\nHighly customizable alertview and alert/notification/success/error/alarm popup written in Swift\nA modern iOS toast view that can fit your notification needs\nAn iOS UIView for presenting a minimalistic notification that doesn't block the UI and is highly configurable.\n💌 Easy to use and customizable messages/notifications for iOS à la Tweetbot\nA framework for displaying notifications similar to Apple's iOS 8 and iOS 9 notifications.\nAn iOS manager for presenting system-wide notifications via a dropdown message bar.\niOS / Objective C: an extremely simple UIAlertView alternative\nMake any UIView a full fledged notification center\nIn-app notification in Swift, with customizable buttons and input text field.",
+          "node_type": "group",
+          "title": "Notification"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CollectionViewWaterfallLayout",
+              "description": "from ecerney:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 22166444,
+                "language": "Swift",
+                "last_commit": "2020-12-22T09:42:43Z",
+                "owner": "ecerney",
+                "repo": "CollectionViewWaterfallLayout",
+                "stars": 489
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CheckmarkCollectionViewCell",
+              "description": "from yonat:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 152083083,
+                "language": "Swift",
+                "last_commit": "2024-11-01T14:04:15Z",
+                "owner": "yonat",
+                "repo": "CheckmarkCollectionViewCell",
+                "stars": 67
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CampcotCollectionView",
+              "description": "from touchlane:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 118919561,
+                "language": "Swift",
+                "last_commit": "2022-06-15T16:02:20Z",
+                "owner": "touchlane",
+                "repo": "CampcotCollectionView",
+                "stars": 187
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ASCollectionView",
+              "description": "from abdullahselek:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 62951582,
+                "language": "Swift",
+                "last_commit": "2024-05-14T10:48:00Z",
+                "owner": "abdullahselek",
+                "repo": "ASCollectionView",
+                "stars": 368
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ZKCarousel",
+              "description": "from ZacharyKhan:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 93910459,
+                "language": "Swift",
+                "last_commit": "2021-09-07T19:03:20Z",
+                "owner": "ZacharyKhan",
+                "repo": "ZKCarousel",
+                "stars": 290
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MEVHorizontalContacts",
+              "description": "from manuelescrig:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 56929973,
+                "language": "Objective-C",
+                "last_commit": "2016-08-25T16:10:34Z",
+                "owner": "manuelescrig",
+                "repo": "MEVHorizontalContacts",
+                "stars": 351
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CenteredCollectionView",
+              "description": "from ananthbh:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 155564523,
+                "language": "Swift",
+                "last_commit": "2018-10-29T14:21:53Z",
+                "owner": "ananthbh",
+                "repo": "CenteredCollectionView",
+                "stars": 2
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwiftSpreadsheet",
+              "description": "from stuffrabbit:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 85993885,
+                "language": "Swift",
+                "last_commit": "2019-10-15T20:14:45Z",
+                "owner": "stuffrabbit",
+                "repo": "SwiftSpreadsheet",
+                "stars": 637
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ShelfView-iOS",
+              "description": "from tdscientist:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 104583433,
+                "language": "Swift",
+                "last_commit": "2019-01-01T02:06:13Z",
+                "owner": "tdscientist",
+                "repo": "ShelfView-iOS",
+                "stars": 268
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CollectionViewSlantedLayout",
+              "description": "from yacir:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 52832181,
+                "language": "Swift",
+                "last_commit": "2021-05-01T03:13:05Z",
+                "owner": "yacir",
+                "repo": "CollectionViewSlantedLayout",
+                "stars": 2339
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AZCollectionViewController",
+              "description": "from AfrozZaheer:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 116807138,
+                "language": "Swift",
+                "last_commit": "2020-04-17T11:32:24Z",
+                "owner": "AfrozZaheer",
+                "repo": "AZCollectionViewController",
+                "stars": 95
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MosaicLayout",
+              "description": "from betzerra:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 8244865,
+                "language": "Objective-C",
+                "last_commit": "2017-04-18T14:53:50Z",
+                "owner": "betzerra",
+                "repo": "MosaicLayout",
+                "stars": 504
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "RAReorderableLayout",
+              "description": "from ra1028:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 27481750,
+                "language": "Swift",
+                "last_commit": "2019-03-29T01:57:32Z",
+                "owner": "ra1028",
+                "repo": "RAReorderableLayout",
+                "stars": 865
+              }
+            }
+          ],
+          "description": "Pinterest inspired layout for UICollectionViews\nUICollectionViewCell with checkbox when it isSelected and empty circle when not - like Photos.app \"Select\" mode.\nCollapse and expand UICollectionView sections with one method call.\nA Swift collection view inspired by Airbnb.\nA simple carousel implementation written in Swift\nAn iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable items.\nA lightweight UICollectionViewLayout that 'pages' and centers its cells 🎡 written in Swift\nSpreadsheet CollectionViewLayout in Swift. Fully customizable. 🔶\niOS custom view to display books on shelf\nUICollectionViewLayout to display slanted content\nEasy way to integrate pagination with dummy views in CollectionView, make Instagram \"Discover\" within minutes.*\nMosaicLayout using UICollectionViews\nA UICollectionView layout whitch can move item with drag and drop.",
+          "node_type": "group",
+          "title": "CollectionView"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RMActionController",
+              "description": "from CooperRS:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 35449702,
+                "language": "Objective-C",
+                "last_commit": "2022-10-30T10:22:12Z",
+                "owner": "CooperRS",
+                "repo": "RMActionController",
+                "stars": 532
+              }
+            }
+          ],
+          "description": "This is an iOS control for presenting any UIView in an UIAlertController like manner",
+          "node_type": "group",
+          "title": "Alert"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "KGFloatingDrawer",
+              "description": "from KyleGoddard:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31509640,
+                "language": "Swift",
+                "last_commit": "2019-08-28T00:31:51Z",
+                "owner": "KyleGoddard",
+                "repo": "KGFloatingDrawer",
+                "stars": 496
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SAHistoryNavigationViewController",
+              "description": "from marty-suzuki:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 32909821,
+                "language": "Swift",
+                "last_commit": "2017-10-31T16:46:23Z",
+                "owner": "marty-suzuki",
+                "repo": "SAHistoryNavigationViewController",
+                "stars": 1555
+              }
+            }
+          ],
+          "description": "A floating navigation drawer with an interesting animated presentation written in Swift.\nSAHistoryNavigationViewController realizes iOS task manager like UI in UINavigationContoller. Support 3D Touch!",
+          "node_type": "group",
+          "title": "Navigation"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BSChart",
+              "description": "from iBlacksus:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 196371112,
+                "language": "Swift",
+                "last_commit": "2019-08-03T07:40:26Z",
+                "owner": "iBlacksus",
+                "repo": "BSChart",
+                "stars": 186
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JYRadarChart",
+              "description": "from johnnywjy:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14020743,
+                "language": "Objective-C",
+                "last_commit": "2018-08-20T21:18:43Z",
+                "owner": "johnnywjy",
+                "repo": "JYRadarChart",
+                "stars": 420
+              }
+            }
+          ],
+          "description": "BSChart is a simple and useful chart library written on Swift\nan iOS open source Radar Chart implementation",
+          "node_type": "group",
+          "title": "Chart"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "tispr-card-stack",
+              "description": "from tispr:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39101285,
+                "language": "Swift",
+                "last_commit": "2022-01-28T10:34:37Z",
+                "owner": "tispr",
+                "repo": "tispr-card-stack",
+                "stars": 849
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PresentCardScroller",
+              "description": "from presentco:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 153325799,
+                "language": "Swift",
+                "last_commit": "2018-10-17T20:57:01Z",
+                "owner": "presentco",
+                "repo": "PresentCardScroller",
+                "stars": 31
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "HFCardCollectionViewLayout",
+              "description": "from hfrahmann:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 72861638,
+                "language": "Swift",
+                "last_commit": "2019-03-10T10:22:09Z",
+                "owner": "hfrahmann",
+                "repo": "HFCardCollectionViewLayout",
+                "stars": 301
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CardStackView",
+              "description": "from gomfucius:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 98113263,
+                "language": "Swift",
+                "last_commit": "2020-11-07T03:09:45Z",
+                "owner": "gomfucius",
+                "repo": "CardStackView",
+                "stars": 46
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Koloda",
+              "description": "from Yalantis:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38444110,
+                "language": "Swift",
+                "last_commit": "2024-05-29T20:58:30Z",
+                "owner": "Yalantis",
+                "repo": "Koloda",
+                "stars": 5395
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Cards",
+              "description": "from PaoloCuscela:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 106450214,
+                "language": "Swift",
+                "last_commit": "2023-04-19T07:22:40Z",
+                "owner": "PaoloCuscela",
+                "repo": "Cards",
+                "stars": 4202
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VerticalCardSwiper",
+              "description": "from JoniVR:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99737934,
+                "language": "Swift",
+                "last_commit": "2023-10-02T02:43:50Z",
+                "owner": "JoniVR",
+                "repo": "VerticalCardSwiper",
+                "stars": 1535
+              }
+            }
+          ],
+          "description": "Swipe able, customizable card stack view, Tinder like card stack view based on UICollectionView. Cards UI\nA Pretty Card Scrolling UI in Swift\nThe HFCardCollectionViewLayout provides a card stack layout not quite similar like the apps Reminder and Wallet.\nInifinite swipeable stacked UIViews.\n*KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. *\nAwesome iOS 11 appstore cards in swift 4.\nA marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.\nWallet is a library to manage cards and passes.",
+          "node_type": "group",
+          "title": "Cards"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PanModal",
+              "description": "from slackhq:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 172612842,
+                "language": "Swift",
+                "last_commit": "2025-11-03T13:07:25Z",
+                "owner": "slackhq",
+                "repo": "PanModal",
+                "stars": 3778
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KLCPopup",
+              "description": "from jmascia:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21134189,
+                "language": "Objective-C",
+                "last_commit": "2019-07-14T19:45:06Z",
+                "owner": "jmascia",
+                "repo": "KLCPopup",
+                "stars": 1679
+              }
+            }
+          ],
+          "description": "An elegant and highly customizable presentation API for constructing bottom sheet modals on iOS.\nA simple and flexible class for presenting custom views as a popup in iOS.",
+          "node_type": "group",
+          "title": "Dialog"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PARTagPicker",
+              "description": "from paulrolfe:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 39965302,
+                "language": "Objective-C",
+                "last_commit": "2019-06-28T14:24:20Z",
+                "owner": "paulrolfe",
+                "repo": "PARTagPicker",
+                "stars": 367
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TagListView",
+              "description": "from ElaWorkshop:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 35350266,
+                "language": "Swift",
+                "last_commit": "2023-09-26T19:54:50Z",
+                "owner": "ElaWorkshop",
+                "repo": "TagListView",
+                "stars": 2670
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ActiveLabel.swift",
+              "description": "from optonaut:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41873203,
+                "language": "Swift",
+                "last_commit": "2023-10-27T10:15:57Z",
+                "owner": "optonaut",
+                "repo": "ActiveLabel.swift",
+                "stars": 4603
+              }
+            }
+          ],
+          "description": "This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.\nSimple and highly customizable iOS tag list view, in Swift.\nUILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift",
+          "node_type": "group",
+          "title": "Tags"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Preloader.Ophiuchus",
+              "description": "from Yalantis:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 32573260,
+                "language": "Objective-C",
+                "last_commit": "2020-06-04T19:45:48Z",
+                "owner": "Yalantis",
+                "repo": "Preloader.Ophiuchus",
+                "stars": 876
+              }
+            }
+          ],
+          "description": "Custom Label to apply animations on whole text or letters.",
+          "node_type": "group",
+          "title": "Label"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "HoneycombView",
+              "description": "from suzuki-0000:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40477450,
+                "language": "Swift",
+                "last_commit": "2016-03-23T01:31:48Z",
+                "owner": "suzuki-0000",
+                "repo": "HoneycombView",
+                "stars": 203
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CTPanoramaView",
+              "description": "from scihant:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 82519616,
+                "language": "Swift",
+                "last_commit": "2024-08-09T11:17:04Z",
+                "owner": "scihant",
+                "repo": "CTPanoramaView",
+                "stars": 1045
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ComplimentaryGradientView",
+              "description": "from gkye:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66331592,
+                "language": "Swift",
+                "last_commit": "2019-08-09T02:53:42Z",
+                "owner": "gkye",
+                "repo": "ComplimentaryGradientView",
+                "stars": 735
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "URWeatherView",
+              "description": "from jegumhon:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 88967109,
+                "language": "Swift",
+                "last_commit": "2019-01-07T11:50:57Z",
+                "owner": "Urtaq",
+                "repo": "URWeatherView",
+                "stars": 447
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "InitialsImageView",
+              "description": "from bachonk:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86189871,
+                "language": "Swift",
+                "last_commit": "2022-08-07T16:19:18Z",
+                "owner": "bachonk",
+                "repo": "InitialsImageView",
+                "stars": 216
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Lightbox",
+              "description": "from hyperoslo:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 38307869,
+                "language": "Swift",
+                "last_commit": "2024-08-27T11:36:10Z",
+                "owner": "hyperoslo",
+                "repo": "Lightbox",
+                "stars": 1744
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FLAnimatedImage",
+              "description": "from Flipboard:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19951534,
+                "language": "Objective-C",
+                "last_commit": "2024-03-21T10:45:04Z",
+                "owner": "Flipboard",
+                "repo": "FLAnimatedImage",
+                "stars": 7949
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "EBPhotoPages",
+              "description": "from EddyBorja:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 18456451,
+                "language": "Objective-C",
+                "last_commit": "2021-11-02T08:57:51Z",
+                "owner": "EddyBorja",
+                "repo": "EBPhotoPages",
+                "stars": 1624
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ASMediaFocusManager",
+              "description": "from autresphere:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 7561627,
+                "language": "Objective-C",
+                "last_commit": "2018-06-17T20:28:04Z",
+                "owner": "autresphere",
+                "repo": "ASMediaFocusManager",
+                "stars": 889
+              }
+            }
+          ],
+          "description": "*HoneycombView is the iOS UIView for displaying like Honeycomb layout written by swift *\nA library that displays spherical or cylindrical panoramas with touch or motion based controls.\nCreate complementary gradients generated from dominant and prominent colors in supplied image. Inspired by Grade.js\nShow the weather effects onto view written in Swift3\nA simple UIImageView extension for using initials as a profile image, written in swift\n:milky_way: A convenient and easy to use image viewer for your iOS app\nPerformant animated GIF engine for iOS\nA photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.\niOS library to animate your image and video thumbnails to fullscreen.",
+          "node_type": "group",
+          "title": "ImageView"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TKSwitcherCollection",
+              "description": "from TBXark:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44954946,
+                "language": "Swift",
+                "last_commit": "2024-08-21T09:13:19Z",
+                "owner": "tbxark",
+                "repo": "TKSwitcherCollection",
+                "stars": 916
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Switch",
+              "description": "from T-Pham:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 66821359,
+                "language": "Swift",
+                "last_commit": "2021-07-09T22:39:09Z",
+                "owner": "T-Pham",
+                "repo": "Switch",
+                "stars": 148
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MJMaterialSwitch",
+              "description": "from JaleelNazir:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 86032649,
+                "language": "Swift",
+                "last_commit": "2021-04-20T02:07:33Z",
+                "owner": "JaleelNazir",
+                "repo": "MJMaterialSwitch",
+                "stars": 70
+              }
+            }
+          ],
+          "description": "An animation switch collection\nAn iOS switch control implemented in Swift with full Interface Builder support.\nA Customizable Switch UI for iOS, Inspired from Google's Material Design in Swift",
+          "node_type": "group",
+          "title": "Toggle"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "panelkit",
+              "description": "from louisdh:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 82605180,
+                "language": "Swift",
+                "last_commit": "2019-02-18T15:50:26Z",
+                "owner": "louisdh",
+                "repo": "panelkit",
+                "stars": 3742
+              }
+            }
+          ],
+          "description": "A UI framework that enables panels on iOS.",
+          "node_type": "group",
+          "title": "Panel"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "Shift",
+              "description": "from kgellci:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 91874425,
+                "language": "Swift",
+                "last_commit": "2019-03-29T11:03:52Z",
+                "owner": "kgellci",
+                "repo": "Shift",
+                "stars": 185
+              }
+            }
+          ],
+          "description": "Animate gradient changes with time or motion for iOS Swift",
+          "node_type": "group",
+          "title": "Gradient"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PandoraPlayer",
+              "description": "from ApplikeySolutions:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 99690125,
+                "language": "Swift",
+                "last_commit": "2022-12-06T09:28:12Z",
+                "owner": "ApplikeySolutions",
+                "repo": "PandoraPlayer",
+                "stars": 1204
+              }
+            }
+          ],
+          "description": "🅿️ PandoraPlayer is a lightweight music player for iOS, based on AudioKit and completely written in Swift.",
+          "node_type": "group",
+          "title": "MediaPlayer"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "FloatRatingView",
+              "description": "from glenyi:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23744970,
+                "language": "Swift",
+                "last_commit": "2022-10-01T19:24:37Z",
+                "owner": "glenyi",
+                "repo": "FloatRatingView",
+                "stars": 545
+              }
+            }
+          ],
+          "description": "Whole, half or floating point ratings control written in Swift",
+          "node_type": "group",
+          "title": "Rating"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ForceBlur",
+              "description": "from Yalantis:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 70056233,
+                "language": "Swift",
+                "last_commit": "2019-10-02T11:35:49Z",
+                "owner": "Yalantis",
+                "repo": "ForceBlur",
+                "stars": 673
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "VisualEffectView",
+              "description": "from efremidze:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 59773356,
+                "language": "Swift",
+                "last_commit": "2025-12-29T02:58:55Z",
+                "owner": "efremidze",
+                "repo": "VisualEffectView",
+                "stars": 1416
+              }
+            }
+          ],
+          "description": "ForceBlur Animation for iOS Messaging Apps\nDynamic blur background view with tint color (UIVisualEffectView subclass) 📱",
+          "node_type": "group",
+          "title": "BlurEffect"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "TimelineTableViewCell",
+              "description": "from kf99916:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 71445099,
+                "language": "Swift",
+                "last_commit": "2025-11-12T04:10:53Z",
+                "owner": "kf99916",
+                "repo": "TimelineTableViewCell",
+                "stars": 1328
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "DateTimePicker",
+              "description": "from itsmeichigo:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 68283414,
+                "language": "Swift",
+                "last_commit": "2021-12-16T11:04:34Z",
+                "owner": "itsmeichigo",
+                "repo": "DateTimePicker",
+                "stars": 1856
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Workaholic",
+              "description": "from hemangshah:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 93401092,
+                "language": "Swift",
+                "last_commit": "2018-09-24T10:49:39Z",
+                "owner": "hemangshah",
+                "repo": "Workaholic",
+                "stars": 123
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CalendarKit",
+              "description": "from richardtop:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 44537782,
+                "language": "Swift",
+                "last_commit": "2026-07-06T02:52:46Z",
+                "owner": "richardtop",
+                "repo": "CalendarKit",
+                "stars": 2705
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JTCalendar",
+              "description": "from jonathantribouharet:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25935703,
+                "language": "Objective-C",
+                "last_commit": "2021-12-06T16:23:29Z",
+                "owner": "johnvuko",
+                "repo": "JTCalendar",
+                "stars": 2746
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FSCalendar",
+              "description": "from WenchaoD:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 30822337,
+                "language": "Objective-C",
+                "last_commit": "2024-08-10T13:44:15Z",
+                "owner": "WenchaoD",
+                "repo": "FSCalendar",
+                "stars": 10642
+              }
+            }
+          ],
+          "description": "Simple timeline view implemented by UITableViewCell\nA nicer iOS UI component for picking date and time\nA Github's like work contribution timeline. 🤸🏻\n📅 Fully customizable calendar for iOS\nA customizable calendar view for iOS.\nA fully customizable iOS calendar library, compatible with Objective-C and Swift",
+          "node_type": "group",
+          "title": "Calendar"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "WhatsNewKit",
+              "description": "from SvenTiigi:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 134316697,
+                "language": "Swift",
+                "last_commit": "2024-10-10T10:54:11Z",
+                "owner": "SvenTiigi",
+                "repo": "WhatsNewKit",
+                "stars": 4431
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "SwiftyWalkthrough",
+              "description": "from ruipfcosta:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 43432661,
+                "language": "Swift",
+                "last_commit": "2021-08-03T08:50:24Z",
+                "owner": "ruipfcosta",
+                "repo": "SwiftyWalkthrough",
+                "stars": 370
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BWWalkthrough",
+              "description": "from ariok:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 24189210,
+                "language": "Swift",
+                "last_commit": "2021-02-07T14:50:57Z",
+                "owner": "ariok",
+                "repo": "BWWalkthrough",
+                "stars": 2746
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AwesomeSpotlightView",
+              "description": "from aleksandrshoshiashvili:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 83096684,
+                "language": "Swift",
+                "last_commit": "2021-08-09T22:17:40Z",
+                "owner": "aleksandrshoshiashvili",
+                "repo": "AwesomeSpotlightView",
+                "stars": 321
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MYBlurIntroductionView",
+              "description": "from MatthewYork:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13638851,
+                "language": "Objective-C",
+                "last_commit": "2017-10-30T22:01:03Z",
+                "owner": "MatthewYork",
+                "repo": "MYBlurIntroductionView",
+                "stars": 1517
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Onboard",
+              "description": "from mamaral:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 23092866,
+                "language": "Objective-C",
+                "last_commit": "2025-01-01T20:58:29Z",
+                "owner": "mamaral",
+                "repo": "Onboard",
+                "stars": 6560
+              }
+            }
+          ],
+          "description": "Showcase your awesome new app features 📱\nThe easiest way to create a great walkthrough experience in your apps, powered by Swift.\nBWWalkthrough is a class to build custom walkthroughs for your iOS App\nAwesome tool for create tutorial walkthrough or coach tour\nA super-charged version of MYIntroductionView for building custom app introductions and tutorials.\nAn iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.",
+          "node_type": "group",
+          "title": "Introduction"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "STLocationRequest",
+              "description": "from SvenTiigi:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 47451857,
+                "language": "Swift",
+                "last_commit": "2020-02-22T18:46:37Z",
+                "owner": "SvenTiigi",
+                "repo": "STLocationRequest",
+                "stars": 639
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "FlyoverKit",
+              "description": "from SvenTiigi:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 122328184,
+                "language": "Swift",
+                "last_commit": "2023-05-15T06:29:57Z",
+                "owner": "SvenTiigi",
+                "repo": "FlyoverKit",
+                "stars": 712
+              }
+            }
+          ],
+          "description": "Request the Location Services via a 3D 360° flyover MKMapView 🗺\n360° flyover on an MKMapView 🚁",
+          "node_type": "group",
+          "title": "Map"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "NightNight",
+              "description": "from Draveness:",
+              "children": [],
+              "repo_info": {
+                "archived": true,
+                "id": 61882907,
+                "language": "Swift",
+                "last_commit": "2019-10-02T20:13:50Z",
+                "owner": "draveness",
+                "repo": "NightNight",
+                "stars": 770
+              }
+            }
+          ],
+          "description": "Elegant way to integrate night mode to swift projects",
+          "node_type": "group",
+          "title": "Style"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "PullToMakeSoup",
+              "description": "from Yalantis:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 36022896,
+                "language": "Objective-C",
+                "last_commit": "2019-03-18T23:02:00Z",
+                "owner": "Yalantis",
+                "repo": "PullToMakeSoup",
+                "stars": 1916
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BreakOutToRefresh",
+              "description": "from dasdom:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29458939,
+                "language": "Swift",
+                "last_commit": "2020-06-09T17:35:51Z",
+                "owner": "dasdom",
+                "repo": "BreakOutToRefresh",
+                "stars": 2472
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MGSpotyViewController",
+              "description": "from matteogobbi:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21236222,
+                "language": "Objective-C",
+                "last_commit": "2016-03-14T12:22:19Z",
+                "owner": "matteogobbi",
+                "repo": "MGSpotyViewController",
+                "stars": 1013
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "CBStoreHouseRefreshControl",
+              "description": "from coolbeet:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26176273,
+                "language": "Objective-C",
+                "last_commit": "2020-01-02T18:18:11Z",
+                "owner": "coolbeet",
+                "repo": "CBStoreHouseRefreshControl",
+                "stars": 3888
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "PullToRefreshCoreText",
+              "description": "from cemolcay:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 25304718,
+                "language": "Objective-C",
+                "last_commit": "2016-11-03T11:28:22Z",
+                "owner": "cemolcay",
+                "repo": "PullToRefreshCoreText",
+                "stars": 310
+              }
+            }
+          ],
+          "description": "Custom animated pull-to-refresh that can be easily added to UIScrollView\nPlay BreakOut while loading - A playable pull to refresh view using SpriteKit\nBeautiful viewController with a tableView and amazing effects like a viewController in the Spotify app.\nA pull-down-to-refresh control for iOS that plays pong, originally created for the MHacks III iOS app\nFully customizable pull-to-refresh control inspired by Storehouse iOS app\nPullToRefresh extension for all UIScrollView type classes with animated text drawing style",
+          "node_type": "group",
+          "title": "PullToRefresh"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "LiquidLoader",
+              "description": "from yoavlt:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 41285933,
+                "language": "Swift",
+                "last_commit": "2020-05-18T03:53:24Z",
+                "owner": "yoavlt",
+                "repo": "LiquidLoader",
+                "stars": 1325
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "KALoader",
+              "description": "from Kirillzzy:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 102890234,
+                "language": "Swift",
+                "last_commit": "2018-05-05T16:31:05Z",
+                "owner": "Kirillzzy",
+                "repo": "KALoader",
+                "stars": 108
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "Windless",
+              "description": "from Interactive-Studio:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 108301767,
+                "language": "Swift",
+                "last_commit": "2022-07-14T08:12:18Z",
+                "owner": "ParkGwangBeom",
+                "repo": "Windless",
+                "stars": 948
+              }
+            }
+          ],
+          "description": "Spinner loader components with liquid animation\nBeautiful animated placeholders for showing loading of data\nWindless makes it easy to implement invisible layout loading view.",
+          "node_type": "group",
+          "title": "Loading"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "reel-search",
+              "description": "from Ramotion:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 33299082,
+                "language": "Swift",
+                "last_commit": "2020-04-06T06:56:52Z",
+                "owner": "Ramotion",
+                "repo": "reel-search",
+                "stars": 2505
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "AGCircularPicker",
+              "description": "from agilie:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 95232657,
+                "language": "Swift",
+                "last_commit": "2018-05-21T10:33:12Z",
+                "owner": "agilie",
+                "repo": "AGCircularPicker",
+                "stars": 624
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "ActionSheetPicker-3.0",
+              "description": "from skywinder:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 19847812,
+                "language": "Objective-C",
+                "last_commit": "2026-06-12T02:33:07Z",
+                "owner": "skywinder",
+                "repo": "ActionSheetPicker-3.0",
+                "stars": 3381
+              }
+            }
+          ],
+          "description": ":octocat: 🔍 RAMReel is a UI controller that allows you to choose options from a list. Swift UI library made by @Ramotion\nAGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter\nQuickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.",
+          "node_type": "group",
+          "title": "Picker"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CardParts",
+              "description": "from intuit:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 133960164,
+                "language": "Swift",
+                "last_commit": "2022-02-24T08:09:57Z",
+                "owner": "intuit",
+                "repo": "CardParts",
+                "stars": 2514
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "TextFieldEffects",
+              "description": "from raulriera:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 29703101,
+                "language": "Swift",
+                "last_commit": "2024-01-28T17:53:51Z",
+                "owner": "raulriera",
+                "repo": "TextFieldEffects",
+                "stars": 6010
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JVFloatLabeledTextField",
+              "description": "from jverdi:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 13234786,
+                "language": "Objective-C",
+                "last_commit": "2023-04-17T14:38:05Z",
+                "owner": "jverdi",
+                "repo": "JVFloatLabeledTextField",
+                "stars": 7141
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MaterialKit",
+              "description": "from nghialv:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 26709811,
+                "language": "Swift",
+                "last_commit": "2020-11-24T15:54:07Z",
+                "owner": "nghialv",
+                "repo": "MaterialKit",
+                "stars": 2486
+              }
+            }
+          ],
+          "description": "A reactive, card-based UI framework built on UIKit for iOS developers.\nCustom UITextFields effects inspired by Codrops, built using Swift\nUITextField subclass with floating labels - inspired by Matt D. Smith's design: http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users\nMaterial design components for iOS written in Swift",
+          "node_type": "group",
+          "title": "Material"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "AMScrollingNavbar",
+              "description": "from andreamazz:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 14238862,
+                "language": "Swift",
+                "last_commit": "2023-04-13T02:27:58Z",
+                "owner": "andreamazz",
+                "repo": "AMScrollingNavbar",
+                "stars": 5994
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "BLKFlexibleHeightBar",
+              "description": "from bryankeller:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 31888842,
+                "language": "Objective-C",
+                "last_commit": "2019-05-09T03:53:33Z",
+                "owner": "bryankeller",
+                "repo": "BLKFlexibleHeightBar",
+                "stars": 3067
+              }
+            }
+          ],
+          "description": "Scrollable UINavigationBar that follows the scrolling of a UIScrollView\nCreate condensing header bars like those seen in the Facebook, Square Cash, and Safari iOS apps.",
+          "node_type": "group",
+          "title": "Bar"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "DSDynamicScrollView",
+              "description": "from damirstuhec:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 21347911,
+                "language": "Objective-C",
+                "last_commit": "2014-10-03T20:58:22Z",
+                "owner": "damirstuhec",
+                "repo": "DSDynamicScrollView",
+                "stars": 171
+              }
+            }
+          ],
+          "description": "iOS (Swift + Objective-C) component for building dynamic and animated UIScrollView.",
+          "node_type": "group",
+          "title": "ScrollView"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "RATreeView",
+              "description": "from Augustyniak:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 12526570,
+                "language": "Objective-C",
+                "last_commit": "2019-12-10T14:38:27Z",
+                "owner": "Augustyniak",
+                "repo": "RATreeView",
+                "stars": 2480
+              }
+            }
+          ],
+          "description": "Library providing easy-to-use interface for displaying tree structures on iOS and tvOS.",
+          "node_type": "group",
+          "title": "TreeView"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "mntpulltoreact",
+              "description": "from mentionapp:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 20191549,
+                "language": "Objective-C",
+                "last_commit": "2015-04-29T13:28:24Z",
+                "owner": "mentionapp",
+                "repo": "mntpulltoreact",
+                "stars": 767
+              }
+            }
+          ],
+          "description": "One gesture, many actions. An evolution of Pull to Refresh.",
+          "node_type": "group",
+          "title": "Gestures"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "MWPhotoBrowser",
+              "description": "from mwaterfall:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 1012503,
+                "language": "Objective-C",
+                "last_commit": "2024-06-27T12:38:19Z",
+                "owner": "mwaterfall",
+                "repo": "MWPhotoBrowser",
+                "stars": 8710
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "MHVideoPhotoGallery",
+              "description": "from mariohahn:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15737031,
+                "language": "Objective-C",
+                "last_commit": "2021-10-06T11:35:12Z",
+                "owner": "mariohahn",
+                "repo": "MHVideoPhotoGallery",
+                "stars": 1947
+              }
+            }
+          ],
+          "description": "A simple iOS photo and video browser with grid view, captions and selections.\n*A Photo and Video Gallery *",
+          "node_type": "group",
+          "title": "Gallery"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "VideoSplashKit",
+              "description": "from svtek:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 40215778,
+                "language": "Swift",
+                "last_commit": "2019-11-17T14:49:05Z",
+                "owner": "sahin",
+                "repo": "VideoSplashKit",
+                "stars": 1213
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "XCDYouTubeKit",
+              "description": "from 0xced:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 10132053,
+                "language": "Objective-C",
+                "last_commit": "2024-04-08T15:21:05Z",
+                "owner": "0xced",
+                "repo": "XCDYouTubeKit",
+                "stars": 2921
+              }
+            }
+          ],
+          "description": "VideoSplashKit - UIViewController library for creating easy intro pages with background videos\nYouTube video player for iOS, tvOS and macOS",
+          "node_type": "group",
+          "title": "Video"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "BBBadgeBarButtonItem",
+              "description": "from TanguyAladenise:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16626056,
+                "language": "Objective-C",
+                "last_commit": "2016-06-11T09:47:55Z",
+                "owner": "TanguyAladenise",
+                "repo": "BBBadgeBarButtonItem",
+                "stars": 949
+              }
+            },
+            {
+              "node_type": "item",
+              "title": "JSBadgeView",
+              "description": "from JaviSoto:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 5174929,
+                "language": "Objective-C",
+                "last_commit": "2020-09-12T12:27:10Z",
+                "owner": "JaviSoto",
+                "repo": "JSBadgeView",
+                "stars": 1281
+              }
+            }
+          ],
+          "description": "A BarButtonItem with a badge on top.\nCustomizable UIKit badge view like the one on applications in the iOS springboard.",
+          "node_type": "group",
+          "title": "Badge"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "CSStickyHeaderFlowLayout",
+              "description": "from CSStickyHeaderFlowLayout:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 15733881,
+                "language": "Objective-C",
+                "last_commit": "2021-07-17T09:11:42Z",
+                "owner": "CSStickyHeaderFlowLayout",
+                "repo": "CSStickyHeaderFlowLayout",
+                "stars": 5033
+              }
+            }
+          ],
+          "description": "UICollectionView replacement of UITableView. Do even more like Parallax Header, Sticky Section Header. Made for iOS 7.",
+          "node_type": "group",
+          "title": "Sticky"
+        },
+        {
+          "children": [
+            {
+              "node_type": "item",
+              "title": "ZSSRichTextEditor",
+              "description": "from nnhubbard:",
+              "children": [],
+              "repo_info": {
+                "archived": false,
+                "id": 16393248,
+                "language": "Objective-C",
+                "last_commit": "2021-09-07T17:08:31Z",
+                "owner": "nnhubbard",
+                "repo": "ZSSRichTextEditor",
+                "stars": 3782
+              }
+            }
+          ],
+          "description": "A beautiful rich text WYSIWYG editor for iOS with a syntax highlighted source view",
+          "node_type": "group",
+          "title": "RichText"
+        }
+      ],
+      "title": "By Category"
+    }
+  ],
   "metadata": {
-    "last_updated": "2026-08-24T02:36:33.531Z",
+    "last_updated": "2026-08-24T14:44:02.799Z",
     "original_repository": "v-braun/awesome-cocoa",
     "original_repository_id": 152143422,
     "original_repository_sha": "30f6dc7c3b297ef29485d4fcbc6028be4b46ede2",
