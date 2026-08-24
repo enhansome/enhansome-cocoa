@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,011 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,327 | 🐛 106 | 📅 2026-08-21
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -115,7 +115,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-**[BulletinBoard](https://github.com/alexisakers/BulletinBoard) ⭐ 5,339 | 🐛 48 | 🌐 Swift | 📅 2022-05-16**
+**[BulletinBoard](https://github.com/alexisakers/BulletinBoard) ⭐ 5,338 | 🐛 48 | 🌐 Swift | 📅 2022-05-16**
 *from [alexisakers](https://github.com/alexisakers):*
 
 > *General-purpose contextual cards for iOS*
@@ -197,7 +197,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *The Swift library for showing the rounded coach marks (useful for onboarding or run-time help purposes)*
 
-**[Hero](https://github.com/HeroTransitions/Hero) ⭐ 22,485 | 🐛 42 | 🌐 Swift | 📅 2025-01-23**
+**[Hero](https://github.com/HeroTransitions/Hero) ⭐ 22,486 | 🐛 42 | 🌐 Swift | 📅 2025-01-23**
 *from [HeroTransitions](https://github.com/HeroTransitions):*
 
 > *Elegant transition library for iOS & tvOS*
@@ -299,7 +299,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A rubber animation pagecontrol*
 
-**[FlexiblePageControl](https://github.com/shima11/FlexiblePageControl) ⭐ 796 | 🐛 16 | 🌐 Swift | 📅 2023-09-14**
+**[FlexiblePageControl](https://github.com/shima11/FlexiblePageControl) ⭐ 795 | 🐛 16 | 🌐 Swift | 📅 2023-09-14**
 *from [shima11](https://github.com/shima11):*
 
 > *A flexible UIPageControl like Instagram.*
@@ -321,7 +321,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Simple timeline view written in Swift 3*
 
-**[SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) ⭐ 6,284 | 🐛 77 | 🌐 Swift | 📅 2024-05-19**
+**[SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) ⭐ 6,283 | 🐛 77 | 🌐 Swift | 📅 2024-05-19**
 *from [SwipeCellKit](https://github.com/SwipeCellKit):*
 
 > *Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.*
@@ -351,7 +351,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *↕️ VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9.*
 
-**[folding-cell](https://github.com/Ramotion/folding-cell) ⭐ 10,182 | 🐛 12 | 🌐 Swift | 📅 2024-04-28**
+**[folding-cell](https://github.com/Ramotion/folding-cell) ⭐ 10,181 | 🐛 12 | 🌐 Swift | 📅 2024-04-28**
 *from [Ramotion](https://github.com/Ramotion):*
 
 > *:octocat: 📃 FoldingCell is an expanding content cell with animation inspired by folding paper card material design. Swift UI Library by @Ramotion*
@@ -390,7 +390,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *📝 The next in the generations of 'growing textviews' optimized for iOS 8 and above.*
 
-**[CreditCardForm-iOS](https://github.com/orazz/CreditCardForm-iOS) ⭐ 1,464 | 🐛 6 | 🌐 Swift | 📅 2020-05-30**
+**[CreditCardForm-iOS](https://github.com/orazz/CreditCardForm-iOS) ⭐ 1,463 | 🐛 6 | 🌐 Swift | 📅 2020-05-30**
 *from [orazz](https://github.com/orazz):*
 
 > *CreditCardForm is iOS framework that allows developers to create the UI which replicates an actual Credit Card.*
@@ -405,7 +405,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Lightweight library to set an Image as text background. Written in swift.*
 
-**[NumberMorphView](https://github.com/me-abhinav/NumberMorphView) ⭐ 1,583 | 🐛 4 | 🌐 Swift | 📅 2017-12-04**
+**[NumberMorphView](https://github.com/me-abhinav/NumberMorphView) ⭐ 1,582 | 🐛 4 | 🌐 Swift | 📅 2017-12-04**
 *from [me-abhinav](https://github.com/me-abhinav):*
 
 > *A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.*
@@ -457,7 +457,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Popup
 
-**[BulletinBoard](https://github.com/alexisakers/BulletinBoard) ⭐ 5,339 | 🐛 48 | 🌐 Swift | 📅 2022-05-16**
+**[BulletinBoard](https://github.com/alexisakers/BulletinBoard) ⭐ 5,338 | 🐛 48 | 🌐 Swift | 📅 2022-05-16**
 *from [alexisakers](https://github.com/alexisakers):*
 
 > *General-purpose contextual cards for iOS*
@@ -500,7 +500,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Easily customizable floating button menu created with SwiftUI*
 
-**[PMSuperButton](https://github.com/pmusolino/PMSuperButton) ⭐ 722 | 🐛 7 | 🌐 Swift | 📅 2023-03-07**
+**[PMSuperButton](https://github.com/pmusolino/PMSuperButton) ⭐ 721 | 🐛 7 | 🌐 Swift | 📅 2023-03-07**
 *from [pmusolino](https://github.com/pmusolino):*
 
 > *🔥 PMSuperButton is a powerful UIButton coming from the countryside, but with super powers! 😎*
@@ -515,7 +515,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Animated Play and Pause Button written in Swift, using CALayer, CAKeyframeAnimation.*
 
-**[TransitionButton](https://github.com/AladinWay/TransitionButton) ⭐ 1,472 | 🐛 20 | 🌐 Swift | 📅 2022-09-05**
+**[TransitionButton](https://github.com/AladinWay/TransitionButton) ⭐ 1,473 | 🐛 20 | 🌐 Swift | 📅 2022-09-05**
 *from [AladinWay](https://github.com/AladinWay):*
 
 > *UIButton sublass for loading and transition animation.*
@@ -567,12 +567,12 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!*
 
-**[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) ⭐ 11,089 | 🐛 17 | 🌐 Swift | 📅 2022-01-26**
+**[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) ⭐ 11,088 | 🐛 17 | 🌐 Swift | 📅 2022-01-26**
 *from [Ramotion](https://github.com/Ramotion):*
 
 > *:octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion*
 
-**[Tabman](https://github.com/uias/Tabman) ⭐ 2,925 | 🐛 86 | 🌐 Swift | 📅 2026-07-27**
+**[Tabman](https://github.com/uias/Tabman) ⭐ 2,924 | 🐛 86 | 🌐 Swift | 📅 2026-07-27**
 *from [uias](https://github.com/uias):*
 
 > *™️ A powerful paging view controller with tab bar.*
@@ -614,7 +614,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A circular, animatable & highly customizable progress bar from the Interface Builder (Objective-C)*
 
-**[GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) ⭐ 894 | 🐛 0 | 🌐 Swift | 📅 2026-02-24**
+**[GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) ⭐ 893 | 🐛 0 | 🌐 Swift | 📅 2026-02-24**
 *from [fxm90](https://github.com/fxm90):*
 
 > *A customizable animated gradient loading bar.*
@@ -696,7 +696,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Sheet
 
-**[SOPullUpView](https://github.com/Ahmadalsofi/SOPullUpView) ⭐ 196 | 🐛 7 | 🌐 Swift | 📅 2020-01-01**
+**[SOPullUpView](https://github.com/Ahmadalsofi/SOPullUpView) ⭐ 195 | 🐛 7 | 🌐 Swift | 📅 2020-01-01**
 *from [Ahmadalsofi](https://github.com/Ahmadalsofi):*
 
 > * SOPullUpView library for iOS, with pull up gesture 📱🖐️↕️\*
@@ -738,7 +738,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Swipable tab and menu View and ViewController.*
 
-**[XLActionController](https://github.com/xmartlabs/XLActionController) ⭐ 3,302 | 🐛 27 | 🌐 Swift | 📅 2023-03-17**
+**[XLActionController](https://github.com/xmartlabs/XLActionController) ⭐ 3,301 | 🐛 27 | 🌐 Swift | 📅 2023-03-17**
 *from [xmartlabs](https://github.com/xmartlabs):*
 
 > *Fully customizable and extensible action sheet controller written in Swift*
@@ -753,7 +753,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Panels is a framework to easily add sliding panels to your application*
 
-**[SideMenu](https://github.com/jonkykong/SideMenu) ⭐ 5,817 | 🐛 47 | 🌐 Swift | 📅 2023-02-09**
+**[SideMenu](https://github.com/jonkykong/SideMenu) ⭐ 5,816 | 🐛 47 | 🌐 Swift | 📅 2023-02-09**
 *from [jonkykong](https://github.com/jonkykong):*
 
 > *Simple side menu control for iOS, no code necessary! Lots of customization. Add it to your project in 5 minutes or less.*
@@ -773,7 +773,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > \*A simple side menu for iOS written in Swift. \*
 
-**[XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) ⭐ 7,001 | 🐛 314 | 🌐 Swift | 📅 2023-11-22**
+**[XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) ⭐ 6,999 | 🐛 314 | 🌐 Swift | 📅 2023-11-22**
 *from [xmartlabs](https://github.com/xmartlabs):*
 
 > *Android PagerTabStrip for iOS.*
@@ -858,7 +858,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *SwiftOverlays is a Swift GUI library for displaying various popups and notifications*
 
-**[PKHUD](https://github.com/pkluz/PKHUD) ⭐ 3,778 | 🐛 64 | 🌐 Swift | 📅 2023-02-16**
+**[PKHUD](https://github.com/pkluz/PKHUD) ⭐ 3,776 | 🐛 64 | 🌐 Swift | 📅 2023-02-16**
 *from [pkluz](https://github.com/pkluz):*
 
 > *A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.*
@@ -940,7 +940,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A simple carousel implementation written in Swift*
 
-**[MEVHorizontalContacts](https://github.com/manuelescrig/MEVHorizontalContacts) ⭐ 350 | 🐛 2 | 🌐 Objective-C | 📅 2016-08-25**
+**[MEVHorizontalContacts](https://github.com/manuelescrig/MEVHorizontalContacts) ⭐ 351 | 🐛 2 | 🌐 Objective-C | 📅 2016-08-25**
 *from [manuelescrig](https://github.com/manuelescrig):*
 
 > *An iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable items.*
@@ -1033,12 +1033,12 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Inifinite swipeable stacked UIViews.*
 
-**[Koloda](https://github.com/Yalantis/Koloda) ⭐ 5,396 | 🐛 50 | 🌐 Swift | 📅 2024-05-29**
+**[Koloda](https://github.com/Yalantis/Koloda) ⭐ 5,395 | 🐛 50 | 🌐 Swift | 📅 2024-05-29**
 *from [Yalantis](https://github.com/Yalantis):*
 
 > \*KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. \*
 
-**[Cards](https://github.com/PaoloCuscela/Cards) ⭐ 4,203 | 🐛 25 | 🌐 Swift | 📅 2023-04-19**
+**[Cards](https://github.com/PaoloCuscela/Cards) ⭐ 4,202 | 🐛 25 | 🌐 Swift | 📅 2023-04-19**
 *from [PaoloCuscela](https://github.com/PaoloCuscela):*
 
 > *Awesome iOS 11 appstore cards in swift 4.*
@@ -1188,7 +1188,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *ForceBlur Animation for iOS Messaging Apps*
 
-**[VisualEffectView](https://github.com/efremidze/VisualEffectView) ⭐ 1,415 | 🐛 11 | 🌐 Swift | 📅 2025-12-29**
+**[VisualEffectView](https://github.com/efremidze/VisualEffectView) ⭐ 1,416 | 🐛 11 | 🌐 Swift | 📅 2025-12-29**
 *from [efremidze](https://github.com/efremidze):*
 
 > *Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱*
@@ -1200,7 +1200,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Simple timeline view implemented by UITableViewCell*
 
-**[DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) ⭐ 1,857 | 🐛 10 | 🌐 Swift | 📅 2021-12-16**
+**[DateTimePicker](https://github.com/itsmeichigo/DateTimePicker) ⭐ 1,856 | 🐛 10 | 🌐 Swift | 📅 2021-12-16**
 *from [itsmeichigo](https://github.com/itsmeichigo):*
 
 > *A nicer iOS UI component for picking date and time*
@@ -1237,7 +1237,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *The easiest way to create a great walkthrough experience in your apps, powered by Swift.*
 
-**[BWWalkthrough](https://github.com/ariok/BWWalkthrough) ⭐ 2,747 | 🐛 4 | 🌐 Swift | 📅 2021-02-07**
+**[BWWalkthrough](https://github.com/ariok/BWWalkthrough) ⭐ 2,746 | 🐛 4 | 🌐 Swift | 📅 2021-02-07**
 *from [ariok](https://github.com/ariok):*
 
 > *BWWalkthrough is a class to build custom walkthroughs for your iOS App*
@@ -1349,7 +1349,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A reactive, card-based UI framework built on UIKit for iOS developers.*
 
-**[TextFieldEffects](https://github.com/raulriera/TextFieldEffects) ⭐ 6,011 | 🐛 7 | 🌐 Swift | 📅 2024-01-28**
+**[TextFieldEffects](https://github.com/raulriera/TextFieldEffects) ⭐ 6,010 | 🐛 7 | 🌐 Swift | 📅 2024-01-28**
 *from [raulriera](https://github.com/raulriera):*
 
 > *Custom UITextFields effects inspired by Codrops, built using Swift*
@@ -1416,7 +1416,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *VideoSplashKit - UIViewController library for creating easy intro pages with background videos*
 
-**[XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) ⭐ 2,922 | 🐛 50 | 🌐 Objective-C | 📅 2024-04-08**
+**[XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) ⭐ 2,921 | 🐛 50 | 🌐 Objective-C | 📅 2024-04-08**
 *from [0xced](https://github.com/0xced):*
 
 > *YouTube video player for iOS, tvOS and macOS*
@@ -1449,4 +1449,4 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-24._
