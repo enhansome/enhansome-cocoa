@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,644 | 🐛 106 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 499,708 | 🐛 106 | 📅 2026-08-21
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -1385,7 +1385,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## TreeView
 
-**[RATreeView](https://github.com/Augustyniak/RATreeView) ⭐ 2,480 | 🐛 105 | 🌐 Objective-C | 📅 2019-12-10**
+**[RATreeView](https://github.com/Augustyniak/RATreeView) ⭐ 2,481 | 🐛 105 | 🌐 Objective-C | 📅 2019-12-10**
 *from [Augustyniak](https://github.com/Augustyniak):*
 
 > *Library providing easy-to-use interface for displaying tree structures on iOS and tvOS.*
