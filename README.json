@@ -278,7 +278,7 @@
                 "last_commit": "2025-01-23T20:27:30Z",
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22487
+                "stars": 22488
               }
             },
             {
@@ -652,7 +652,7 @@
                 "last_commit": "2024-05-19T14:19:08Z",
                 "owner": "SwipeCellKit",
                 "repo": "SwipeCellKit",
-                "stars": 6283
+                "stars": 6282
               }
             },
             {
@@ -1181,7 +1181,7 @@
                 "last_commit": "2026-07-08T08:22:51Z",
                 "owner": "exyte",
                 "repo": "FloatingButton",
-                "stars": 1268
+                "stars": 1269
               }
             },
             {
@@ -3321,7 +3321,7 @@
                 "last_commit": "2026-07-06T02:52:46Z",
                 "owner": "richardtop",
                 "repo": "CalendarKit",
-                "stars": 2705
+                "stars": 2706
               }
             },
             {
@@ -4031,7 +4031,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-24T14:44:02.799Z",
+    "last_updated": "2026-08-25T02:22:23.173Z",
     "original_repository": "v-braun/awesome-cocoa",
     "original_repository_id": 152143422,
     "original_repository_sha": "30f6dc7c3b297ef29485d4fcbc6028be4b46ede2",
