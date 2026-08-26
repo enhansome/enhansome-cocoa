@@ -278,7 +278,7 @@
                 "last_commit": "2025-01-23T20:27:30Z",
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22488
+                "stars": 22487
               }
             },
             {
@@ -1398,7 +1398,7 @@
                 "last_commit": "2022-01-26T02:40:50Z",
                 "owner": "Ramotion",
                 "repo": "animated-tab-bar",
-                "stars": 11088
+                "stars": 11087
               }
             },
             {
@@ -1615,7 +1615,7 @@
                 "last_commit": "2026-01-25T06:44:12Z",
                 "owner": "sindresorhus",
                 "repo": "DockProgress",
-                "stars": 1354
+                "stars": 1355
               }
             },
             {
@@ -3151,7 +3151,7 @@
                 "last_commit": "2019-02-18T15:50:26Z",
                 "owner": "louisdh",
                 "repo": "panelkit",
-                "stars": 3742
+                "stars": 3741
               }
             }
           ],
@@ -3254,7 +3254,7 @@
                 "last_commit": "2025-12-29T02:58:55Z",
                 "owner": "efremidze",
                 "repo": "VisualEffectView",
-                "stars": 1416
+                "stars": 1417
               }
             }
           ],
@@ -4031,7 +4031,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-25T06:39:19.941Z",
+    "last_updated": "2026-08-26T02:38:19.166Z",
     "original_repository": "v-braun/awesome-cocoa",
     "original_repository_id": 152143422,
     "original_repository_sha": "30f6dc7c3b297ef29485d4fcbc6028be4b46ede2",
