@@ -278,7 +278,7 @@
                 "last_commit": "2025-01-23T20:27:30Z",
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22487
+                "stars": 22488
               }
             },
             {
@@ -473,7 +473,7 @@
                 "last_commit": "2016-02-09T09:42:42Z",
                 "owner": "daltoniam",
                 "repo": "DCAnimationKit",
-                "stars": 804
+                "stars": 803
               }
             },
             {
@@ -772,7 +772,7 @@
                 "last_commit": "2018-10-29T18:56:03Z",
                 "owner": "slackhq",
                 "repo": "SlackTextViewController",
-                "stars": 8267
+                "stars": 8266
               }
             },
             {
@@ -1301,7 +1301,7 @@
                 "last_commit": "2022-06-13T14:04:23Z",
                 "owner": "okmr-d",
                 "repo": "DOFavoriteButton",
-                "stars": 3583
+                "stars": 3584
               }
             }
           ],
@@ -2824,7 +2824,7 @@
                 "last_commit": "2023-10-02T02:43:50Z",
                 "owner": "JoniVR",
                 "repo": "VerticalCardSwiper",
-                "stars": 1535
+                "stars": 1536
               }
             }
           ],
@@ -3151,7 +3151,7 @@
                 "last_commit": "2019-02-18T15:50:26Z",
                 "owner": "louisdh",
                 "repo": "panelkit",
-                "stars": 3741
+                "stars": 3742
               }
             }
           ],
@@ -3254,7 +3254,7 @@
                 "last_commit": "2025-12-29T02:58:55Z",
                 "owner": "efremidze",
                 "repo": "VisualEffectView",
-                "stars": 1417
+                "stars": 1418
               }
             }
           ],
@@ -3373,7 +3373,7 @@
                 "last_commit": "2024-10-10T10:54:11Z",
                 "owner": "SvenTiigi",
                 "repo": "WhatsNewKit",
-                "stars": 4431
+                "stars": 4432
               }
             },
             {
@@ -3730,7 +3730,7 @@
                 "last_commit": "2024-01-28T17:53:51Z",
                 "owner": "raulriera",
                 "repo": "TextFieldEffects",
-                "stars": 6010
+                "stars": 6013
               }
             },
             {
@@ -4031,9 +4031,16 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-26T02:38:19.166Z",
-    "original_repository": "v-braun/awesome-cocoa",
-    "original_repository_id": 152143422,
+    "last_updated": "2026-08-27T11:09:51.925Z",
+    "original_repository_info": {
+      "archived": false,
+      "id": 152143422,
+      "language": "JavaScript",
+      "last_commit": "2022-05-21T09:55:05Z",
+      "owner": "v-braun",
+      "repo": "awesome-cocoa",
+      "stars": 98
+    },
     "original_repository_sha": "30f6dc7c3b297ef29485d4fcbc6028be4b46ede2",
     "enhanced_repository": "enhansome/enhansome-cocoa",
     "enhanced_repository_description": null,
