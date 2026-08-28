@@ -16,7 +16,8 @@
             "owner": "s2mr",
             "repo": "Elephant",
             "stars": 151
-          }
+          },
+          "first_seen": "2026-08-28T12:43:03.687Z"
         },
         {
           "node_type": "item",
@@ -31,7 +32,8 @@
             "owner": "popwarsweet",
             "repo": "PageControls",
             "stars": 1100
-          }
+          },
+          "first_seen": "2026-08-28T12:43:03.687Z"
         },
         {
           "node_type": "item",
@@ -46,7 +48,8 @@
             "owner": "moritzsternemann",
             "repo": "SwipyCell",
             "stars": 260
-          }
+          },
+          "first_seen": "2026-08-28T12:43:03.687Z"
         },
         {
           "node_type": "item",
@@ -61,7 +64,8 @@
             "owner": "Cuberto",
             "repo": "rubber-range-picker",
             "stars": 402
-          }
+          },
+          "first_seen": "2026-08-28T12:43:03.687Z"
         },
         {
           "node_type": "item",
@@ -76,7 +80,8 @@
             "owner": "FluidGroup",
             "repo": "NextGrowingTextView",
             "stars": 1797
-          }
+          },
+          "first_seen": "2026-08-28T12:43:03.687Z"
         },
         {
           "node_type": "item",
@@ -91,7 +96,8 @@
             "owner": "alexaubry",
             "repo": "BulletinBoard",
             "stars": 5338
-          }
+          },
+          "first_seen": "2026-08-28T12:43:03.687Z"
         },
         {
           "node_type": "item",
@@ -106,7 +112,8 @@
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
             "stars": 7309
-          }
+          },
+          "first_seen": "2026-08-28T12:43:03.687Z"
         },
         {
           "node_type": "item",
@@ -121,7 +128,8 @@
             "owner": "exyte",
             "repo": "PopupView",
             "stars": 4060
-          }
+          },
+          "first_seen": "2026-08-28T12:43:03.687Z"
         },
         {
           "node_type": "item",
@@ -136,7 +144,8 @@
             "owner": "FluidGroup",
             "repo": "PrecisionLevelSlider",
             "stars": 170
-          }
+          },
+          "first_seen": "2026-08-28T12:43:03.687Z"
         },
         {
           "node_type": "item",
@@ -151,7 +160,8 @@
             "owner": "alexiscreuzot",
             "repo": "KAPinField",
             "stars": 182
-          }
+          },
+          "first_seen": "2026-08-28T12:43:03.687Z"
         }
       ],
       "title": "New"
@@ -174,7 +184,8 @@
                 "owner": "s2mr",
                 "repo": "Elephant",
                 "stars": 151
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -189,7 +200,8 @@
                 "owner": "marcosgriselli",
                 "repo": "ViewAnimator",
                 "stars": 7309
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -204,7 +216,8 @@
                 "owner": "ivanvorobei",
                 "repo": "SPLarkController",
                 "stars": 985
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -219,7 +232,8 @@
                 "owner": "alexruperez",
                 "repo": "SpeechRecognizerButton",
                 "stars": 184
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -234,7 +248,8 @@
                 "owner": "WorldDownTown",
                 "repo": "ZoomTransitioning",
                 "stars": 670
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -249,7 +264,8 @@
                 "owner": "marty-suzuki",
                 "repo": "SABlurImageView",
                 "stars": 552
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -264,7 +280,8 @@
                 "owner": "digital-horizon",
                 "repo": "RoundCoachMark",
                 "stars": 69
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -279,7 +296,8 @@
                 "owner": "HeroTransitions",
                 "repo": "Hero",
                 "stars": 22488
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -294,7 +312,8 @@
                 "owner": "cruisediary",
                 "repo": "Comets",
                 "stars": 614
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -309,7 +328,8 @@
                 "owner": "cristi-lupu",
                 "repo": "CLWaterWaveView",
                 "stars": 58
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -324,7 +344,8 @@
                 "owner": "Ramotion",
                 "repo": "garland-view",
                 "stars": 495
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -338,8 +359,9 @@
                 "last_commit": "2020-11-02T08:11:20Z",
                 "owner": "Touchwonders",
                 "repo": "Transition",
-                "stars": 2626
-              }
+                "stars": 2627
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -354,7 +376,8 @@
                 "owner": "efremidze",
                 "repo": "Shiny",
                 "stars": 845
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -369,7 +392,8 @@
                 "owner": "piemonte",
                 "repo": "Twinkle",
                 "stars": 616
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -384,7 +408,8 @@
                 "owner": "ChiliLabs",
                 "repo": "CHIPageControl",
                 "stars": 3467
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -399,7 +424,8 @@
                 "owner": "andreamazz",
                 "repo": "BubbleTransition",
                 "stars": 3303
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -414,7 +440,8 @@
                 "owner": "shu223",
                 "repo": "AnimatedTransitionGallery",
                 "stars": 2504
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -429,7 +456,8 @@
                 "owner": "callumboddy",
                 "repo": "CBZSplashView",
                 "stars": 1478
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -444,7 +472,8 @@
                 "owner": "IFTTT",
                 "repo": "JazzHands",
                 "stars": 6361
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -459,7 +488,8 @@
                 "owner": "shu223",
                 "repo": "PulsingHalo",
                 "stars": 1786
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -474,7 +504,8 @@
                 "owner": "daltoniam",
                 "repo": "DCAnimationKit",
                 "stars": 803
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -489,7 +520,8 @@
                 "owner": "dotintent",
                 "repo": "WobbleView",
                 "stars": 2169
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -504,7 +536,8 @@
                 "owner": "Rightpoint",
                 "repo": "RZTransitions",
                 "stars": 1860
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -519,7 +552,8 @@
                 "owner": "andreamazz",
                 "repo": "UITextField-Shake",
                 "stars": 726
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "Elegant SVG animation kit for swift\nViewAnimator brings your UI to life with just one line\nCustom transition between controllers. Settings controller for your iOS app.\nUIButton subclass with push to talk recording, speech recognition and Siri-style waveform view.\nZoomTransitioning provides a custom transition with image zooming animation and swiping the screen edge.\nYou can use blur effect and it's animation easily to call only two methods.\nThe Swift library for showing the rounded coach marks (useful for onboarding or run-time help purposes)\nElegant transition library for iOS & tvOS\n☄️Comets: Animating Particles in Swift\nA UIView what able to show water wave effect\n:octocat: ≡ GarlandView seamlessly transitions between multiple lists of content. Swift UI library made by @Ramotion\nEasy interactive interruptible custom ViewController transitions\nIridescent Effect View (inspired by Apple Pay Cash) ✨\n:sparkles: Twinkle iOS/tvOS app elements in Swift\nA set of cool animated page controls written in Swift to replace boring UIPageControl.\nA custom modal transition that presents and dismiss a controller with an expanding bubble effect.\nA gallery app of custom animated transitions for iOS.\nTwitter style Splash Screen View. Grows to reveal the Initial view behind\nA simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros.\niOS Component for creating a pulsing animation.\nA collection of animations for iOS. Simple, just add water animations.\nnull\nA library of custom iOS View Controller Animations and Interactions.\nUITextField category that adds shake animation",
@@ -541,7 +575,8 @@
                 "owner": "popwarsweet",
                 "repo": "PageControls",
                 "stars": 1100
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -556,7 +591,8 @@
                 "owner": "kazuhiro4949",
                 "repo": "PagingKit",
                 "stars": 1391
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -571,7 +607,8 @@
                 "owner": "tbxark",
                 "repo": "TKRubberIndicator",
                 "stars": 1465
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -586,7 +623,8 @@
                 "owner": "shima11",
                 "repo": "FlexiblePageControl",
                 "stars": 795
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "This is a selection of custom page controls to replace UIPageControl, inspired by a dribbble found here: https://dribbble.com/shots/2578447-Page-Control-Indicator-Transitions-Collection\n*PagingKit provides customizable menu UI. It has more flexible layout and design than the other libraries. *\nA rubber animation pagecontrol\nA flexible UIPageControl like Instagram.",
@@ -608,7 +646,8 @@
                 "owner": "moritzsternemann",
                 "repo": "SwipyCell",
                 "stars": 260
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -623,7 +662,8 @@
                 "owner": "mergesort",
                 "repo": "TableFlip",
                 "stars": 558
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -638,7 +678,8 @@
                 "owner": "instant-solutions",
                 "repo": "ISTimeline",
                 "stars": 1000
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -653,7 +694,8 @@
                 "owner": "SwipeCellKit",
                 "repo": "SwipeCellKit",
                 "stars": 6282
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -668,7 +710,8 @@
                 "owner": "tsucres",
                 "repo": "SwiftyComments",
                 "stars": 226
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -683,7 +726,8 @@
                 "owner": "younatics",
                 "repo": "YNExpandableCell",
                 "stars": 451
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -698,7 +742,8 @@
                 "owner": "bitwit",
                 "repo": "BWSwipeRevealCell",
                 "stars": 68
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -713,7 +758,8 @@
                 "owner": "marty-suzuki",
                 "repo": "URLEmbeddedView",
                 "stars": 646
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -728,7 +774,8 @@
                 "owner": "ApplikeySolutions",
                 "repo": "VegaScroll",
                 "stars": 2904
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -743,7 +790,8 @@
                 "owner": "Ramotion",
                 "repo": "folding-cell",
                 "stars": 10181
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -758,7 +806,8 @@
                 "owner": "marty-suzuki",
                 "repo": "SAParallaxViewControllerSwift",
                 "stars": 260
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -773,7 +822,8 @@
                 "owner": "slackhq",
                 "repo": "SlackTextViewController",
                 "stars": 8266
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -788,7 +838,8 @@
                 "owner": "MP0w",
                 "repo": "MPSkewed",
                 "stars": 431
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "Easy to use UITableViewCell implementing swiping to trigger actions.\nA simpler way to do cool UITableView animations! (╯°□°）╯︵ ┻━┻\nSimple timeline view written in Swift 3\nSwipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.\nUITableView based component designed to display a hierarchy of expandable/foldable comments.\n✨ Awesome expandable, collapsible tableview cell for iOS written in Swift 4\nA Swift library for swipeable table cells\nURLEmbeddedView automatically caches the object that is confirmed the Open Graph Protocol.\n↕️ VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9.\n:octocat: 📃 FoldingCell is an expanding content cell with animation inspired by folding paper card material design. Swift UI Library by @Ramotion\nSAParallaxViewControllerSwift realizes parallax scrolling with blur effect. In addition, it realizes seamless opening transition.\nA drop-in UIViewController subclass with a growing text input view and other useful messaging features\n*An iOS collection view subclass to present a list of skewed images and a collection view layout to add parallax to the images *",
@@ -810,7 +861,8 @@
                 "owner": "Cuberto",
                 "repo": "rubber-range-picker",
                 "stars": 402
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -825,7 +877,8 @@
                 "owner": "Ramotion",
                 "repo": "fluid-slider",
                 "stars": 1984
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "null\n:octocat:💧 A slider widget with a popup bubble displaying the precise value selected. Swift UI library made by @Ramotion",
@@ -847,7 +900,8 @@
                 "owner": "FluidGroup",
                 "repo": "NextGrowingTextView",
                 "stars": 1797
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -862,7 +916,8 @@
                 "owner": "orazz",
                 "repo": "CreditCardForm-iOS",
                 "stars": 1463
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -877,7 +932,8 @@
                 "owner": "Skyscanner",
                 "repo": "SkyFloatingLabelTextField",
                 "stars": 4125
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -892,7 +948,8 @@
                 "owner": "Ekhoo",
                 "repo": "Translucid",
                 "stars": 545
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -907,7 +964,8 @@
                 "owner": "me-abhinav",
                 "repo": "NumberMorphView",
                 "stars": 1582
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -922,7 +980,8 @@
                 "owner": "FahimF",
                 "repo": "FloatLabelFields",
                 "stars": 1180
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -937,7 +996,8 @@
                 "owner": "iDhaval",
                 "repo": "DTTextField",
                 "stars": 332
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -951,8 +1011,9 @@
                 "last_commit": "2022-03-07T04:03:30Z",
                 "owner": "suzuki-0000",
                 "repo": "CountdownLabel",
-                "stars": 1014
-              }
+                "stars": 1013
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -967,7 +1028,8 @@
                 "owner": "whitesmith",
                 "repo": "WSTagsField",
                 "stars": 1285
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -982,7 +1044,8 @@
                 "owner": "Fawxy",
                 "repo": "CBPinEntryView",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -997,7 +1060,8 @@
                 "owner": "jogendra",
                 "repo": "AnimatedMaskLabel",
                 "stars": 24
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1012,7 +1076,8 @@
                 "owner": "hanton",
                 "repo": "HTYTextField",
                 "stars": 309
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1027,7 +1092,8 @@
                 "owner": "ren6",
                 "repo": "RKRichTextView",
                 "stars": 145
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1042,7 +1108,8 @@
                 "owner": "cjwirth",
                 "repo": "RichEditorView",
                 "stars": 1893
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "📝 The next in the generations of 'growing textviews' optimized for iOS 8 and above.\nCreditCardForm is iOS framework that allows developers to create the UI which replicates an actual Credit Card.\nA beautiful and flexible text field control implementation of \"Float Label Pattern\". Written in Swift.\nLightweight library to set an Image as text background. Written in swift.\nA label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.\nText entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.\nDTTextField is a custom textfield with floating placeholder and error label\nSimple countdown UILabel with morphing animation, and some useful function.\nAn iOS text field that represents different Tags\nA customisable view for entering arbitrary length numerical pins or codes in iOS.\nAnimated Mask Label is a nice gradient animated label. This is an easy way to add a shimmering effect to any view in your app. It is useful as an unobtrusive loading indicator.\n*A UITextField with bouncy placeholder. *\nRich Text Editor for iOS\nRichEditorView is a simple, modular, drop-in UIView subclass for Rich Text Editing.",
@@ -1064,7 +1131,8 @@
                 "owner": "alexaubry",
                 "repo": "BulletinBoard",
                 "stars": 5338
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "General-purpose contextual cards for iOS",
@@ -1086,7 +1154,8 @@
                 "owner": "exyte",
                 "repo": "PopupView",
                 "stars": 4060
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "Toasts and popups library written with SwiftUI",
@@ -1108,7 +1177,8 @@
                 "owner": "FluidGroup",
                 "repo": "PrecisionLevelSlider",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "PrecisionLevelSlider",
@@ -1130,7 +1200,8 @@
                 "owner": "alexiscreuzot",
                 "repo": "KAPinField",
                 "stars": 182
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "Lightweight, highly customizable Pin Code Field library for iOS, written in Swift",
@@ -1152,7 +1223,8 @@
                 "owner": "atrinh0",
                 "repo": "buttoncraft",
                 "stars": 448
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1167,7 +1239,8 @@
                 "owner": "yannickl",
                 "repo": "DynamicButton",
                 "stars": 1152
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1182,7 +1255,8 @@
                 "owner": "exyte",
                 "repo": "FloatingButton",
                 "stars": 1269
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1197,7 +1271,8 @@
                 "owner": "pmusolino",
                 "repo": "PMSuperButton",
                 "stars": 721
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1212,7 +1287,8 @@
                 "owner": "BalestraPatrick",
                 "repo": "SquishButton",
                 "stars": 395
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1227,7 +1303,8 @@
                 "owner": "suzuki-0000",
                 "repo": "AnimatablePlayButton",
                 "stars": 80
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1242,7 +1319,8 @@
                 "owner": "AladinWay",
                 "repo": "TransitionButton",
                 "stars": 1473
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1257,7 +1335,8 @@
                 "owner": "leonardocardoso",
                 "repo": "NFDownloadButton",
                 "stars": 438
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1272,7 +1351,8 @@
                 "owner": "yonat",
                 "repo": "MultiToggleButton",
                 "stars": 86
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1287,7 +1367,8 @@
                 "owner": "loregr",
                 "repo": "LGButton",
                 "stars": 2281
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1302,7 +1383,8 @@
                 "owner": "okmr-d",
                 "repo": "DOFavoriteButton",
                 "stars": 3584
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "Craft that perfect SwiftUI button effect 👌🏼\nYet another animated flat buttons in Swift\nEasily customizable floating button menu created with SwiftUI\n🔥 PMSuperButton is a powerful UIButton coming from the countryside, but with super powers! 😎\nA button that squishes when pressed. As seen in the Clips app.\nAnimated Play and Pause Button written in Swift, using CALayer, CAKeyframeAnimation.\nUIButton sublass for loading and transition animation.\nRevamped Download Button. It's kinda a reverse engineering of Netflix's app download button.\nMultiple state tap to toggle UIButton in Swift\nA fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.\nCute Animated Button written in Swift.",
@@ -1324,7 +1406,8 @@
                 "owner": "Ahmadalsofi",
                 "repo": "SOTabBar",
                 "stars": 677
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1339,7 +1422,8 @@
                 "owner": "marcosgriselli",
                 "repo": "SwipeableTabBarController",
                 "stars": 1536
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1354,7 +1438,8 @@
                 "owner": "Cuberto",
                 "repo": "flashy-tabbar",
                 "stars": 731
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1369,7 +1454,8 @@
                 "owner": "cwRichardKim",
                 "repo": "RKSwipeBetweenViewControllers",
                 "stars": 1670
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1384,7 +1470,8 @@
                 "owner": "telly",
                 "repo": "TLYShyNavBar",
                 "stars": 3700
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1399,7 +1486,8 @@
                 "owner": "Ramotion",
                 "repo": "animated-tab-bar",
                 "stars": 11087
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1414,7 +1502,8 @@
                 "owner": "uias",
                 "repo": "Tabman",
                 "stars": 2924
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1429,7 +1518,8 @@
                 "owner": "v-braun",
                 "repo": "VBRRollingPit",
                 "stars": 333
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1444,7 +1534,8 @@
                 "owner": "Yalantis",
                 "repo": "FoldingTabBar.iOS",
                 "stars": 3663
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1459,7 +1550,8 @@
                 "owner": "bfeher",
                 "repo": "BFPaperTabBarController",
                 "stars": 343
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1474,7 +1566,8 @@
                 "owner": "jamesdunay",
                 "repo": "MinimalTabBar",
                 "stars": 152
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "Light way to add Fancy bottom bar 📲\nUITabBarController with swipe interaction between its tabs.\nOne another nice animated tabbar\nSwipe between ViewControllers like in the Spotify or Twitter app with an interactive Segmented Control in the Navigation Bar\nUnlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!\n:octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion\n™️ A powerful paging view controller with tab bar.\nSimple, beatiful and interactive UITabBar\nFolding Tab Bar and Tab Bar Controller\niOS UITabBar (controller) inspired by Google's Paper Material Design.\nnull",
@@ -1496,7 +1589,8 @@
                 "owner": "spromicky",
                 "repo": "StepSlider",
                 "stars": 576
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1511,7 +1605,8 @@
                 "owner": "kyleweiner",
                 "repo": "KWStepper",
                 "stars": 170
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1526,7 +1621,8 @@
                 "owner": "MatiBot",
                 "repo": "MBCircularProgressBar",
                 "stars": 999
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1541,7 +1637,8 @@
                 "owner": "fxm90",
                 "repo": "GradientLoadingBar",
                 "stars": 893
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1556,7 +1653,8 @@
                 "owner": "yonat",
                 "repo": "StepProgressView",
                 "stars": 382
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1571,7 +1669,8 @@
                 "owner": "soberman",
                 "repo": "ARSLineProgress",
                 "stars": 491
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1586,7 +1685,8 @@
                 "owner": "SimformSolutionsPvtLtd",
                 "repo": "SSSpinnerButton",
                 "stars": 450
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1601,7 +1701,8 @@
                 "owner": "keygx",
                 "repo": "GradientCircularProgress",
                 "stars": 545
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1616,7 +1717,8 @@
                 "owner": "sindresorhus",
                 "repo": "DockProgress",
                 "stars": 1355
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1631,7 +1733,8 @@
                 "owner": "sindresorhus",
                 "repo": "CircularProgress",
                 "stars": 578
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1646,7 +1749,8 @@
                 "owner": "roytornado",
                 "repo": "RSLoadingView",
                 "stars": 415
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1661,7 +1765,8 @@
                 "owner": "hyperoslo",
                 "repo": "RetroProgress",
                 "stars": 18
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1676,7 +1781,8 @@
                 "owner": "mrackwitz",
                 "repo": "MRProgress",
                 "stars": 2526
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1691,7 +1797,8 @@
                 "owner": "skywinder",
                 "repo": "GaugeKit",
                 "stars": 1022
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1706,7 +1813,8 @@
                 "owner": "ninjaprox",
                 "repo": "NVActivityIndicatorView",
                 "stars": 10708
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1721,7 +1829,8 @@
                 "owner": "uzysjung",
                 "repo": "UzysAnimatedGifPullToRefresh",
                 "stars": 1396
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1736,7 +1845,8 @@
                 "owner": "fabianofrancesconi",
                 "repo": "FFCircularProgressView",
                 "stars": 988
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1751,7 +1861,8 @@
                 "owner": "Marxon13",
                 "repo": "M13ProgressSuite",
                 "stars": 3900
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "StepSlider its custom implementation of slider such as UISlider for preset integer values.\nA stepper control with flexible UI and tailored UX.\nA circular, animatable & highly customizable progress bar from the Interface Builder (Objective-C)\nA customizable animated gradient loading bar.\nStep-by-step progress view with labels and shapes. A good replacement for UIActivityIndicatorView and UIProgressView.\nA simple animated progress bar in Swift\niOS progress bar, replacement for the default activity indicator.\nForget about typical stereotypic loading, It's time to change. SSSpinnerButton is an elegant button with a diffrent spinner animations.\nCustomizable progress indicator library in Swift\nShow progress in your app's Dock icon\nCircular progress indicator for your macOS app\nAwesome loading animations using 3D engine written with Swift\n💈 Retro looking progress bar straight from the 90s\nCollection of iOS drop-in components to visualize progress\nKit for building custom gauges + easy reproducible Apple's style ring gauges.\nA collection of awesome loading animations\nAdd PullToRefresh using animated GIF to any scrollView with just simple code\nFFCircularProgressView - An iOS 7-inspired blue circular progress view\nA suite containing many tools to display progress information on iOS.",
@@ -1773,7 +1884,8 @@
                 "owner": "Ahmadalsofi",
                 "repo": "SOPullUpView",
                 "stars": 195
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1788,7 +1900,8 @@
                 "owner": "tattn",
                 "repo": "PullableSheet",
                 "stars": 66
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "SOPullUpView library for iOS, with pull up gesture 📱🖐️↕️*\nPullable sheet like a default map app or bottom sheets (Android).",
@@ -1810,7 +1923,8 @@
                 "owner": "yannickl",
                 "repo": "FlowingMenu",
                 "stars": 971
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1825,7 +1939,8 @@
                 "owner": "tbxark",
                 "repo": "PinterestSegment",
                 "stars": 695
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1840,7 +1955,8 @@
                 "owner": "liufengting",
                 "repo": "FTPopOverMenu_Swift",
                 "stars": 439
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1855,7 +1971,8 @@
                 "owner": "CaliCastle",
                 "repo": "PopMenu",
                 "stars": 1691
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1870,7 +1987,8 @@
                 "owner": "Yalantis",
                 "repo": "GuillotineMenu",
                 "stars": 2881
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1885,7 +2003,8 @@
                 "owner": "yysskk",
                 "repo": "SwipeMenuViewController",
                 "stars": 1279
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1900,7 +2019,8 @@
                 "owner": "xmartlabs",
                 "repo": "XLActionController",
                 "stars": 3301
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1915,7 +2035,8 @@
                 "owner": "younatics",
                 "repo": "YNDropDownMenu",
                 "stars": 1329
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1930,7 +2051,8 @@
                 "owner": "antoniocasero",
                 "repo": "Panels",
                 "stars": 1489
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1945,7 +2067,8 @@
                 "owner": "jonkykong",
                 "repo": "SideMenu",
                 "stars": 5816
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1960,7 +2083,8 @@
                 "owner": "pixyzehn",
                 "repo": "MediumMenu",
                 "stars": 314
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1975,7 +2099,8 @@
                 "owner": "gautier-gdx",
                 "repo": "Hexacon",
                 "stars": 348
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -1990,7 +2115,8 @@
                 "owner": "devgenios",
                 "repo": "ENSwiftSideMenu",
                 "stars": 1801
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2005,7 +2131,8 @@
                 "owner": "xmartlabs",
                 "repo": "XLPagerTabStrip",
                 "stars": 6999
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2020,7 +2147,8 @@
                 "owner": "pixyzehn",
                 "repo": "MediumScrollFullScreen",
                 "stars": 533
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2035,7 +2163,8 @@
                 "owner": "ashishkakkad8",
                 "repo": "AKSwiftSlideMenu",
                 "stars": 283
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2050,7 +2179,8 @@
                 "owner": "romaonthego",
                 "repo": "RESideMenu",
                 "stars": 7039
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2065,7 +2195,8 @@
                 "owner": "zigzagg16",
                 "repo": "cariocamenu",
                 "stars": 776
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2080,7 +2211,8 @@
                 "owner": "romaonthego",
                 "repo": "REFrostedViewController",
                 "stars": 2935
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2095,7 +2227,8 @@
                 "owner": "twotoasters",
                 "repo": "TWTSideMenuViewController",
                 "stars": 842
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2110,7 +2243,8 @@
                 "owner": "matghazaryan",
                 "repo": "AMSlideMenu2",
                 "stars": 1193
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "Interactive view transition to display menus with flowing and bouncing effects in Swift\nA Pinterest-like segment control with masking animation.\nFTPopOverMenu_Swift, swift version of FTPopOverMenu. FTPopOverMenu is a pop over menu for iOS which is maybe the easiest one to use. Supports both portrait and landscape. It can show from any UIView, any UIBarButtonItem and any CGRect.\nA cool and customizable popup style action sheet for iOS 😎\nOur Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.\nSwipable tab and menu View and ViewController.\nFully customizable and extensible action sheet controller written in Swift\n✨ Awesome Dropdown menu for iOS with Swift 4\nPanels is a framework to easily add sliding panels to your application\nSimple side menu control for iOS, no code necessary! Lots of customization. Add it to your project in 5 minutes or less.\nA menu based on Medium iOS app.\nA fancy hexagonal layout for displaying data like your Apple Watch\n*A simple side menu for iOS written in Swift. *\nAndroid PagerTabStrip for iOS.\nMedium's upper and lower Menu in Scroll.\nSlide Menu (Drawer) in Swift 4 - Xcode 9 - iOS 11\niOS 7/8 style side menu with parallax effect.\nThe fastest zero-tap iOS menu.\niOS 7/8 style blurred view controller that appears on top of your view controller.\nSide Menus for iOS 7\nSliding Menu for iOS (Left and Right menus). Multiple storyboards and XIBs support.",
@@ -2132,7 +2266,8 @@
                 "owner": "metinkilicaslan",
                 "repo": "MKToolTip",
                 "stars": 157
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "MKToolTip is a customizable tooltip view written in Swift that can be used as a informative tip",
@@ -2154,7 +2289,8 @@
                 "owner": "DroidsOnRoids",
                 "repo": "MPParallaxView",
                 "stars": 1734
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2169,7 +2305,8 @@
                 "owner": "maxep",
                 "repo": "MXParallaxHeader",
                 "stars": 1739
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "Apple TV Parallax effect in Swift.\nSimple parallax header for UIScrollView",
@@ -2191,7 +2328,8 @@
                 "owner": "seedco",
                 "repo": "StackViewController",
                 "stars": 866
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "A controller that uses a UIStackView and view controller composition to display content in a list",
@@ -2213,7 +2351,8 @@
                 "owner": "noblakit01",
                 "repo": "SwiftyShadow",
                 "stars": 63
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2228,7 +2367,8 @@
                 "owner": "PierrePerrin",
                 "repo": "ShadowView",
                 "stars": 413
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "Helper Shadow Path for UIView in Swift iOS\nAn iOS Library that makes shadows management easy on UIView.",
@@ -2250,7 +2390,8 @@
                 "owner": "peterprokop",
                 "repo": "SwiftOverlays",
                 "stars": 627
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2265,7 +2406,8 @@
                 "owner": "pkluz",
                 "repo": "PKHUD",
                 "stars": 3776
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2280,7 +2422,8 @@
                 "owner": "JT501",
                 "repo": "SwiftNotify",
                 "stars": 502
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2295,7 +2438,8 @@
                 "owner": "candostdagdeviren",
                 "repo": "CDAlertView",
                 "stars": 1136
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2310,7 +2454,8 @@
                 "owner": "cruffenach",
                 "repo": "CRToast",
                 "stars": 4125
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2325,7 +2470,8 @@
                 "owner": "atljeremy",
                 "repo": "JFMinimalNotifications",
                 "stars": 934
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2340,7 +2486,8 @@
                 "owner": "KrauseFx",
                 "repo": "TSMessages",
                 "stars": 4842
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2355,7 +2502,8 @@
                 "owner": "LeoNatan",
                 "repo": "LNNotificationsUI",
                 "stars": 783
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2370,7 +2518,8 @@
                 "owner": "terryworona",
                 "repo": "TWMessageBarManager",
                 "stars": 1754
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2385,7 +2534,8 @@
                 "owner": "cwRichardKim",
                 "repo": "RKDropdownAlert",
                 "stars": 1528
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2400,7 +2550,8 @@
                 "owner": "cwRichardKim",
                 "repo": "RKNotificationHub",
                 "stars": 3033
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2415,7 +2566,8 @@
                 "owner": "thii",
                 "repo": "Notie",
                 "stars": 84
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "SwiftOverlays is a Swift GUI library for displaying various popups and notifications\nA Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.\nA customizable framework to create draggable views\nHighly customizable alertview and alert/notification/success/error/alarm popup written in Swift\nA modern iOS toast view that can fit your notification needs\nAn iOS UIView for presenting a minimalistic notification that doesn't block the UI and is highly configurable.\n💌 Easy to use and customizable messages/notifications for iOS à la Tweetbot\nA framework for displaying notifications similar to Apple's iOS 8 and iOS 9 notifications.\nAn iOS manager for presenting system-wide notifications via a dropdown message bar.\niOS / Objective C: an extremely simple UIAlertView alternative\nMake any UIView a full fledged notification center\nIn-app notification in Swift, with customizable buttons and input text field.",
@@ -2437,7 +2589,8 @@
                 "owner": "ecerney",
                 "repo": "CollectionViewWaterfallLayout",
                 "stars": 489
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2452,7 +2605,8 @@
                 "owner": "yonat",
                 "repo": "CheckmarkCollectionViewCell",
                 "stars": 67
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2467,7 +2621,8 @@
                 "owner": "touchlane",
                 "repo": "CampcotCollectionView",
                 "stars": 187
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2482,7 +2637,8 @@
                 "owner": "abdullahselek",
                 "repo": "ASCollectionView",
                 "stars": 368
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2497,7 +2653,8 @@
                 "owner": "ZacharyKhan",
                 "repo": "ZKCarousel",
                 "stars": 290
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2512,7 +2669,8 @@
                 "owner": "manuelescrig",
                 "repo": "MEVHorizontalContacts",
                 "stars": 351
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2527,7 +2685,8 @@
                 "owner": "ananthbh",
                 "repo": "CenteredCollectionView",
                 "stars": 2
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2542,7 +2701,8 @@
                 "owner": "stuffrabbit",
                 "repo": "SwiftSpreadsheet",
                 "stars": 637
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2557,7 +2717,8 @@
                 "owner": "tdscientist",
                 "repo": "ShelfView-iOS",
                 "stars": 268
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2572,7 +2733,8 @@
                 "owner": "yacir",
                 "repo": "CollectionViewSlantedLayout",
                 "stars": 2339
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2587,7 +2749,8 @@
                 "owner": "AfrozZaheer",
                 "repo": "AZCollectionViewController",
                 "stars": 95
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2602,7 +2765,8 @@
                 "owner": "betzerra",
                 "repo": "MosaicLayout",
                 "stars": 504
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2617,7 +2781,8 @@
                 "owner": "ra1028",
                 "repo": "RAReorderableLayout",
                 "stars": 865
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "Pinterest inspired layout for UICollectionViews\nUICollectionViewCell with checkbox when it isSelected and empty circle when not - like Photos.app \"Select\" mode.\nCollapse and expand UICollectionView sections with one method call.\nA Swift collection view inspired by Airbnb.\nA simple carousel implementation written in Swift\nAn iOS UICollectionViewLayout subclass to show a list of contacts with configurable expandable items.\nA lightweight UICollectionViewLayout that 'pages' and centers its cells 🎡 written in Swift\nSpreadsheet CollectionViewLayout in Swift. Fully customizable. 🔶\niOS custom view to display books on shelf\nUICollectionViewLayout to display slanted content\nEasy way to integrate pagination with dummy views in CollectionView, make Instagram \"Discover\" within minutes.*\nMosaicLayout using UICollectionViews\nA UICollectionView layout whitch can move item with drag and drop.",
@@ -2639,7 +2804,8 @@
                 "owner": "CooperRS",
                 "repo": "RMActionController",
                 "stars": 532
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "This is an iOS control for presenting any UIView in an UIAlertController like manner",
@@ -2661,7 +2827,8 @@
                 "owner": "KyleGoddard",
                 "repo": "KGFloatingDrawer",
                 "stars": 496
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2676,7 +2843,8 @@
                 "owner": "marty-suzuki",
                 "repo": "SAHistoryNavigationViewController",
                 "stars": 1555
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "A floating navigation drawer with an interesting animated presentation written in Swift.\nSAHistoryNavigationViewController realizes iOS task manager like UI in UINavigationContoller. Support 3D Touch!",
@@ -2698,7 +2866,8 @@
                 "owner": "iBlacksus",
                 "repo": "BSChart",
                 "stars": 186
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2713,7 +2882,8 @@
                 "owner": "johnnywjy",
                 "repo": "JYRadarChart",
                 "stars": 420
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "BSChart is a simple and useful chart library written on Swift\nan iOS open source Radar Chart implementation",
@@ -2735,7 +2905,8 @@
                 "owner": "tispr",
                 "repo": "tispr-card-stack",
                 "stars": 849
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2750,7 +2921,8 @@
                 "owner": "presentco",
                 "repo": "PresentCardScroller",
                 "stars": 31
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2765,7 +2937,8 @@
                 "owner": "hfrahmann",
                 "repo": "HFCardCollectionViewLayout",
                 "stars": 301
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2780,7 +2953,8 @@
                 "owner": "gomfucius",
                 "repo": "CardStackView",
                 "stars": 46
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2795,7 +2969,8 @@
                 "owner": "Yalantis",
                 "repo": "Koloda",
                 "stars": 5395
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2810,7 +2985,8 @@
                 "owner": "PaoloCuscela",
                 "repo": "Cards",
                 "stars": 4202
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2825,7 +3001,8 @@
                 "owner": "JoniVR",
                 "repo": "VerticalCardSwiper",
                 "stars": 1536
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "Swipe able, customizable card stack view, Tinder like card stack view based on UICollectionView. Cards UI\nA Pretty Card Scrolling UI in Swift\nThe HFCardCollectionViewLayout provides a card stack layout not quite similar like the apps Reminder and Wallet.\nInifinite swipeable stacked UIViews.\n*KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. *\nAwesome iOS 11 appstore cards in swift 4.\nA marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.\nWallet is a library to manage cards and passes.",
@@ -2847,7 +3024,8 @@
                 "owner": "slackhq",
                 "repo": "PanModal",
                 "stars": 3778
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2862,7 +3040,8 @@
                 "owner": "jmascia",
                 "repo": "KLCPopup",
                 "stars": 1679
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "An elegant and highly customizable presentation API for constructing bottom sheet modals on iOS.\nA simple and flexible class for presenting custom views as a popup in iOS.",
@@ -2884,7 +3063,8 @@
                 "owner": "paulrolfe",
                 "repo": "PARTagPicker",
                 "stars": 367
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2899,7 +3079,8 @@
                 "owner": "ElaWorkshop",
                 "repo": "TagListView",
                 "stars": 2670
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2914,7 +3095,8 @@
                 "owner": "optonaut",
                 "repo": "ActiveLabel.swift",
                 "stars": 4603
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "This pod provides a view controller for choosing and creating tags in the style of wordpress or tumblr.\nSimple and highly customizable iOS tag list view, in Swift.\nUILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http://) written in Swift",
@@ -2936,7 +3118,8 @@
                 "owner": "Yalantis",
                 "repo": "Preloader.Ophiuchus",
                 "stars": 876
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "Custom Label to apply animations on whole text or letters.",
@@ -2958,7 +3141,8 @@
                 "owner": "suzuki-0000",
                 "repo": "HoneycombView",
                 "stars": 203
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2973,7 +3157,8 @@
                 "owner": "scihant",
                 "repo": "CTPanoramaView",
                 "stars": 1045
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -2988,7 +3173,8 @@
                 "owner": "gkye",
                 "repo": "ComplimentaryGradientView",
                 "stars": 735
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3003,7 +3189,8 @@
                 "owner": "Urtaq",
                 "repo": "URWeatherView",
                 "stars": 447
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3018,7 +3205,8 @@
                 "owner": "bachonk",
                 "repo": "InitialsImageView",
                 "stars": 216
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3033,7 +3221,8 @@
                 "owner": "hyperoslo",
                 "repo": "Lightbox",
                 "stars": 1744
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3048,7 +3237,8 @@
                 "owner": "Flipboard",
                 "repo": "FLAnimatedImage",
                 "stars": 7949
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3063,7 +3253,8 @@
                 "owner": "EddyBorja",
                 "repo": "EBPhotoPages",
                 "stars": 1624
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3078,7 +3269,8 @@
                 "owner": "autresphere",
                 "repo": "ASMediaFocusManager",
                 "stars": 889
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "*HoneycombView is the iOS UIView for displaying like Honeycomb layout written by swift *\nA library that displays spherical or cylindrical panoramas with touch or motion based controls.\nCreate complementary gradients generated from dominant and prominent colors in supplied image. Inspired by Grade.js\nShow the weather effects onto view written in Swift3\nA simple UIImageView extension for using initials as a profile image, written in swift\n:milky_way: A convenient and easy to use image viewer for your iOS app\nPerformant animated GIF engine for iOS\nA photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.\niOS library to animate your image and video thumbnails to fullscreen.",
@@ -3100,7 +3292,8 @@
                 "owner": "tbxark",
                 "repo": "TKSwitcherCollection",
                 "stars": 916
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3115,7 +3308,8 @@
                 "owner": "T-Pham",
                 "repo": "Switch",
                 "stars": 148
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3130,7 +3324,8 @@
                 "owner": "JaleelNazir",
                 "repo": "MJMaterialSwitch",
                 "stars": 70
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "An animation switch collection\nAn iOS switch control implemented in Swift with full Interface Builder support.\nA Customizable Switch UI for iOS, Inspired from Google's Material Design in Swift",
@@ -3152,7 +3347,8 @@
                 "owner": "louisdh",
                 "repo": "panelkit",
                 "stars": 3742
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "A UI framework that enables panels on iOS.",
@@ -3174,7 +3370,8 @@
                 "owner": "kgellci",
                 "repo": "Shift",
                 "stars": 185
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "Animate gradient changes with time or motion for iOS Swift",
@@ -3196,7 +3393,8 @@
                 "owner": "ApplikeySolutions",
                 "repo": "PandoraPlayer",
                 "stars": 1204
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "🅿️ PandoraPlayer is a lightweight music player for iOS, based on AudioKit and completely written in Swift.",
@@ -3218,7 +3416,8 @@
                 "owner": "glenyi",
                 "repo": "FloatRatingView",
                 "stars": 545
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "Whole, half or floating point ratings control written in Swift",
@@ -3240,7 +3439,8 @@
                 "owner": "Yalantis",
                 "repo": "ForceBlur",
                 "stars": 673
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3255,7 +3455,8 @@
                 "owner": "efremidze",
                 "repo": "VisualEffectView",
                 "stars": 1418
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "ForceBlur Animation for iOS Messaging Apps\nDynamic blur background view with tint color (UIVisualEffectView subclass) 📱",
@@ -3277,7 +3478,8 @@
                 "owner": "kf99916",
                 "repo": "TimelineTableViewCell",
                 "stars": 1328
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3292,7 +3494,8 @@
                 "owner": "itsmeichigo",
                 "repo": "DateTimePicker",
                 "stars": 1856
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3307,7 +3510,8 @@
                 "owner": "hemangshah",
                 "repo": "Workaholic",
                 "stars": 123
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3322,7 +3526,8 @@
                 "owner": "richardtop",
                 "repo": "CalendarKit",
                 "stars": 2706
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3337,7 +3542,8 @@
                 "owner": "johnvuko",
                 "repo": "JTCalendar",
                 "stars": 2746
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3352,7 +3558,8 @@
                 "owner": "WenchaoD",
                 "repo": "FSCalendar",
                 "stars": 10642
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "Simple timeline view implemented by UITableViewCell\nA nicer iOS UI component for picking date and time\nA Github's like work contribution timeline. 🤸🏻\n📅 Fully customizable calendar for iOS\nA customizable calendar view for iOS.\nA fully customizable iOS calendar library, compatible with Objective-C and Swift",
@@ -3373,8 +3580,9 @@
                 "last_commit": "2024-10-10T10:54:11Z",
                 "owner": "SvenTiigi",
                 "repo": "WhatsNewKit",
-                "stars": 4432
-              }
+                "stars": 4433
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3389,7 +3597,8 @@
                 "owner": "ruipfcosta",
                 "repo": "SwiftyWalkthrough",
                 "stars": 370
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3404,7 +3613,8 @@
                 "owner": "ariok",
                 "repo": "BWWalkthrough",
                 "stars": 2746
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3419,7 +3629,8 @@
                 "owner": "aleksandrshoshiashvili",
                 "repo": "AwesomeSpotlightView",
                 "stars": 321
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3434,7 +3645,8 @@
                 "owner": "MatthewYork",
                 "repo": "MYBlurIntroductionView",
                 "stars": 1517
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3449,7 +3661,8 @@
                 "owner": "mamaral",
                 "repo": "Onboard",
                 "stars": 6560
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "Showcase your awesome new app features 📱\nThe easiest way to create a great walkthrough experience in your apps, powered by Swift.\nBWWalkthrough is a class to build custom walkthroughs for your iOS App\nAwesome tool for create tutorial walkthrough or coach tour\nA super-charged version of MYIntroductionView for building custom app introductions and tutorials.\nAn iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.",
@@ -3471,7 +3684,8 @@
                 "owner": "SvenTiigi",
                 "repo": "STLocationRequest",
                 "stars": 639
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3486,7 +3700,8 @@
                 "owner": "SvenTiigi",
                 "repo": "FlyoverKit",
                 "stars": 712
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "Request the Location Services via a 3D 360° flyover MKMapView 🗺\n360° flyover on an MKMapView 🚁",
@@ -3508,7 +3723,8 @@
                 "owner": "draveness",
                 "repo": "NightNight",
                 "stars": 770
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "Elegant way to integrate night mode to swift projects",
@@ -3530,7 +3746,8 @@
                 "owner": "Yalantis",
                 "repo": "PullToMakeSoup",
                 "stars": 1916
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3545,7 +3762,8 @@
                 "owner": "dasdom",
                 "repo": "BreakOutToRefresh",
                 "stars": 2472
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3560,7 +3778,8 @@
                 "owner": "matteogobbi",
                 "repo": "MGSpotyViewController",
                 "stars": 1013
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3575,7 +3794,8 @@
                 "owner": "coolbeet",
                 "repo": "CBStoreHouseRefreshControl",
                 "stars": 3888
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3590,7 +3810,8 @@
                 "owner": "cemolcay",
                 "repo": "PullToRefreshCoreText",
                 "stars": 310
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "Custom animated pull-to-refresh that can be easily added to UIScrollView\nPlay BreakOut while loading - A playable pull to refresh view using SpriteKit\nBeautiful viewController with a tableView and amazing effects like a viewController in the Spotify app.\nA pull-down-to-refresh control for iOS that plays pong, originally created for the MHacks III iOS app\nFully customizable pull-to-refresh control inspired by Storehouse iOS app\nPullToRefresh extension for all UIScrollView type classes with animated text drawing style",
@@ -3612,7 +3833,8 @@
                 "owner": "yoavlt",
                 "repo": "LiquidLoader",
                 "stars": 1325
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3627,7 +3849,8 @@
                 "owner": "Kirillzzy",
                 "repo": "KALoader",
                 "stars": 108
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3642,7 +3865,8 @@
                 "owner": "ParkGwangBeom",
                 "repo": "Windless",
                 "stars": 948
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "Spinner loader components with liquid animation\nBeautiful animated placeholders for showing loading of data\nWindless makes it easy to implement invisible layout loading view.",
@@ -3664,7 +3888,8 @@
                 "owner": "Ramotion",
                 "repo": "reel-search",
                 "stars": 2505
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3679,7 +3904,8 @@
                 "owner": "agilie",
                 "repo": "AGCircularPicker",
                 "stars": 624
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3694,7 +3920,8 @@
                 "owner": "skywinder",
                 "repo": "ActionSheetPicker-3.0",
                 "stars": 3381
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": ":octocat: 🔍 RAMReel is a UI controller that allows you to choose options from a list. Swift UI library made by @Ramotion\nAGCircularPicker is helpful component for creating a controller aimed to manage any calculated parameter\nQuickly reproduce the dropdown UIPickerView / ActionSheet functionality on iOS.",
@@ -3716,7 +3943,8 @@
                 "owner": "intuit",
                 "repo": "CardParts",
                 "stars": 2514
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3731,7 +3959,8 @@
                 "owner": "raulriera",
                 "repo": "TextFieldEffects",
                 "stars": 6013
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3746,7 +3975,8 @@
                 "owner": "jverdi",
                 "repo": "JVFloatLabeledTextField",
                 "stars": 7141
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3761,7 +3991,8 @@
                 "owner": "nghialv",
                 "repo": "MaterialKit",
                 "stars": 2486
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "A reactive, card-based UI framework built on UIKit for iOS developers.\nCustom UITextFields effects inspired by Codrops, built using Swift\nUITextField subclass with floating labels - inspired by Matt D. Smith's design: http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users\nMaterial design components for iOS written in Swift",
@@ -3783,7 +4014,8 @@
                 "owner": "andreamazz",
                 "repo": "AMScrollingNavbar",
                 "stars": 5994
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3798,7 +4030,8 @@
                 "owner": "bryankeller",
                 "repo": "BLKFlexibleHeightBar",
                 "stars": 3067
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "Scrollable UINavigationBar that follows the scrolling of a UIScrollView\nCreate condensing header bars like those seen in the Facebook, Square Cash, and Safari iOS apps.",
@@ -3820,7 +4053,8 @@
                 "owner": "damirstuhec",
                 "repo": "DSDynamicScrollView",
                 "stars": 171
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "iOS (Swift + Objective-C) component for building dynamic and animated UIScrollView.",
@@ -3842,7 +4076,8 @@
                 "owner": "Augustyniak",
                 "repo": "RATreeView",
                 "stars": 2481
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "Library providing easy-to-use interface for displaying tree structures on iOS and tvOS.",
@@ -3864,7 +4099,8 @@
                 "owner": "mentionapp",
                 "repo": "mntpulltoreact",
                 "stars": 767
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "One gesture, many actions. An evolution of Pull to Refresh.",
@@ -3885,8 +4121,9 @@
                 "last_commit": "2024-06-27T12:38:19Z",
                 "owner": "mwaterfall",
                 "repo": "MWPhotoBrowser",
-                "stars": 8710
-              }
+                "stars": 8711
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3901,7 +4138,8 @@
                 "owner": "mariohahn",
                 "repo": "MHVideoPhotoGallery",
                 "stars": 1947
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "A simple iOS photo and video browser with grid view, captions and selections.\n*A Photo and Video Gallery *",
@@ -3923,7 +4161,8 @@
                 "owner": "sahin",
                 "repo": "VideoSplashKit",
                 "stars": 1213
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3938,7 +4177,8 @@
                 "owner": "0xced",
                 "repo": "XCDYouTubeKit",
                 "stars": 2921
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "VideoSplashKit - UIViewController library for creating easy intro pages with background videos\nYouTube video player for iOS, tvOS and macOS",
@@ -3960,7 +4200,8 @@
                 "owner": "TanguyAladenise",
                 "repo": "BBBadgeBarButtonItem",
                 "stars": 949
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             },
             {
               "node_type": "item",
@@ -3975,7 +4216,8 @@
                 "owner": "JaviSoto",
                 "repo": "JSBadgeView",
                 "stars": 1281
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "A BarButtonItem with a badge on top.\nCustomizable UIKit badge view like the one on applications in the iOS springboard.",
@@ -3997,7 +4239,8 @@
                 "owner": "CSStickyHeaderFlowLayout",
                 "repo": "CSStickyHeaderFlowLayout",
                 "stars": 5033
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "UICollectionView replacement of UITableView. Do even more like Parallax Header, Sticky Section Header. Made for iOS 7.",
@@ -4019,7 +4262,8 @@
                 "owner": "nnhubbard",
                 "repo": "ZSSRichTextEditor",
                 "stars": 3782
-              }
+              },
+              "first_seen": "2026-08-28T12:43:03.687Z"
             }
           ],
           "description": "A beautiful rich text WYSIWYG editor for iOS with a syntax highlighted source view",
@@ -4031,7 +4275,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-27T11:34:12.409Z",
+    "last_updated": "2026-08-28T12:43:03.687Z",
     "original_repository_info": {
       "archived": false,
       "id": 152143422,
