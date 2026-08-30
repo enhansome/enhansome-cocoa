@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 500,934 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,231 | 🐛 105 | 📅 2026-08-21
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -124,7 +124,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-**[ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) ⭐ 7,309 | 🐛 12 | 🌐 Swift | 📅 2024-03-31**
+**[ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) ⭐ 7,311 | 🐛 12 | 🌐 Swift | 📅 2024-03-31**
 *from [marcosgriselli](https://github.com/marcosgriselli):*
 
 > *ViewAnimator brings your UI to life with just one line*
@@ -133,7 +133,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,060 | 🐛 1 | 🌐 Swift | 📅 2026-07-30**
+**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,061 | 🐛 1 | 🌐 Swift | 📅 2026-07-30**
 *from [exyte](https://github.com/exyte):*
 
 > *Toasts and popups library written with SwiftUI*
@@ -167,7 +167,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Elegant SVG animation kit for swift*
 
-**[ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) ⭐ 7,309 | 🐛 12 | 🌐 Swift | 📅 2024-03-31**
+**[ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) ⭐ 7,311 | 🐛 12 | 🌐 Swift | 📅 2024-03-31**
 *from [marcosgriselli](https://github.com/marcosgriselli):*
 
 > *ViewAnimator brings your UI to life with just one line*
@@ -197,7 +197,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *The Swift library for showing the rounded coach marks (useful for onboarding or run-time help purposes)*
 
-**[Hero](https://github.com/HeroTransitions/Hero) ⭐ 22,488 | 🐛 42 | 🌐 Swift | 📅 2025-01-23**
+**[Hero](https://github.com/HeroTransitions/Hero) ⭐ 22,489 | 🐛 42 | 🌐 Swift | 📅 2025-01-23**
 *from [HeroTransitions](https://github.com/HeroTransitions):*
 
 > *Elegant transition library for iOS & tvOS*
@@ -464,7 +464,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Toast
 
-**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,060 | 🐛 1 | 🌐 Swift | 📅 2026-07-30**
+**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,061 | 🐛 1 | 🌐 Swift | 📅 2026-07-30**
 *from [exyte](https://github.com/exyte):*
 
 > *Toasts and popups library written with SwiftUI*
@@ -485,7 +485,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Button
 
-**[buttoncraft](https://github.com/atrinh0/buttoncraft) ⭐ 448 | 🐛 1 | 🌐 Swift | 📅 2024-11-13**
+**[buttoncraft](https://github.com/atrinh0/buttoncraft) ⭐ 449 | 🐛 1 | 🌐 Swift | 📅 2024-11-13**
 *from [atrinh0](https://github.com/atrinh0):*
 
 > *Craft that perfect SwiftUI button effect 👌🏼*
@@ -768,7 +768,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A fancy hexagonal layout for displaying data like your Apple Watch*
 
-**[ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) ⭐ 1,801 | 🐛 91 | 🌐 Swift | 📅 2020-04-22**
+**[ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) ⭐ 1,800 | 🐛 91 | 🌐 Swift | 📅 2020-04-22**
 *from [evnaz](https://github.com/evnaz):*
 
 > \*A simple side menu for iOS written in Swift. \*
@@ -1043,7 +1043,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Awesome iOS 11 appstore cards in swift 4.*
 
-**[VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) ⭐ 1,536 | 🐛 15 | 🌐 Swift | 📅 2023-10-02**
+**[VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) ⭐ 1,537 | 🐛 15 | 🌐 Swift | 📅 2023-10-02**
 *from [JoniVR](https://github.com/JoniVR):*
 
 > *A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.*
@@ -1077,7 +1077,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Simple and highly customizable iOS tag list view, in Swift.*
 
-**[ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) ⭐ 4,603 | 🐛 29 | 🌐 Swift | 📅 2023-10-27**
+**[ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) ⭐ 4,604 | 🐛 29 | 🌐 Swift | 📅 2023-10-27**
 *from [optonaut](https://github.com/optonaut):*
 
 > *UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http\://) written in Swift*
@@ -1188,7 +1188,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *ForceBlur Animation for iOS Messaging Apps*
 
-**[VisualEffectView](https://github.com/efremidze/VisualEffectView) ⭐ 1,418 | 🐛 11 | 🌐 Swift | 📅 2025-12-29**
+**[VisualEffectView](https://github.com/efremidze/VisualEffectView) ⭐ 1,419 | 🐛 11 | 🌐 Swift | 📅 2025-12-29**
 *from [efremidze](https://github.com/efremidze):*
 
 > *Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱*
@@ -1215,7 +1215,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *📅 Fully customizable calendar for iOS*
 
-**[JTCalendar](https://github.com/jonathantribouharet/JTCalendar) ⭐ 2,746 | 🐛 118 | 🌐 Objective-C | 📅 2021-12-06**
+**[JTCalendar](https://github.com/jonathantribouharet/JTCalendar) ⭐ 2,745 | 🐛 118 | 🌐 Objective-C | 📅 2021-12-06**
 *from [jonathantribouharet](https://github.com/jonathantribouharet):*
 
 > *A customizable calendar view for iOS.*
@@ -1227,7 +1227,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Introduction
 
-**[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,434 | 🐛 11 | 🌐 Swift | 📅 2024-10-10**
+**[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,435 | 🐛 11 | 🌐 Swift | 📅 2024-10-10**
 *from [SvenTiigi](https://github.com/SvenTiigi):*
 
 > *Showcase your awesome new app features 📱*
@@ -1237,7 +1237,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *The easiest way to create a great walkthrough experience in your apps, powered by Swift.*
 
-**[BWWalkthrough](https://github.com/ariok/BWWalkthrough) ⭐ 2,746 | 🐛 4 | 🌐 Swift | 📅 2021-02-07**
+**[BWWalkthrough](https://github.com/ariok/BWWalkthrough) ⭐ 2,745 | 🐛 4 | 🌐 Swift | 📅 2021-02-07**
 *from [ariok](https://github.com/ariok):*
 
 > *BWWalkthrough is a class to build custom walkthroughs for your iOS App*
@@ -1252,7 +1252,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A super-charged version of MYIntroductionView for building custom app introductions and tutorials.*
 
-**[Onboard](https://github.com/mamaral/Onboard) ⭐ 6,560 | 🐛 45 | 🌐 Objective-C | 📅 2025-01-01**
+**[Onboard](https://github.com/mamaral/Onboard) ⭐ 6,561 | 🐛 45 | 🌐 Objective-C | 📅 2025-01-01**
 *from [mamaral](https://github.com/mamaral):*
 
 > *An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.*
@@ -1349,7 +1349,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A reactive, card-based UI framework built on UIKit for iOS developers.*
 
-**[TextFieldEffects](https://github.com/raulriera/TextFieldEffects) ⭐ 6,013 | 🐛 7 | 🌐 Swift | 📅 2024-01-28**
+**[TextFieldEffects](https://github.com/raulriera/TextFieldEffects) ⭐ 6,014 | 🐛 7 | 🌐 Swift | 📅 2024-01-28**
 *from [raulriera](https://github.com/raulriera):*
 
 > *Custom UITextFields effects inspired by Codrops, built using Swift*
@@ -1449,4 +1449,4 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._

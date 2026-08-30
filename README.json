@@ -178,7 +178,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7309,
+            "stars": 7311,
             "topics": [
               "animations",
               "ios",
@@ -209,7 +209,7 @@
             "open_issues": 1,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4060,
+            "stars": 4061,
             "topics": [
               "popup",
               "swiftui",
@@ -312,7 +312,7 @@
                 "open_issues": 12,
                 "owner": "marcosgriselli",
                 "repo": "ViewAnimator",
-                "stars": 7309,
+                "stars": 7311,
                 "topics": [
                   "animations",
                   "ios",
@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22488,
+                "stars": 22489,
                 "topics": [
                   "animation",
                   "animations",
@@ -1370,7 +1370,7 @@
                 "open_issues": 79,
                 "owner": "slackhq",
                 "repo": "SlackTextViewController",
-                "stars": 8266,
+                "stars": 8267,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -1854,7 +1854,7 @@
                 "open_issues": 1,
                 "owner": "exyte",
                 "repo": "PopupView",
-                "stars": 4060,
+                "stars": 4061,
                 "topics": [
                   "popup",
                   "swiftui",
@@ -1944,7 +1944,7 @@
                 "open_issues": 1,
                 "owner": "atrinh0",
                 "repo": "buttoncraft",
-                "stars": 448,
+                "stars": 449,
                 "topics": [
                   "button-animation",
                   "buttons",
@@ -3446,7 +3446,7 @@
                 "open_issues": 91,
                 "owner": "devgenios",
                 "repo": "ENSwiftSideMenu",
-                "stars": 1801,
+                "stars": 1800,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -4810,7 +4810,7 @@
                 "open_issues": 15,
                 "owner": "JoniVR",
                 "repo": "VerticalCardSwiper",
-                "stars": 1536,
+                "stars": 1537,
                 "topics": [
                   "animation",
                   "cards",
@@ -4945,7 +4945,7 @@
                 "open_issues": 29,
                 "owner": "optonaut",
                 "repo": "ActiveLabel.swift",
-                "stars": 4603,
+                "stars": 4604,
                 "topics": [
                   "activelabel",
                   "swift",
@@ -5539,7 +5539,7 @@
                 "open_issues": 11,
                 "owner": "efremidze",
                 "repo": "VisualEffectView",
-                "stars": 1418,
+                "stars": 1419,
                 "topics": [
                   "apple",
                   "blur",
@@ -5684,7 +5684,7 @@
                 "open_issues": 118,
                 "owner": "johnvuko",
                 "repo": "JTCalendar",
-                "stars": 2746,
+                "stars": 2745,
                 "topics": [
                   "calendar",
                   "ios"
@@ -5744,7 +5744,7 @@
                 "open_issues": 11,
                 "owner": "SvenTiigi",
                 "repo": "WhatsNewKit",
-                "stars": 4434,
+                "stars": 4435,
                 "topics": [
                   "ios",
                   "macos",
@@ -5793,7 +5793,7 @@
                 "open_issues": 4,
                 "owner": "ariok",
                 "repo": "BWWalkthrough",
-                "stars": 2746,
+                "stars": 2745,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5868,7 +5868,7 @@
                 "open_issues": 45,
                 "owner": "mamaral",
                 "repo": "Onboard",
-                "stars": 6560,
+                "stars": 6561,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6323,7 +6323,7 @@
                 "open_issues": 7,
                 "owner": "raulriera",
                 "repo": "TextFieldEffects",
-                "stars": 6013,
+                "stars": 6014,
                 "topics": [
                   "animation",
                   "effects",
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-29T07:49:47.078Z",
+    "last_updated": "2026-08-30T06:36:00.733Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
