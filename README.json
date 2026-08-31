@@ -1370,7 +1370,7 @@
                 "open_issues": 79,
                 "owner": "slackhq",
                 "repo": "SlackTextViewController",
-                "stars": 8267,
+                "stars": 8266,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -2812,7 +2812,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "CircularProgress",
-                "stars": 578,
+                "stars": 579,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-30T06:36:00.733Z",
+    "last_updated": "2026-08-31T07:00:05.259Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",

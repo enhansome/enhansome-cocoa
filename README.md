@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,231 | 🐛 105 | 📅 2026-08-21
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 501,537 | 🐛 105 | 📅 2026-08-21
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -649,7 +649,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Show progress in your app's Dock icon*
 
-**[CircularProgress](https://github.com/sindresorhus/CircularProgress) ⭐ 578 | 🐛 0 | 🌐 Swift | 📅 2024-02-20**
+**[CircularProgress](https://github.com/sindresorhus/CircularProgress) ⭐ 579 | 🐛 0 | 🌐 Swift | 📅 2024-02-20**
 *from [sindresorhus](https://github.com/sindresorhus):*
 
 > *Circular progress indicator for your macOS app*
@@ -1449,4 +1449,4 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-30._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-08-31._
