@@ -178,7 +178,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7311,
+            "stars": 7310,
             "topics": [
               "animations",
               "ios",
@@ -209,7 +209,7 @@
             "open_issues": 1,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4061,
+            "stars": 4062,
             "topics": [
               "popup",
               "swiftui",
@@ -236,7 +236,7 @@
             "open_issues": 2,
             "owner": "FluidGroup",
             "repo": "PrecisionLevelSlider",
-            "stars": 170,
+            "stars": 171,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:03.687Z"
@@ -312,7 +312,7 @@
                 "open_issues": 12,
                 "owner": "marcosgriselli",
                 "repo": "ViewAnimator",
-                "stars": 7311,
+                "stars": 7310,
                 "topics": [
                   "animations",
                   "ios",
@@ -343,7 +343,7 @@
                 "open_issues": 2,
                 "owner": "ivanvorobei",
                 "repo": "SPLarkController",
-                "stars": 985,
+                "stars": 984,
                 "topics": [
                   "animation",
                   "controller",
@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22489,
+                "stars": 22488,
                 "topics": [
                   "animation",
                   "animations",
@@ -773,7 +773,7 @@
                 "open_issues": 1,
                 "owner": "shu223",
                 "repo": "AnimatedTransitionGallery",
-                "stars": 2504,
+                "stars": 2503,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -815,7 +815,7 @@
                 "open_issues": 14,
                 "owner": "IFTTT",
                 "repo": "JazzHands",
-                "stars": 6361,
+                "stars": 6360,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -899,7 +899,7 @@
                 "open_issues": 11,
                 "owner": "Rightpoint",
                 "repo": "RZTransitions",
-                "stars": 1860,
+                "stars": 1859,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -1259,7 +1259,7 @@
                 "open_issues": 12,
                 "owner": "marty-suzuki",
                 "repo": "URLEmbeddedView",
-                "stars": 646,
+                "stars": 645,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -1854,7 +1854,7 @@
                 "open_issues": 1,
                 "owner": "exyte",
                 "repo": "PopupView",
-                "stars": 4061,
+                "stars": 4062,
                 "topics": [
                   "popup",
                   "swiftui",
@@ -1888,7 +1888,7 @@
                 "open_issues": 2,
                 "owner": "FluidGroup",
                 "repo": "PrecisionLevelSlider",
-                "stars": 170,
+                "stars": 171,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -3277,7 +3277,7 @@
                 "open_issues": 27,
                 "owner": "xmartlabs",
                 "repo": "XLActionController",
-                "stars": 3301,
+                "stars": 3300,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -3338,7 +3338,7 @@
                 "open_issues": 6,
                 "owner": "antoniocasero",
                 "repo": "Panels",
-                "stars": 1489,
+                "stars": 1488,
                 "topics": [
                   "bottom",
                   "containerviewcontroller",
@@ -3425,7 +3425,7 @@
                 "open_issues": 4,
                 "owner": "gautier-gdx",
                 "repo": "Hexacon",
-                "stars": 348,
+                "stars": 347,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -4540,7 +4540,7 @@
                 "open_issues": 16,
                 "owner": "KyleGoddard",
                 "repo": "KGFloatingDrawer",
-                "stars": 496,
+                "stars": 497,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -4778,7 +4778,7 @@
                 "open_issues": 25,
                 "owner": "PaoloCuscela",
                 "repo": "Cards",
-                "stars": 4202,
+                "stars": 4201,
                 "topics": [
                   "cards",
                   "ibdesignable",
@@ -5182,7 +5182,7 @@
                 "open_issues": 83,
                 "owner": "Flipboard",
                 "repo": "FLAnimatedImage",
-                "stars": 7949,
+                "stars": 7950,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5357,7 +5357,7 @@
                 "open_issues": 10,
                 "owner": "louisdh",
                 "repo": "panelkit",
-                "stars": 3742,
+                "stars": 3741,
                 "topics": [
                   "ios",
                   "ipad",
@@ -5394,7 +5394,7 @@
                 "open_issues": 2,
                 "owner": "kgellci",
                 "repo": "Shift",
-                "stars": 185,
+                "stars": 184,
                 "topics": [
                   "gradient",
                   "ios",
@@ -5708,7 +5708,7 @@
                 "open_issues": 503,
                 "owner": "WenchaoD",
                 "repo": "FSCalendar",
-                "stars": 10642,
+                "stars": 10641,
                 "topics": [
                   "calendar",
                   "carthage",
@@ -5896,7 +5896,7 @@
                 "open_issues": 0,
                 "owner": "SvenTiigi",
                 "repo": "STLocationRequest",
-                "stars": 639,
+                "stars": 638,
                 "topics": [
                   "3d-flyover",
                   "carthage",
@@ -5925,7 +5925,7 @@
                 "open_issues": 1,
                 "owner": "SvenTiigi",
                 "repo": "FlyoverKit",
-                "stars": 712,
+                "stars": 713,
                 "topics": [
                   "360degree",
                   "mapview",
@@ -6023,7 +6023,7 @@
                 "open_issues": 2,
                 "owner": "dasdom",
                 "repo": "BreakOutToRefresh",
-                "stars": 2472,
+                "stars": 2471,
                 "topics": [
                   "breakout",
                   "mini-game",
@@ -6205,7 +6205,7 @@
                 "open_issues": 5,
                 "owner": "Ramotion",
                 "repo": "reel-search",
-                "stars": 2505,
+                "stars": 2504,
                 "topics": [
                   "component",
                   "ios",
@@ -6609,7 +6609,7 @@
                 "open_issues": 50,
                 "owner": "0xced",
                 "repo": "XCDYouTubeKit",
-                "stars": 2921,
+                "stars": 2922,
                 "topics": [
                   "player",
                   "video",
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-08-31T07:00:05.259Z",
+    "last_updated": "2026-09-01T06:13:34.111Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
