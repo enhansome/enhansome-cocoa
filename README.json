@@ -410,7 +410,7 @@
                 "open_issues": 3,
                 "owner": "WorldDownTown",
                 "repo": "ZoomTransitioning",
-                "stars": 670,
+                "stars": 671,
                 "topics": [
                   "animation",
                   "carthage",
@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22489,
+                "stars": 22490,
                 "topics": [
                   "animation",
                   "animations",
@@ -2471,7 +2471,7 @@
                 "open_issues": 14,
                 "owner": "Yalantis",
                 "repo": "FoldingTabBar.iOS",
-                "stars": 3664,
+                "stars": 3665,
                 "topics": [
                   "animation",
                   "carthage",
@@ -2945,7 +2945,7 @@
                 "open_issues": 1,
                 "owner": "ninjaprox",
                 "repo": "NVActivityIndicatorView",
-                "stars": 10709,
+                "stars": 10710,
                 "topics": [
                   "animation",
                   "carthage",
@@ -3248,7 +3248,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-07-23T21:58:21Z",
-                "open_issues": 20,
+                "open_issues": 19,
                 "owner": "yysskk",
                 "repo": "SwipeMenuViewController",
                 "stars": 1279,
@@ -3277,7 +3277,7 @@
                 "open_issues": 27,
                 "owner": "xmartlabs",
                 "repo": "XLActionController",
-                "stars": 3300,
+                "stars": 3299,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -3373,7 +3373,7 @@
                 "open_issues": 47,
                 "owner": "jonkykong",
                 "repo": "SideMenu",
-                "stars": 5817,
+                "stars": 5819,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -4854,7 +4854,7 @@
                 "open_issues": 97,
                 "owner": "slackhq",
                 "repo": "PanModal",
-                "stars": 3778,
+                "stars": 3777,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5357,7 +5357,7 @@
                 "open_issues": 10,
                 "owner": "louisdh",
                 "repo": "panelkit",
-                "stars": 3741,
+                "stars": 3740,
                 "topics": [
                   "ios",
                   "ipad",
@@ -5744,7 +5744,7 @@
                 "open_issues": 11,
                 "owner": "SvenTiigi",
                 "repo": "WhatsNewKit",
-                "stars": 4435,
+                "stars": 4437,
                 "topics": [
                   "ios",
                   "macos",
@@ -6323,7 +6323,7 @@
                 "open_issues": 7,
                 "owner": "raulriera",
                 "repo": "TextFieldEffects",
-                "stars": 6014,
+                "stars": 6015,
                 "topics": [
                   "animation",
                   "effects",
@@ -6560,7 +6560,7 @@
                 "open_issues": 66,
                 "owner": "mariohahn",
                 "repo": "MHVideoPhotoGallery",
-                "stars": 1947,
+                "stars": 1946,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-02T05:45:57.202Z",
+    "last_updated": "2026-09-03T05:44:24.559Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
