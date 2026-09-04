@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,478 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 502,781 | 🐛 106 | 📅 2026-09-02
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -197,7 +197,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *The Swift library for showing the rounded coach marks (useful for onboarding or run-time help purposes)*
 
-**[Hero](https://github.com/HeroTransitions/Hero) ⭐ 22,490 | 🐛 42 | 🌐 Swift | 📅 2025-01-23**
+**[Hero](https://github.com/HeroTransitions/Hero) ⭐ 22,489 | 🐛 42 | 🌐 Swift | 📅 2025-01-23**
 *from [HeroTransitions](https://github.com/HeroTransitions):*
 
 > *Elegant transition library for iOS & tvOS*
@@ -237,7 +237,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A set of cool animated page controls written in Swift to replace boring UIPageControl.*
 
-**[BubbleTransition](https://github.com/andreamazz/BubbleTransition) ⭐ 3,303 | 🐛 3 | 🌐 Swift | 📅 2020-11-04**
+**[BubbleTransition](https://github.com/andreamazz/BubbleTransition) ⭐ 3,302 | 🐛 3 | 🌐 Swift | 📅 2020-11-04**
 *from [andreamazz](https://github.com/andreamazz):*
 
 > *A custom modal transition that presents and dismiss a controller with an expanding bubble effect.*
@@ -753,7 +753,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Panels is a framework to easily add sliding panels to your application*
 
-**[SideMenu](https://github.com/jonkykong/SideMenu) ⭐ 5,819 | 🐛 47 | 🌐 Swift | 📅 2023-02-09**
+**[SideMenu](https://github.com/jonkykong/SideMenu) ⭐ 5,820 | 🐛 47 | 🌐 Swift | 📅 2023-02-09**
 *from [jonkykong](https://github.com/jonkykong):*
 
 > *Simple side menu control for iOS, no code necessary! Lots of customization. Add it to your project in 5 minutes or less.*
@@ -773,7 +773,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > \*A simple side menu for iOS written in Swift. \*
 
-**[XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) ⭐ 6,999 | 🐛 314 | 🌐 Swift | 📅 2023-11-22**
+**[XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) ⭐ 6,998 | 🐛 314 | 🌐 Swift | 📅 2023-11-22**
 *from [xmartlabs](https://github.com/xmartlabs):*
 
 > *Android PagerTabStrip for iOS.*
@@ -868,7 +868,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A customizable framework to create draggable views*
 
-**[CDAlertView](https://github.com/candostdagdeviren/CDAlertView) ⭐ 1,136 | 🐛 4 | 🌐 Swift | 📅 2026-08-20**
+**[CDAlertView](https://github.com/candostdagdeviren/CDAlertView) ⭐ 1,135 | 🐛 4 | 🌐 Swift | 📅 2026-08-20**
 *from [candostdagdeviren](https://github.com/candostdagdeviren):*
 
 > *Highly customizable alertview and alert/notification/success/error/alarm popup written in Swift*
@@ -1077,7 +1077,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Simple and highly customizable iOS tag list view, in Swift.*
 
-**[ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) ⭐ 4,605 | 🐛 29 | 🌐 Swift | 📅 2023-10-27**
+**[ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) ⭐ 4,604 | 🐛 29 | 🌐 Swift | 📅 2023-10-27**
 *from [optonaut](https://github.com/optonaut):*
 
 > *UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http\://) written in Swift*
@@ -1121,7 +1121,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *:milky\_way: A convenient and easy to use image viewer for your iOS app*
 
-**[FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) ⭐ 7,950 | 🐛 83 | 🌐 Objective-C | 📅 2024-03-21**
+**[FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) ⭐ 7,951 | 🐛 83 | 🌐 Objective-C | 📅 2024-03-21**
 *from [Flipboard](https://github.com/Flipboard):*
 
 > *Performant animated GIF engine for iOS*
@@ -1220,7 +1220,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A customizable calendar view for iOS.*
 
-**[FSCalendar](https://github.com/WenchaoIOS/FSCalendar) ⭐ 10,640 | 🐛 503 | 🌐 Objective-C | 📅 2024-08-10**
+**[FSCalendar](https://github.com/WenchaoIOS/FSCalendar) ⭐ 10,639 | 🐛 503 | 🌐 Objective-C | 📅 2024-08-10**
 *from [WenchaoD](https://github.com/WenchaoD):*
 
 > *A fully customizable iOS calendar library, compatible with Objective-C and Swift*
@@ -1354,7 +1354,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Custom UITextFields effects inspired by Codrops, built using Swift*
 
-**[JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) ⭐ 7,140 | 🐛 28 | 🌐 Objective-C | 📅 2023-04-17**
+**[JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) ⭐ 7,139 | 🐛 28 | 🌐 Objective-C | 📅 2023-04-17**
 *from [jverdi](https://github.com/jverdi):*
 
 > *UITextField subclass with floating labels - inspired by Matt D. Smith's design: <http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users>*
@@ -1449,4 +1449,4 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-04._

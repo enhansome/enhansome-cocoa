@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22490,
+                "stars": 22489,
                 "topics": [
                   "animation",
                   "animations",
@@ -752,7 +752,7 @@
                 "open_issues": 3,
                 "owner": "andreamazz",
                 "repo": "BubbleTransition",
-                "stars": 3303,
+                "stars": 3302,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -3373,7 +3373,7 @@
                 "open_issues": 47,
                 "owner": "jonkykong",
                 "repo": "SideMenu",
-                "stars": 5819,
+                "stars": 5820,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -3467,7 +3467,7 @@
                 "open_issues": 314,
                 "owner": "xmartlabs",
                 "repo": "XLPagerTabStrip",
-                "stars": 6999,
+                "stars": 6998,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -3943,7 +3943,7 @@
                 "open_issues": 4,
                 "owner": "candostdagdeviren",
                 "repo": "CDAlertView",
-                "stars": 1136,
+                "stars": 1135,
                 "topics": [
                   "alert",
                   "alert-messages",
@@ -4945,7 +4945,7 @@
                 "open_issues": 29,
                 "owner": "optonaut",
                 "repo": "ActiveLabel.swift",
-                "stars": 4605,
+                "stars": 4604,
                 "topics": [
                   "activelabel",
                   "swift",
@@ -5182,7 +5182,7 @@
                 "open_issues": 83,
                 "owner": "Flipboard",
                 "repo": "FLAnimatedImage",
-                "stars": 7950,
+                "stars": 7951,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5708,7 +5708,7 @@
                 "open_issues": 503,
                 "owner": "WenchaoD",
                 "repo": "FSCalendar",
-                "stars": 10640,
+                "stars": 10639,
                 "topics": [
                   "calendar",
                   "carthage",
@@ -6349,7 +6349,7 @@
                 "open_issues": 28,
                 "owner": "jverdi",
                 "repo": "JVFloatLabeledTextField",
-                "stars": 7140,
+                "stars": 7139,
                 "topics": [
                   "carthage",
                   "floating-labels",
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-03T05:44:24.559Z",
+    "last_updated": "2026-09-04T05:49:26.849Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
