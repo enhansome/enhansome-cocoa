@@ -209,7 +209,7 @@
             "open_issues": 1,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4061,
+            "stars": 4062,
             "topics": [
               "popup",
               "swiftui",
@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22488,
+                "stars": 22487,
                 "topics": [
                   "animation",
                   "animations",
@@ -899,7 +899,7 @@
                 "open_issues": 11,
                 "owner": "Rightpoint",
                 "repo": "RZTransitions",
-                "stars": 1859,
+                "stars": 1858,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -1854,7 +1854,7 @@
                 "open_issues": 1,
                 "owner": "exyte",
                 "repo": "PopupView",
-                "stars": 4061,
+                "stars": 4062,
                 "topics": [
                   "popup",
                   "swiftui",
@@ -5155,7 +5155,7 @@
                 "open_issues": 24,
                 "owner": "hyperoslo",
                 "repo": "Lightbox",
-                "stars": 1744,
+                "stars": 1745,
                 "topics": [
                   "image",
                   "ios",
@@ -5744,7 +5744,7 @@
                 "open_issues": 11,
                 "owner": "SvenTiigi",
                 "repo": "WhatsNewKit",
-                "stars": 4437,
+                "stars": 4436,
                 "topics": [
                   "ios",
                   "macos",
@@ -6690,7 +6690,7 @@
                 "open_issues": 24,
                 "owner": "CSStickyHeaderFlowLayout",
                 "repo": "CSStickyHeaderFlowLayout",
-                "stars": 5031,
+                "stars": 5032,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-06T05:53:02.156Z",
+    "last_updated": "2026-09-07T06:01:51.213Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
