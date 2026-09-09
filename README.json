@@ -178,7 +178,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7310,
+            "stars": 7309,
             "topics": [
               "animations",
               "ios",
@@ -209,7 +209,7 @@
             "open_issues": 1,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4062,
+            "stars": 4061,
             "topics": [
               "popup",
               "swiftui",
@@ -312,7 +312,7 @@
                 "open_issues": 12,
                 "owner": "marcosgriselli",
                 "repo": "ViewAnimator",
-                "stars": 7310,
+                "stars": 7309,
                 "topics": [
                   "animations",
                   "ios",
@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22488,
+                "stars": 22487,
                 "topics": [
                   "animation",
                   "animations",
@@ -920,7 +920,7 @@
                 "open_issues": 0,
                 "owner": "andreamazz",
                 "repo": "UITextField-Shake",
-                "stars": 725,
+                "stars": 723,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -1854,7 +1854,7 @@
                 "open_issues": 1,
                 "owner": "exyte",
                 "repo": "PopupView",
-                "stars": 4062,
+                "stars": 4061,
                 "topics": [
                   "popup",
                   "swiftui",
@@ -1992,7 +1992,7 @@
                 "open_issues": 0,
                 "owner": "exyte",
                 "repo": "FloatingButton",
-                "stars": 1270,
+                "stars": 1269,
                 "topics": [
                   "swiftui",
                   "swiftui-animations",
@@ -2386,7 +2386,7 @@
                 "open_issues": 17,
                 "owner": "Ramotion",
                 "repo": "animated-tab-bar",
-                "stars": 11085,
+                "stars": 11084,
                 "topics": [
                   "animation",
                   "ios",
@@ -2471,7 +2471,7 @@
                 "open_issues": 14,
                 "owner": "Yalantis",
                 "repo": "FoldingTabBar.iOS",
-                "stars": 3662,
+                "stars": 3661,
                 "topics": [
                   "animation",
                   "carthage",
@@ -2783,7 +2783,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "DockProgress",
-                "stars": 1355,
+                "stars": 1354,
                 "topics": [
                   "dock",
                   "icon",
@@ -3856,7 +3856,7 @@
                 "open_issues": 15,
                 "owner": "peterprokop",
                 "repo": "SwiftOverlays",
-                "stars": 627,
+                "stars": 626,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -3887,7 +3887,7 @@
                 "open_issues": 64,
                 "owner": "pkluz",
                 "repo": "PKHUD",
-                "stars": 3777,
+                "stars": 3776,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -4024,7 +4024,7 @@
                 "open_issues": 94,
                 "owner": "KrauseFx",
                 "repo": "TSMessages",
-                "stars": 4839,
+                "stars": 4838,
                 "topics": [
                   "cocoapods",
                   "ios",
@@ -4945,7 +4945,7 @@
                 "open_issues": 29,
                 "owner": "optonaut",
                 "repo": "ActiveLabel.swift",
-                "stars": 4604,
+                "stars": 4605,
                 "topics": [
                   "activelabel",
                   "swift",
@@ -5744,7 +5744,7 @@
                 "open_issues": 11,
                 "owner": "SvenTiigi",
                 "repo": "WhatsNewKit",
-                "stars": 4436,
+                "stars": 4435,
                 "topics": [
                   "ios",
                   "macos",
@@ -5868,7 +5868,7 @@
                 "open_issues": 45,
                 "owner": "mamaral",
                 "repo": "Onboard",
-                "stars": 6560,
+                "stars": 6559,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5993,7 +5993,7 @@
                 "open_issues": 4,
                 "owner": "Yalantis",
                 "repo": "PullToMakeSoup",
-                "stars": 1914,
+                "stars": 1913,
                 "topics": [
                   "animation",
                   "carthage",
@@ -6539,7 +6539,7 @@
                 "open_issues": 335,
                 "owner": "mwaterfall",
                 "repo": "MWPhotoBrowser",
-                "stars": 8708,
+                "stars": 8707,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6662,7 +6662,7 @@
                 "open_issues": 8,
                 "owner": "JaviSoto",
                 "repo": "JSBadgeView",
-                "stars": 1279,
+                "stars": 1278,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-08T05:55:01.561Z",
+    "last_updated": "2026-09-09T05:56:39.294Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
