@@ -1152,7 +1152,7 @@
                 "open_issues": 77,
                 "owner": "SwipeCellKit",
                 "repo": "SwipeCellKit",
-                "stars": 6281,
+                "stars": 6282,
                 "topics": [
                   "drag",
                   "ios",
@@ -2783,7 +2783,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "DockProgress",
-                "stars": 1354,
+                "stars": 1353,
                 "topics": [
                   "dock",
                   "icon",
@@ -3248,7 +3248,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-07-23T21:58:21Z",
-                "open_issues": 18,
+                "open_issues": 17,
                 "owner": "yysskk",
                 "repo": "SwipeMenuViewController",
                 "stars": 1279,
@@ -3373,7 +3373,7 @@
                 "open_issues": 47,
                 "owner": "jonkykong",
                 "repo": "SideMenu",
-                "stars": 5818,
+                "stars": 5819,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -5182,7 +5182,7 @@
                 "open_issues": 83,
                 "owner": "Flipboard",
                 "repo": "FLAnimatedImage",
-                "stars": 7947,
+                "stars": 7946,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5647,7 +5647,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-07-06T02:52:46Z",
-                "open_issues": 36,
+                "open_issues": 37,
                 "owner": "richardtop",
                 "repo": "CalendarKit",
                 "stars": 2705,
@@ -6070,7 +6070,7 @@
                 "open_issues": 27,
                 "owner": "coolbeet",
                 "repo": "CBStoreHouseRefreshControl",
-                "stars": 3884,
+                "stars": 3883,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-09T05:56:39.294Z",
+    "last_updated": "2026-09-10T05:55:19.455Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
