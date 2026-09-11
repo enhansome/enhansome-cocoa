@@ -151,7 +151,7 @@
             "open_issues": 48,
             "owner": "alexaubry",
             "repo": "BulletinBoard",
-            "stars": 5337,
+            "stars": 5336,
             "topics": [
               "card",
               "configuration",
@@ -209,7 +209,7 @@
             "open_issues": 1,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4061,
+            "stars": 4060,
             "topics": [
               "popup",
               "swiftui",
@@ -1321,7 +1321,7 @@
                 "open_issues": 12,
                 "owner": "Ramotion",
                 "repo": "folding-cell",
-                "stars": 10176,
+                "stars": 10175,
                 "topics": [
                   "animation",
                   "ios",
@@ -1820,7 +1820,7 @@
                 "open_issues": 48,
                 "owner": "alexaubry",
                 "repo": "BulletinBoard",
-                "stars": 5337,
+                "stars": 5336,
                 "topics": [
                   "card",
                   "configuration",
@@ -1854,7 +1854,7 @@
                 "open_issues": 1,
                 "owner": "exyte",
                 "repo": "PopupView",
-                "stars": 4061,
+                "stars": 4060,
                 "topics": [
                   "popup",
                   "swiftui",
@@ -2221,7 +2221,7 @@
                 "open_issues": 32,
                 "owner": "okmr-d",
                 "repo": "DOFavoriteButton",
-                "stars": 3584,
+                "stars": 3582,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -2386,7 +2386,7 @@
                 "open_issues": 17,
                 "owner": "Ramotion",
                 "repo": "animated-tab-bar",
-                "stars": 11084,
+                "stars": 11083,
                 "topics": [
                   "animation",
                   "ios",
@@ -2945,7 +2945,7 @@
                 "open_issues": 1,
                 "owner": "ninjaprox",
                 "repo": "NVActivityIndicatorView",
-                "stars": 10707,
+                "stars": 10706,
                 "topics": [
                   "animation",
                   "carthage",
@@ -4648,7 +4648,7 @@
                 "open_issues": 8,
                 "owner": "tispr",
                 "repo": "tispr-card-stack",
-                "stars": 849,
+                "stars": 847,
                 "topics": [
                   "indy"
                 ]
@@ -5684,7 +5684,7 @@
                 "open_issues": 118,
                 "owner": "johnvuko",
                 "repo": "JTCalendar",
-                "stars": 2745,
+                "stars": 2744,
                 "topics": [
                   "calendar",
                   "ios"
@@ -5744,7 +5744,7 @@
                 "open_issues": 11,
                 "owner": "SvenTiigi",
                 "repo": "WhatsNewKit",
-                "stars": 4435,
+                "stars": 4437,
                 "topics": [
                   "ios",
                   "macos",
@@ -5790,7 +5790,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2021-02-07T14:50:57Z",
-                "open_issues": 4,
+                "open_issues": 5,
                 "owner": "ariok",
                 "repo": "BWWalkthrough",
                 "stars": 2744,
@@ -6070,7 +6070,7 @@
                 "open_issues": 27,
                 "owner": "coolbeet",
                 "repo": "CBStoreHouseRefreshControl",
-                "stars": 3883,
+                "stars": 3884,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6539,7 +6539,7 @@
                 "open_issues": 335,
                 "owner": "mwaterfall",
                 "repo": "MWPhotoBrowser",
-                "stars": 8707,
+                "stars": 8706,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-10T05:55:19.455Z",
+    "last_updated": "2026-09-11T05:54:55.471Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
