@@ -209,7 +209,7 @@
             "open_issues": 1,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4060,
+            "stars": 4059,
             "topics": [
               "popup",
               "swiftui",
@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22487,
+                "stars": 22486,
                 "topics": [
                   "animation",
                   "animations",
@@ -815,7 +815,7 @@
                 "open_issues": 14,
                 "owner": "IFTTT",
                 "repo": "JazzHands",
-                "stars": 6356,
+                "stars": 6355,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -1854,7 +1854,7 @@
                 "open_issues": 1,
                 "owner": "exyte",
                 "repo": "PopupView",
-                "stars": 4060,
+                "stars": 4059,
                 "topics": [
                   "popup",
                   "swiftui",
@@ -2280,7 +2280,7 @@
                 "open_issues": 17,
                 "owner": "marcosgriselli",
                 "repo": "SwipeableTabBarController",
-                "stars": 1535,
+                "stars": 1536,
                 "topics": [
                   "animation",
                   "cocoapods",
@@ -2945,7 +2945,7 @@
                 "open_issues": 1,
                 "owner": "ninjaprox",
                 "repo": "NVActivityIndicatorView",
-                "stars": 10706,
+                "stars": 10707,
                 "topics": [
                   "animation",
                   "carthage",
@@ -5042,7 +5042,7 @@
                 "open_issues": 15,
                 "owner": "scihant",
                 "repo": "CTPanoramaView",
-                "stars": 1045,
+                "stars": 1044,
                 "topics": [
                   "360-photo",
                   "carthage",
@@ -5539,7 +5539,7 @@
                 "open_issues": 11,
                 "owner": "efremidze",
                 "repo": "VisualEffectView",
-                "stars": 1419,
+                "stars": 1420,
                 "topics": [
                   "apple",
                   "blur",
@@ -5744,7 +5744,7 @@
                 "open_issues": 11,
                 "owner": "SvenTiigi",
                 "repo": "WhatsNewKit",
-                "stars": 4437,
+                "stars": 4435,
                 "topics": [
                   "ios",
                   "macos",
@@ -5868,7 +5868,7 @@
                 "open_issues": 45,
                 "owner": "mamaral",
                 "repo": "Onboard",
-                "stars": 6559,
+                "stars": 6558,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6483,7 +6483,7 @@
                 "open_issues": 105,
                 "owner": "Augustyniak",
                 "repo": "RATreeView",
-                "stars": 2481,
+                "stars": 2480,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6539,7 +6539,7 @@
                 "open_issues": 335,
                 "owner": "mwaterfall",
                 "repo": "MWPhotoBrowser",
-                "stars": 8706,
+                "stars": 8705,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6609,7 +6609,7 @@
                 "open_issues": 50,
                 "owner": "0xced",
                 "repo": "XCDYouTubeKit",
-                "stars": 2922,
+                "stars": 2923,
                 "topics": [
                   "player",
                   "video",
@@ -6690,7 +6690,7 @@
                 "open_issues": 24,
                 "owner": "CSStickyHeaderFlowLayout",
                 "repo": "CSStickyHeaderFlowLayout",
-                "stars": 5031,
+                "stars": 5030,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-11T05:54:55.471Z",
+    "last_updated": "2026-09-12T05:42:57.810Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",

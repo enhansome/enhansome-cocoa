@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 504,912 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,225 | 🐛 106 | 📅 2026-09-02
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -133,7 +133,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,060 | 🐛 1 | 🌐 Swift | 📅 2026-07-30**
+**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,059 | 🐛 1 | 🌐 Swift | 📅 2026-07-30**
 *from [exyte](https://github.com/exyte):*
 
 > *Toasts and popups library written with SwiftUI*
@@ -197,7 +197,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *The Swift library for showing the rounded coach marks (useful for onboarding or run-time help purposes)*
 
-**[Hero](https://github.com/HeroTransitions/Hero) ⭐ 22,487 | 🐛 42 | 🌐 Swift | 📅 2025-01-23**
+**[Hero](https://github.com/HeroTransitions/Hero) ⭐ 22,486 | 🐛 42 | 🌐 Swift | 📅 2025-01-23**
 *from [HeroTransitions](https://github.com/HeroTransitions):*
 
 > *Elegant transition library for iOS & tvOS*
@@ -252,7 +252,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Twitter style Splash Screen View. Grows to reveal the Initial view behind*
 
-**[JazzHands](https://github.com/IFTTT/JazzHands) ⭐ 6,356 | 🐛 14 | 🌐 Objective-C | 📅 2024-07-30**
+**[JazzHands](https://github.com/IFTTT/JazzHands) ⭐ 6,355 | 🐛 14 | 🌐 Objective-C | 📅 2024-07-30**
 *from [IFTTT](https://github.com/IFTTT):*
 
 > *A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros.*
@@ -464,7 +464,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Toast
 
-**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,060 | 🐛 1 | 🌐 Swift | 📅 2026-07-30**
+**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,059 | 🐛 1 | 🌐 Swift | 📅 2026-07-30**
 *from [exyte](https://github.com/exyte):*
 
 > *Toasts and popups library written with SwiftUI*
@@ -547,7 +547,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Light way to add Fancy bottom bar 📲*
 
-**[SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) ⭐ 1,535 | 🐛 17 | 🌐 Swift | 📅 2023-06-04**
+**[SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) ⭐ 1,536 | 🐛 17 | 🌐 Swift | 📅 2023-06-04**
 *from [marcosgriselli](https://github.com/marcosgriselli):*
 
 > *UITabBarController with swipe interaction between its tabs.*
@@ -674,7 +674,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Kit for building custom gauges + easy reproducible Apple's style ring gauges.*
 
-**[NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) ⭐ 10,706 | 🐛 1 | 🌐 Swift | 📅 2026-03-18**
+**[NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) ⭐ 10,707 | 🐛 1 | 🌐 Swift | 📅 2026-03-18**
 *from [ninjaprox](https://github.com/ninjaprox):*
 
 > *A collection of awesome loading animations*
@@ -1096,7 +1096,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > \*HoneycombView is the iOS UIView for displaying like Honeycomb layout written by swift \*
 
-**[CTPanoramaView](https://github.com/scihant/CTPanoramaView) ⭐ 1,045 | 🐛 15 | 🌐 Swift | 📅 2024-08-09**
+**[CTPanoramaView](https://github.com/scihant/CTPanoramaView) ⭐ 1,044 | 🐛 15 | 🌐 Swift | 📅 2024-08-09**
 *from [scihant](https://github.com/scihant):*
 
 > *A library that displays spherical or cylindrical panoramas with touch or motion based controls.*
@@ -1188,7 +1188,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *ForceBlur Animation for iOS Messaging Apps*
 
-**[VisualEffectView](https://github.com/efremidze/VisualEffectView) ⭐ 1,419 | 🐛 11 | 🌐 Swift | 📅 2025-12-29**
+**[VisualEffectView](https://github.com/efremidze/VisualEffectView) ⭐ 1,420 | 🐛 11 | 🌐 Swift | 📅 2025-12-29**
 *from [efremidze](https://github.com/efremidze):*
 
 > *Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱*
@@ -1227,7 +1227,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Introduction
 
-**[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,437 | 🐛 11 | 🌐 Swift | 📅 2024-10-10**
+**[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,435 | 🐛 11 | 🌐 Swift | 📅 2024-10-10**
 *from [SvenTiigi](https://github.com/SvenTiigi):*
 
 > *Showcase your awesome new app features 📱*
@@ -1252,7 +1252,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A super-charged version of MYIntroductionView for building custom app introductions and tutorials.*
 
-**[Onboard](https://github.com/mamaral/Onboard) ⭐ 6,559 | 🐛 45 | 🌐 Objective-C | 📅 2025-01-01**
+**[Onboard](https://github.com/mamaral/Onboard) ⭐ 6,558 | 🐛 45 | 🌐 Objective-C | 📅 2025-01-01**
 *from [mamaral](https://github.com/mamaral):*
 
 > *An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.*
@@ -1385,7 +1385,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## TreeView
 
-**[RATreeView](https://github.com/Augustyniak/RATreeView) ⭐ 2,481 | 🐛 105 | 🌐 Objective-C | 📅 2019-12-10**
+**[RATreeView](https://github.com/Augustyniak/RATreeView) ⭐ 2,480 | 🐛 105 | 🌐 Objective-C | 📅 2019-12-10**
 *from [Augustyniak](https://github.com/Augustyniak):*
 
 > *Library providing easy-to-use interface for displaying tree structures on iOS and tvOS.*
@@ -1399,7 +1399,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Gallery
 
-**[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) ⭐ 8,706 | 🐛 335 | 🌐 Objective-C | 📅 2024-06-27**
+**[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) ⭐ 8,705 | 🐛 335 | 🌐 Objective-C | 📅 2024-06-27**
 *from [mwaterfall](https://github.com/mwaterfall):*
 
 > *A simple iOS photo and video browser with grid view, captions and selections.*
@@ -1416,7 +1416,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *VideoSplashKit - UIViewController library for creating easy intro pages with background videos*
 
-**[XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) ⭐ 2,922 | 🐛 50 | 🌐 Objective-C | 📅 2024-04-08**
+**[XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) ⭐ 2,923 | 🐛 50 | 🌐 Objective-C | 📅 2024-04-08**
 *from [0xced](https://github.com/0xced):*
 
 > *YouTube video player for iOS, tvOS and macOS*
@@ -1435,7 +1435,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Sticky
 
-**[CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout) ⭐ 5,031 | 🐛 24 | 🌐 Objective-C | 📅 2021-07-17**
+**[CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout) ⭐ 5,030 | 🐛 24 | 🌐 Objective-C | 📅 2021-07-17**
 *from [CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout):*
 
 > *UICollectionView replacement of UITableView. Do even more like Parallax Header, Sticky Section Header. Made for iOS 7.*
@@ -1449,4 +1449,4 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-11._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-12._
