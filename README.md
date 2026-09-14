@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,528 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 505,839 | 🐛 106 | 📅 2026-09-02
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -197,7 +197,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *The Swift library for showing the rounded coach marks (useful for onboarding or run-time help purposes)*
 
-**[Hero](https://github.com/HeroTransitions/Hero) ⭐ 22,486 | 🐛 42 | 🌐 Swift | 📅 2025-01-23**
+**[Hero](https://github.com/HeroTransitions/Hero) ⭐ 22,488 | 🐛 42 | 🌐 Swift | 📅 2025-01-23**
 *from [HeroTransitions](https://github.com/HeroTransitions):*
 
 > *Elegant transition library for iOS & tvOS*
@@ -294,7 +294,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > \*PagingKit provides customizable menu UI. It has more flexible layout and design than the other libraries. \*
 
-**[TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) ⭐ 1,465 | 🐛 7 | 🌐 Swift | 📅 2024-08-21**
+**[TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) ⭐ 1,465 | 🐛 7 | 🌐 Swift | 📅 2026-09-14**
 *from [TBXark](https://github.com/TBXark):*
 
 > *A rubber animation pagecontrol*
@@ -331,7 +331,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *UITableView based component designed to display a hierarchy of expandable/foldable comments.*
 
-**[YNExpandableCell](https://github.com/younatics/YNExpandableCell) ⭐ 451 | 🐛 8 | 🌐 Swift | 📅 2026-07-08**
+**[YNExpandableCell](https://github.com/younatics/YNExpandableCell) ⭐ 451 | 🐛 8 | 🌐 Swift | 📅 2026-09-13**
 *from [younatics](https://github.com/younatics):*
 
 > *✨ Awesome expandable, collapsible tableview cell for iOS written in Swift 4*
@@ -420,7 +420,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *DTTextField is a custom textfield with floating placeholder and error label*
 
-**[CountdownLabel](https://github.com/suzuki-0000/CountdownLabel) ⭐ 1,013 | 🐛 35 | 🌐 Swift | 📅 2022-03-07**
+**[CountdownLabel](https://github.com/suzuki-0000/CountdownLabel) ⭐ 1,011 | 🐛 35 | 🌐 Swift | 📅 2022-03-07**
 *from [suzuki-0000](https://github.com/suzuki-0000):*
 
 > *Simple countdown UILabel with morphing animation, and some useful function.*
@@ -567,7 +567,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!*
 
-**[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) ⭐ 11,082 | 🐛 17 | 🌐 Swift | 📅 2022-01-26**
+**[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) ⭐ 11,083 | 🐛 17 | 🌐 Swift | 📅 2022-01-26**
 *from [Ramotion](https://github.com/Ramotion):*
 
 > *:octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion*
@@ -639,7 +639,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Forget about typical stereotypic loading, It's time to change. SSSpinnerButton is an elegant button with a diffrent spinner animations.*
 
-**[GradientCircularProgress](https://github.com/keygx/GradientCircularProgress) ⭐ 545 | 🐛 9 | 🌐 Swift | 📅 2021-08-26**
+**[GradientCircularProgress](https://github.com/keygx/GradientCircularProgress) ⭐ 543 | 🐛 9 | 🌐 Swift | 📅 2021-08-26**
 *from [keygx](https://github.com/keygx):*
 
 > *Customizable progress indicator library in Swift*
@@ -649,7 +649,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Show progress in your app's Dock icon*
 
-**[CircularProgress](https://github.com/sindresorhus/CircularProgress) ⭐ 579 | 🐛 0 | 🌐 Swift | 📅 2024-02-20**
+**[CircularProgress](https://github.com/sindresorhus/CircularProgress) ⭐ 578 | 🐛 0 | 🌐 Swift | 📅 2024-02-20**
 *from [sindresorhus](https://github.com/sindresorhus):*
 
 > *Circular progress indicator for your macOS app*
@@ -674,7 +674,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Kit for building custom gauges + easy reproducible Apple's style ring gauges.*
 
-**[NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) ⭐ 10,707 | 🐛 1 | 🌐 Swift | 📅 2026-03-18**
+**[NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) ⭐ 10,708 | 🐛 1 | 🌐 Swift | 📅 2026-03-18**
 *from [ninjaprox](https://github.com/ninjaprox):*
 
 > *A collection of awesome loading animations*
@@ -713,7 +713,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Interactive view transition to display menus with flowing and bouncing effects in Swift*
 
-**[PinterestSegment](https://github.com/TBXark/PinterestSegment) ⭐ 695 | 🐛 14 | 🌐 Swift | 📅 2024-08-21**
+**[PinterestSegment](https://github.com/TBXark/PinterestSegment) ⭐ 695 | 🐛 14 | 🌐 Swift | 📅 2026-09-14**
 *from [TBXark](https://github.com/TBXark):*
 
 > *A Pinterest-like segment control with masking animation.*
@@ -733,7 +733,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.*
 
-**[SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) ⭐ 1,279 | 🐛 17 | 🌐 Swift | 📅 2026-07-23**
+**[SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) ⭐ 1,277 | 🐛 17 | 🌐 Swift | 📅 2026-07-23**
 *from [yysskk](https://github.com/yysskk):*
 
 > *Swipable tab and menu View and ViewController.*
@@ -743,7 +743,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Fully customizable and extensible action sheet controller written in Swift*
 
-**[YNDropDownMenu](https://github.com/younatics/YNDropDownMenu) ⭐ 1,328 | 🐛 8 | 🌐 Swift | 📅 2026-07-07**
+**[YNDropDownMenu](https://github.com/younatics/YNDropDownMenu) ⭐ 1,328 | 🐛 8 | 🌐 Swift | 📅 2026-09-13**
 *from [younatics](https://github.com/younatics):*
 
 > *✨ Awesome Dropdown menu for iOS with Swift 4*
@@ -1033,7 +1033,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Inifinite swipeable stacked UIViews.*
 
-**[Koloda](https://github.com/Yalantis/Koloda) ⭐ 5,391 | 🐛 50 | 🌐 Swift | 📅 2024-05-29**
+**[Koloda](https://github.com/Yalantis/Koloda) ⭐ 5,390 | 🐛 50 | 🌐 Swift | 📅 2024-05-29**
 *from [Yalantis](https://github.com/Yalantis):*
 
 > \*KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. \*
@@ -1043,7 +1043,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Awesome iOS 11 appstore cards in swift 4.*
 
-**[VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) ⭐ 1,539 | 🐛 15 | 🌐 Swift | 📅 2023-10-02**
+**[VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) ⭐ 1,540 | 🐛 15 | 🌐 Swift | 📅 2023-10-02**
 *from [JoniVR](https://github.com/JoniVR):*
 
 > *A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.*
@@ -1116,7 +1116,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A simple UIImageView extension for using initials as a profile image, written in swift*
 
-**[Lightbox](https://github.com/hyperoslo/Lightbox) ⭐ 1,745 | 🐛 24 | 🌐 Swift | 📅 2024-08-27**
+**[Lightbox](https://github.com/hyperoslo/Lightbox) ⭐ 1,744 | 🐛 24 | 🌐 Swift | 📅 2024-08-27**
 *from [hyperoslo](https://github.com/hyperoslo):*
 
 > *:milky\_way: A convenient and easy to use image viewer for your iOS app*
@@ -1138,7 +1138,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Toggle
 
-**[TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) ⭐ 916 | 🐛 3 | 🌐 Swift | 📅 2024-08-21**
+**[TKSwitcherCollection](https://github.com/TBXark/TKSwitcherCollection) ⭐ 916 | 🐛 3 | 🌐 Swift | 📅 2026-09-14**
 *from [TBXark](https://github.com/TBXark):*
 
 > *An animation switch collection*
@@ -1210,7 +1210,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A Github's like work contribution timeline. 🤸🏻*
 
-**[CalendarKit](https://github.com/richardtop/CalendarKit) ⭐ 2,705 | 🐛 35 | 🌐 Swift | 📅 2026-09-12**
+**[CalendarKit](https://github.com/richardtop/CalendarKit) ⭐ 2,704 | 🐛 35 | 🌐 Swift | 📅 2026-09-12**
 *from [richardtop](https://github.com/richardtop):*
 
 > *📅 Fully customizable calendar for iOS*
@@ -1327,7 +1327,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Picker
 
-**[reel-search](https://github.com/Ramotion/reel-search) ⭐ 2,503 | 🐛 5 | 🌐 Swift | 📅 2020-04-06**
+**[reel-search](https://github.com/Ramotion/reel-search) ⭐ 2,504 | 🐛 5 | 🌐 Swift | 📅 2020-04-06**
 *from [Ramotion](https://github.com/Ramotion):*
 
 > *:octocat: 🔍 RAMReel is a UI controller that allows you to choose options from a list. Swift UI library made by @Ramotion*
@@ -1449,4 +1449,4 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-13._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-14._

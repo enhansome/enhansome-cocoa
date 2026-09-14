@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22486,
+                "stars": 22488,
                 "topics": [
                   "animation",
                   "animations",
@@ -996,7 +996,7 @@
                 "id": 45082974,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2024-08-21T09:11:19Z",
+                "last_commit": "2026-09-14T03:24:01Z",
                 "open_issues": 7,
                 "owner": "tbxark",
                 "repo": "TKRubberIndicator",
@@ -1205,7 +1205,7 @@
                 "id": 84613303,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-07-08T07:29:52Z",
+                "last_commit": "2026-09-13T12:00:02Z",
                 "open_issues": 8,
                 "owner": "younatics",
                 "repo": "YNExpandableCell",
@@ -1526,7 +1526,7 @@
                 "open_issues": 85,
                 "owner": "Skyscanner",
                 "repo": "SkyFloatingLabelTextField",
-                "stars": 4125,
+                "stars": 4124,
                 "topics": [
                   "cocoapods",
                   "interface-builder",
@@ -1643,7 +1643,7 @@
                 "open_issues": 35,
                 "owner": "suzuki-0000",
                 "repo": "CountdownLabel",
-                "stars": 1013,
+                "stars": 1011,
                 "topics": [
                   "countdown",
                   "swift",
@@ -2386,7 +2386,7 @@
                 "open_issues": 17,
                 "owner": "Ramotion",
                 "repo": "animated-tab-bar",
-                "stars": 11082,
+                "stars": 11083,
                 "topics": [
                   "animation",
                   "ios",
@@ -2753,7 +2753,7 @@
                 "open_issues": 9,
                 "owner": "keygx",
                 "repo": "GradientCircularProgress",
-                "stars": 545,
+                "stars": 543,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -2812,7 +2812,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "CircularProgress",
-                "stars": 579,
+                "stars": 578,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -2945,7 +2945,7 @@
                 "open_issues": 1,
                 "owner": "ninjaprox",
                 "repo": "NVActivityIndicatorView",
-                "stars": 10707,
+                "stars": 10708,
                 "topics": [
                   "animation",
                   "carthage",
@@ -3130,7 +3130,7 @@
                 "id": 75727869,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2024-08-21T09:12:28Z",
+                "last_commit": "2026-09-14T05:35:28Z",
                 "open_issues": 14,
                 "owner": "tbxark",
                 "repo": "PinterestSegment",
@@ -3251,7 +3251,7 @@
                 "open_issues": 17,
                 "owner": "yysskk",
                 "repo": "SwipeMenuViewController",
-                "stars": 1279,
+                "stars": 1277,
                 "topics": [
                   "animation-library",
                   "ios",
@@ -3302,7 +3302,7 @@
                 "id": 82458708,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-07-07T23:52:48Z",
+                "last_commit": "2026-09-13T12:02:29Z",
                 "open_issues": 8,
                 "owner": "younatics",
                 "repo": "YNDropDownMenu",
@@ -4746,7 +4746,7 @@
                 "open_issues": 50,
                 "owner": "Yalantis",
                 "repo": "Koloda",
-                "stars": 5391,
+                "stars": 5390,
                 "topics": [
                   "animation",
                   "cards",
@@ -4810,7 +4810,7 @@
                 "open_issues": 15,
                 "owner": "JoniVR",
                 "repo": "VerticalCardSwiper",
-                "stars": 1539,
+                "stars": 1540,
                 "topics": [
                   "animation",
                   "cards",
@@ -5155,7 +5155,7 @@
                 "open_issues": 24,
                 "owner": "hyperoslo",
                 "repo": "Lightbox",
-                "stars": 1745,
+                "stars": 1744,
                 "topics": [
                   "image",
                   "ios",
@@ -5248,7 +5248,7 @@
                 "id": 44954946,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2024-08-21T09:13:19Z",
+                "last_commit": "2026-09-14T03:57:03Z",
                 "open_issues": 3,
                 "owner": "tbxark",
                 "repo": "TKSwitcherCollection",
@@ -5650,7 +5650,7 @@
                 "open_issues": 35,
                 "owner": "richardtop",
                 "repo": "CalendarKit",
-                "stars": 2705,
+                "stars": 2704,
                 "topics": [
                   "calendar",
                   "calendarkit",
@@ -6205,7 +6205,7 @@
                 "open_issues": 5,
                 "owner": "Ramotion",
                 "repo": "reel-search",
-                "stars": 2503,
+                "stars": 2504,
                 "topics": [
                   "component",
                   "ios",
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-13T06:05:35.459Z",
+    "last_updated": "2026-09-14T06:11:44.118Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
