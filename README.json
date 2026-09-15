@@ -1321,7 +1321,7 @@
                 "open_issues": 12,
                 "owner": "Ramotion",
                 "repo": "folding-cell",
-                "stars": 10175,
+                "stars": 10176,
                 "topics": [
                   "animation",
                   "ios",
@@ -2221,7 +2221,7 @@
                 "open_issues": 32,
                 "owner": "okmr-d",
                 "repo": "DOFavoriteButton",
-                "stars": 3582,
+                "stars": 3581,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -2386,7 +2386,7 @@
                 "open_issues": 17,
                 "owner": "Ramotion",
                 "repo": "animated-tab-bar",
-                "stars": 11083,
+                "stars": 11084,
                 "topics": [
                   "animation",
                   "ios",
@@ -2945,7 +2945,7 @@
                 "open_issues": 1,
                 "owner": "ninjaprox",
                 "repo": "NVActivityIndicatorView",
-                "stars": 10708,
+                "stars": 10709,
                 "topics": [
                   "animation",
                   "carthage",
@@ -3373,7 +3373,7 @@
                 "open_issues": 47,
                 "owner": "jonkykong",
                 "repo": "SideMenu",
-                "stars": 5819,
+                "stars": 5820,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -3467,7 +3467,7 @@
                 "open_issues": 314,
                 "owner": "xmartlabs",
                 "repo": "XLPagerTabStrip",
-                "stars": 6995,
+                "stars": 6996,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -5708,7 +5708,7 @@
                 "open_issues": 503,
                 "owner": "WenchaoD",
                 "repo": "FSCalendar",
-                "stars": 10637,
+                "stars": 10638,
                 "topics": [
                   "calendar",
                   "carthage",
@@ -5790,7 +5790,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2021-02-07T14:50:57Z",
-                "open_issues": 5,
+                "open_issues": 4,
                 "owner": "ariok",
                 "repo": "BWWalkthrough",
                 "stars": 2744,
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-14T06:11:44.118Z",
+    "last_updated": "2026-09-15T06:08:38.609Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
