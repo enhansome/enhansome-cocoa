@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22486,
+                "stars": 22487,
                 "topics": [
                   "animation",
                   "animations",
@@ -3248,7 +3248,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-07-23T21:58:21Z",
-                "open_issues": 17,
+                "open_issues": 16,
                 "owner": "yysskk",
                 "repo": "SwipeMenuViewController",
                 "stars": 1277,
@@ -4810,7 +4810,7 @@
                 "open_issues": 15,
                 "owner": "JoniVR",
                 "repo": "VerticalCardSwiper",
-                "stars": 1540,
+                "stars": 1541,
                 "topics": [
                   "animation",
                   "cards",
@@ -5539,7 +5539,7 @@
                 "open_issues": 11,
                 "owner": "efremidze",
                 "repo": "VisualEffectView",
-                "stars": 1421,
+                "stars": 1422,
                 "topics": [
                   "apple",
                   "blur",
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-16T05:57:30.790Z",
+    "last_updated": "2026-09-17T06:06:04.103Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
