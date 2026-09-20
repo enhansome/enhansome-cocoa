@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,600 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 507,935 | 🐛 106 | 📅 2026-09-02
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -252,7 +252,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Twitter style Splash Screen View. Grows to reveal the Initial view behind*
 
-**[JazzHands](https://github.com/IFTTT/JazzHands) ⭐ 6,353 | 🐛 14 | 🌐 Objective-C | 📅 2024-07-30**
+**[JazzHands](https://github.com/IFTTT/JazzHands) ⭐ 6,354 | 🐛 14 | 🌐 Objective-C | 📅 2024-07-30**
 *from [IFTTT](https://github.com/IFTTT):*
 
 > *A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros.*
@@ -351,7 +351,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *↕️ VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9.*
 
-**[folding-cell](https://github.com/Ramotion/folding-cell) ⭐ 10,173 | 🐛 12 | 🌐 Swift | 📅 2024-04-28**
+**[folding-cell](https://github.com/Ramotion/folding-cell) ⭐ 10,174 | 🐛 12 | 🌐 Swift | 📅 2024-04-28**
 *from [Ramotion](https://github.com/Ramotion):*
 
 > *:octocat: 📃 FoldingCell is an expanding content cell with animation inspired by folding paper card material design. Swift UI Library by @Ramotion*
@@ -515,7 +515,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Animated Play and Pause Button written in Swift, using CALayer, CAKeyframeAnimation.*
 
-**[TransitionButton](https://github.com/AladinWay/TransitionButton) ⭐ 1,473 | 🐛 20 | 🌐 Swift | 📅 2022-09-05**
+**[TransitionButton](https://github.com/AladinWay/TransitionButton) ⭐ 1,474 | 🐛 20 | 🌐 Swift | 📅 2022-09-05**
 *from [AladinWay](https://github.com/AladinWay):*
 
 > *UIButton sublass for loading and transition animation.*
@@ -614,7 +614,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A circular, animatable & highly customizable progress bar from the Interface Builder (Objective-C)*
 
-**[GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) ⭐ 892 | 🐛 0 | 🌐 Swift | 📅 2026-02-24**
+**[GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) ⭐ 893 | 🐛 0 | 🌐 Swift | 📅 2026-02-24**
 *from [fxm90](https://github.com/fxm90):*
 
 > *A customizable animated gradient loading bar.*
@@ -674,7 +674,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Kit for building custom gauges + easy reproducible Apple's style ring gauges.*
 
-**[NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) ⭐ 10,708 | 🐛 1 | 🌐 Swift | 📅 2026-03-18**
+**[NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) ⭐ 10,709 | 🐛 1 | 🌐 Swift | 📅 2026-03-18**
 *from [ninjaprox](https://github.com/ninjaprox):*
 
 > *A collection of awesome loading animations*
@@ -868,7 +868,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A customizable framework to create draggable views*
 
-**[CDAlertView](https://github.com/candostdagdeviren/CDAlertView) ⭐ 1,134 | 🐛 4 | 🌐 Swift | 📅 2026-08-20**
+**[CDAlertView](https://github.com/candostdagdeviren/CDAlertView) ⭐ 1,134 | 🐛 3 | 🌐 Swift | 📅 2026-08-20**
 *from [candostdagdeviren](https://github.com/candostdagdeviren):*
 
 > *Highly customizable alertview and alert/notification/success/error/alarm popup written in Swift*
@@ -883,7 +883,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *An iOS UIView for presenting a minimalistic notification that doesn't block the UI and is highly configurable.*
 
-**[TSMessages](https://github.com/KrauseFx/TSMessages) ⭐ 4,838 | 🐛 94 | 🌐 Objective-C | 📅 2023-06-01**
+**[TSMessages](https://github.com/KrauseFx/TSMessages) ⭐ 4,838 | 🐛 93 | 🌐 Objective-C | 📅 2023-06-01**
 *from [KrauseFx](https://github.com/KrauseFx):*
 
 > *💌 Easy to use and customizable messages/notifications for iOS à la Tweetbot*
@@ -1043,7 +1043,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Awesome iOS 11 appstore cards in swift 4.*
 
-**[VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) ⭐ 1,539 | 🐛 15 | 🌐 Swift | 📅 2023-10-02**
+**[VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) ⭐ 1,540 | 🐛 15 | 🌐 Swift | 📅 2023-10-02**
 *from [JoniVR](https://github.com/JoniVR):*
 
 > *A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.*
@@ -1449,4 +1449,4 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-19._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-20._

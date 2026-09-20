@@ -815,7 +815,7 @@
                 "open_issues": 14,
                 "owner": "IFTTT",
                 "repo": "JazzHands",
-                "stars": 6353,
+                "stars": 6354,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -1321,7 +1321,7 @@
                 "open_issues": 12,
                 "owner": "Ramotion",
                 "repo": "folding-cell",
-                "stars": 10173,
+                "stars": 10174,
                 "topics": [
                   "animation",
                   "ios",
@@ -2094,7 +2094,7 @@
                 "open_issues": 20,
                 "owner": "AladinWay",
                 "repo": "TransitionButton",
-                "stars": 1473,
+                "stars": 1474,
                 "topics": [
                   "animation",
                   "button",
@@ -2633,7 +2633,7 @@
                 "open_issues": 0,
                 "owner": "fxm90",
                 "repo": "GradientLoadingBar",
-                "stars": 892,
+                "stars": 893,
                 "topics": [
                   "cocoapods",
                   "gradient",
@@ -2945,7 +2945,7 @@
                 "open_issues": 1,
                 "owner": "ninjaprox",
                 "repo": "NVActivityIndicatorView",
-                "stars": 10708,
+                "stars": 10709,
                 "topics": [
                   "animation",
                   "carthage",
@@ -3940,7 +3940,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-08-20T09:43:28Z",
-                "open_issues": 4,
+                "open_issues": 3,
                 "owner": "candostdagdeviren",
                 "repo": "CDAlertView",
                 "stars": 1134,
@@ -4021,7 +4021,7 @@
                 "language": "Objective-C",
                 "license": "MIT",
                 "last_commit": "2023-06-01T11:22:32Z",
-                "open_issues": 94,
+                "open_issues": 93,
                 "owner": "KrauseFx",
                 "repo": "TSMessages",
                 "stars": 4838,
@@ -4810,7 +4810,7 @@
                 "open_issues": 15,
                 "owner": "JoniVR",
                 "repo": "VerticalCardSwiper",
-                "stars": 1539,
+                "stars": 1540,
                 "topics": [
                   "animation",
                   "cards",
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-19T05:48:06.370Z",
+    "last_updated": "2026-09-20T06:09:43.054Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
