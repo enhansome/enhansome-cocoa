@@ -717,7 +717,7 @@
                 "open_issues": 22,
                 "owner": "ChiliLabs",
                 "repo": "CHIPageControl",
-                "stars": 3466,
+                "stars": 3467,
                 "topics": [
                   "cocoapods",
                   "ibdesignable",
@@ -1944,7 +1944,7 @@
                 "open_issues": 1,
                 "owner": "atrinh0",
                 "repo": "buttoncraft",
-                "stars": 449,
+                "stars": 448,
                 "topics": [
                   "button-animation",
                   "buttons",
@@ -2842,7 +2842,7 @@
                 "open_issues": 7,
                 "owner": "roytornado",
                 "repo": "RSLoadingView",
-                "stars": 415,
+                "stars": 416,
                 "topics": [
                   "activityindicator",
                   "animation",
@@ -5744,7 +5744,7 @@
                 "open_issues": 11,
                 "owner": "SvenTiigi",
                 "repo": "WhatsNewKit",
-                "stars": 4434,
+                "stars": 4433,
                 "topics": [
                   "ios",
                   "macos",
@@ -6119,7 +6119,7 @@
                 "open_issues": 8,
                 "owner": "yoavlt",
                 "repo": "LiquidLoader",
-                "stars": 1324,
+                "stars": 1325,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6323,7 +6323,7 @@
                 "open_issues": 7,
                 "owner": "raulriera",
                 "repo": "TextFieldEffects",
-                "stars": 6012,
+                "stars": 6013,
                 "topics": [
                   "animation",
                   "effects",
@@ -6609,7 +6609,7 @@
                 "open_issues": 50,
                 "owner": "0xced",
                 "repo": "XCDYouTubeKit",
-                "stars": 2922,
+                "stars": 2923,
                 "topics": [
                   "player",
                   "video",
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-20T06:09:43.054Z",
+    "last_updated": "2026-09-21T06:15:36.306Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
