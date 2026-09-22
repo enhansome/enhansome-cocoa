@@ -178,7 +178,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7307,
+            "stars": 7308,
             "topics": [
               "animations",
               "ios",
@@ -312,7 +312,7 @@
                 "open_issues": 12,
                 "owner": "marcosgriselli",
                 "repo": "ViewAnimator",
-                "stars": 7307,
+                "stars": 7308,
                 "topics": [
                   "animations",
                   "ios",
@@ -1152,7 +1152,7 @@
                 "open_issues": 77,
                 "owner": "SwipeCellKit",
                 "repo": "SwipeCellKit",
-                "stars": 6280,
+                "stars": 6281,
                 "topics": [
                   "drag",
                   "ios",
@@ -2783,7 +2783,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "DockProgress",
-                "stars": 1352,
+                "stars": 1351,
                 "topics": [
                   "dock",
                   "icon",
@@ -3023,7 +3023,7 @@
                 "open_issues": 48,
                 "owner": "Marxon13",
                 "repo": "M13ProgressSuite",
-                "stars": 3896,
+                "stars": 3895,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -3602,7 +3602,7 @@
                 "open_issues": 91,
                 "owner": "romaonthego",
                 "repo": "REFrostedViewController",
-                "stars": 2933,
+                "stars": 2932,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -3700,7 +3700,7 @@
                 "open_issues": 2,
                 "owner": "DroidsOnRoids",
                 "repo": "MPParallaxView",
-                "stars": 1731,
+                "stars": 1730,
                 "topics": [
                   "ios",
                   "parallax",
@@ -6483,7 +6483,7 @@
                 "open_issues": 105,
                 "owner": "Augustyniak",
                 "repo": "RATreeView",
-                "stars": 2479,
+                "stars": 2478,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-21T06:15:36.306Z",
+    "last_updated": "2026-09-22T06:07:39.673Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
