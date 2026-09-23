@@ -123,7 +123,7 @@
             "open_issues": 31,
             "owner": "FluidGroup",
             "repo": "NextGrowingTextView",
-            "stars": 1797,
+            "stars": 1798,
             "topics": [
               "carthage",
               "cocoapods",
@@ -178,7 +178,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7308,
+            "stars": 7309,
             "topics": [
               "animations",
               "ios",
@@ -205,8 +205,8 @@
             "id": 258158475,
             "language": "Swift",
             "license": "MIT",
-            "last_commit": "2026-07-30T06:44:34Z",
-            "open_issues": 1,
+            "last_commit": "2026-09-22T06:57:58Z",
+            "open_issues": 0,
             "owner": "exyte",
             "repo": "PopupView",
             "stars": 4060,
@@ -312,7 +312,7 @@
                 "open_issues": 12,
                 "owner": "marcosgriselli",
                 "repo": "ViewAnimator",
-                "stars": 7308,
+                "stars": 7309,
                 "topics": [
                   "animations",
                   "ios",
@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22486,
+                "stars": 22488,
                 "topics": [
                   "animation",
                   "animations",
@@ -815,7 +815,7 @@
                 "open_issues": 14,
                 "owner": "IFTTT",
                 "repo": "JazzHands",
-                "stars": 6354,
+                "stars": 6353,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -1472,7 +1472,7 @@
                 "open_issues": 31,
                 "owner": "FluidGroup",
                 "repo": "NextGrowingTextView",
-                "stars": 1797,
+                "stars": 1798,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -1850,8 +1850,8 @@
                 "id": 258158475,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-07-30T06:44:34Z",
-                "open_issues": 1,
+                "last_commit": "2026-09-22T06:57:58Z",
+                "open_issues": 0,
                 "owner": "exyte",
                 "repo": "PopupView",
                 "stars": 4060,
@@ -2354,7 +2354,7 @@
                 "open_issues": 73,
                 "owner": "telly",
                 "repo": "TLYShyNavBar",
-                "stars": 3694,
+                "stars": 3695,
                 "topics": [
                   "cocoapods",
                   "ios",
@@ -2386,7 +2386,7 @@
                 "open_issues": 17,
                 "owner": "Ramotion",
                 "repo": "animated-tab-bar",
-                "stars": 11080,
+                "stars": 11081,
                 "topics": [
                   "animation",
                   "ios",
@@ -2414,7 +2414,7 @@
                 "open_issues": 86,
                 "owner": "uias",
                 "repo": "Tabman",
-                "stars": 2923,
+                "stars": 2924,
                 "topics": [
                   "ios",
                   "swift",
@@ -3373,7 +3373,7 @@
                 "open_issues": 47,
                 "owner": "jonkykong",
                 "repo": "SideMenu",
-                "stars": 5819,
+                "stars": 5820,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -4924,7 +4924,7 @@
                 "open_issues": 117,
                 "owner": "ElaWorkshop",
                 "repo": "TagListView",
-                "stars": 2668,
+                "stars": 2667,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-22T06:07:39.673Z",
+    "last_updated": "2026-09-23T05:54:56.703Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
