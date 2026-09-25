@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22488,
+                "stars": 22490,
                 "topics": [
                   "animation",
                   "animations",
@@ -752,7 +752,7 @@
                 "open_issues": 3,
                 "owner": "andreamazz",
                 "repo": "BubbleTransition",
-                "stars": 3300,
+                "stars": 3299,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -1944,7 +1944,7 @@
                 "open_issues": 1,
                 "owner": "atrinh0",
                 "repo": "buttoncraft",
-                "stars": 448,
+                "stars": 449,
                 "topics": [
                   "button-animation",
                   "buttons",
@@ -2312,7 +2312,7 @@
                 "open_issues": 6,
                 "owner": "Cuberto",
                 "repo": "flashy-tabbar",
-                "stars": 732,
+                "stars": 733,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -2386,7 +2386,7 @@
                 "open_issues": 17,
                 "owner": "Ramotion",
                 "repo": "animated-tab-bar",
-                "stars": 11081,
+                "stars": 11082,
                 "topics": [
                   "animation",
                   "ios",
@@ -2633,7 +2633,7 @@
                 "open_issues": 0,
                 "owner": "fxm90",
                 "repo": "GradientLoadingBar",
-                "stars": 893,
+                "stars": 894,
                 "topics": [
                   "cocoapods",
                   "gradient",
@@ -2783,7 +2783,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "DockProgress",
-                "stars": 1351,
+                "stars": 1352,
                 "topics": [
                   "dock",
                   "icon",
@@ -2812,7 +2812,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "CircularProgress",
-                "stars": 578,
+                "stars": 577,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -3221,7 +3221,7 @@
                 "open_issues": 0,
                 "owner": "Yalantis",
                 "repo": "GuillotineMenu",
-                "stars": 2878,
+                "stars": 2877,
                 "topics": [
                   "animation",
                   "cocoapods",
@@ -4778,7 +4778,7 @@
                 "open_issues": 25,
                 "owner": "PaoloCuscela",
                 "repo": "Cards",
-                "stars": 4201,
+                "stars": 4200,
                 "topics": [
                   "cards",
                   "ibdesignable",
@@ -5993,7 +5993,7 @@
                 "open_issues": 4,
                 "owner": "Yalantis",
                 "repo": "PullToMakeSoup",
-                "stars": 1911,
+                "stars": 1910,
                 "topics": [
                   "animation",
                   "carthage",
@@ -6023,7 +6023,7 @@
                 "open_issues": 2,
                 "owner": "dasdom",
                 "repo": "BreakOutToRefresh",
-                "stars": 2471,
+                "stars": 2469,
                 "topics": [
                   "breakout",
                   "mini-game",
@@ -6349,7 +6349,7 @@
                 "open_issues": 28,
                 "owner": "jverdi",
                 "repo": "JVFloatLabeledTextField",
-                "stars": 7132,
+                "stars": 7133,
                 "topics": [
                   "carthage",
                   "floating-labels",
@@ -6539,7 +6539,7 @@
                 "open_issues": 335,
                 "owner": "mwaterfall",
                 "repo": "MWPhotoBrowser",
-                "stars": 8701,
+                "stars": 8702,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-24T06:07:51.803Z",
+    "last_updated": "2026-09-25T06:08:16.693Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
