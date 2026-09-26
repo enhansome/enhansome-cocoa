@@ -209,7 +209,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4060,
+            "stars": 4061,
             "topics": [
               "popup",
               "swiftui",
@@ -1854,7 +1854,7 @@
                 "open_issues": 0,
                 "owner": "exyte",
                 "repo": "PopupView",
-                "stars": 4060,
+                "stars": 4061,
                 "topics": [
                   "popup",
                   "swiftui",
@@ -2414,7 +2414,7 @@
                 "open_issues": 86,
                 "owner": "uias",
                 "repo": "Tabman",
-                "stars": 2924,
+                "stars": 2922,
                 "topics": [
                   "ios",
                   "swift",
@@ -2783,7 +2783,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "DockProgress",
-                "stars": 1352,
+                "stars": 1353,
                 "topics": [
                   "dock",
                   "icon",
@@ -3248,7 +3248,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-07-23T21:58:21Z",
-                "open_issues": 16,
+                "open_issues": 15,
                 "owner": "yysskk",
                 "repo": "SwipeMenuViewController",
                 "stars": 1277,
@@ -3277,7 +3277,7 @@
                 "open_issues": 27,
                 "owner": "xmartlabs",
                 "repo": "XLActionController",
-                "stars": 3297,
+                "stars": 3296,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -4854,7 +4854,7 @@
                 "open_issues": 97,
                 "owner": "slackhq",
                 "repo": "PanModal",
-                "stars": 3775,
+                "stars": 3774,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5744,7 +5744,7 @@
                 "open_issues": 11,
                 "owner": "SvenTiigi",
                 "repo": "WhatsNewKit",
-                "stars": 4433,
+                "stars": 4432,
                 "topics": [
                   "ios",
                   "macos",
@@ -6259,7 +6259,7 @@
                 "open_issues": 19,
                 "owner": "skywinder",
                 "repo": "ActionSheetPicker-3.0",
-                "stars": 3377,
+                "stars": 3376,
                 "topics": [
                   "actionsheet",
                   "hacktoberfest",
@@ -6295,7 +6295,7 @@
                 "open_issues": 28,
                 "owner": "intuit",
                 "repo": "CardParts",
-                "stars": 2515,
+                "stars": 2514,
                 "topics": [
                   "cardparts",
                   "cards",
@@ -6323,7 +6323,7 @@
                 "open_issues": 7,
                 "owner": "raulriera",
                 "repo": "TextFieldEffects",
-                "stars": 6013,
+                "stars": 6014,
                 "topics": [
                   "animation",
                   "effects",
@@ -6609,7 +6609,7 @@
                 "open_issues": 50,
                 "owner": "0xced",
                 "repo": "XCDYouTubeKit",
-                "stars": 2923,
+                "stars": 2922,
                 "topics": [
                   "player",
                   "video",
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-25T06:08:16.693Z",
+    "last_updated": "2026-09-26T06:07:19.371Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
