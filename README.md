@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 510,570 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 511,083 | 🐛 107 | 📅 2026-09-02
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -557,7 +557,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *One another nice animated tabbar*
 
-**[RKSwipeBetweenViewControllers](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers) ⭐ 1,664 | 🐛 18 | 🌐 Objective-C | 📅 2017-04-16**
+**[RKSwipeBetweenViewControllers](https://github.com/cwRichardKim/RKSwipeBetweenViewControllers) ⭐ 1,663 | 🐛 18 | 🌐 Objective-C | 📅 2017-04-16**
 *from [cwRichardKim](https://github.com/cwRichardKim):*
 
 > *Swipe between ViewControllers like in the Spotify or Twitter app with an interactive Segmented Control in the Navigation Bar*
@@ -572,7 +572,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *:octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion*
 
-**[Tabman](https://github.com/uias/Tabman) ⭐ 2,922 | 🐛 86 | 🌐 Swift | 📅 2026-07-27**
+**[Tabman](https://github.com/uias/Tabman) ⭐ 2,922 | 🐛 87 | 🌐 Swift | 📅 2026-09-26**
 *from [uias](https://github.com/uias):*
 
 > *™️ A powerful paging view controller with tab bar.*
@@ -654,7 +654,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Circular progress indicator for your macOS app*
 
-**[RSLoadingView](https://github.com/roytornado/RSLoadingView) ⭐ 416 | 🐛 7 | 🌐 Swift | 📅 2019-04-26**
+**[RSLoadingView](https://github.com/roytornado/RSLoadingView) ⭐ 417 | 🐛 7 | 🌐 Swift | 📅 2019-04-26**
 *from [roytornado](https://github.com/roytornado):*
 
 > *Awesome loading animations using 3D engine written with Swift*
@@ -1220,7 +1220,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A customizable calendar view for iOS.*
 
-**[FSCalendar](https://github.com/WenchaoIOS/FSCalendar) ⭐ 10,636 | 🐛 503 | 🌐 Objective-C | 📅 2024-08-10**
+**[FSCalendar](https://github.com/WenchaoIOS/FSCalendar) ⭐ 10,637 | 🐛 503 | 🌐 Objective-C | 📅 2024-08-10**
 *from [WenchaoD](https://github.com/WenchaoD):*
 
 > *A fully customizable iOS calendar library, compatible with Objective-C and Swift*
@@ -1371,7 +1371,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Scrollable UINavigationBar that follows the scrolling of a UIScrollView*
 
-**[BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar) ⭐ 3,063 | 🐛 40 | 🌐 Objective-C | 📅 2019-05-09**
+**[BLKFlexibleHeightBar](https://github.com/bryankeller/BLKFlexibleHeightBar) ⭐ 3,062 | 🐛 40 | 🌐 Objective-C | 📅 2019-05-09**
 *from [bryankeller](https://github.com/bryankeller):*
 
 > *Create condensing header bars like those seen in the Facebook, Square Cash, and Safari iOS apps.*
@@ -1442,11 +1442,11 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## RichText
 
-**[ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor) ⭐ 3,779 | 🐛 131 | 🌐 Objective-C | 📅 2021-09-07**
+**[ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor) ⭐ 3,778 | 🐛 131 | 🌐 Objective-C | 📅 2021-09-07**
 *from [nnhubbard](https://github.com/nnhubbard):*
 
 > *A beautiful rich text WYSIWYG editor for iOS with a syntax highlighted source view*
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-26._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-09-27._
