@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22492,
+                "stars": 22493,
                 "topics": [
                   "animation",
                   "animations",
@@ -717,7 +717,7 @@
                 "open_issues": 22,
                 "owner": "ChiliLabs",
                 "repo": "CHIPageControl",
-                "stars": 3467,
+                "stars": 3468,
                 "topics": [
                   "cocoapods",
                   "ibdesignable",
@@ -1152,7 +1152,7 @@
                 "open_issues": 77,
                 "owner": "SwipeCellKit",
                 "repo": "SwipeCellKit",
-                "stars": 6280,
+                "stars": 6281,
                 "topics": [
                   "drag",
                   "ios",
@@ -1500,7 +1500,7 @@
                 "open_issues": 6,
                 "owner": "orazz",
                 "repo": "CreditCardForm-iOS",
-                "stars": 1463,
+                "stars": 1464,
                 "topics": [
                   "credit-card",
                   "creditcardform",
@@ -2094,7 +2094,7 @@
                 "open_issues": 20,
                 "owner": "AladinWay",
                 "repo": "TransitionButton",
-                "stars": 1474,
+                "stars": 1475,
                 "topics": [
                   "animation",
                   "button",
@@ -5539,7 +5539,7 @@
                 "open_issues": 11,
                 "owner": "efremidze",
                 "repo": "VisualEffectView",
-                "stars": 1421,
+                "stars": 1422,
                 "topics": [
                   "apple",
                   "blur",
@@ -5577,7 +5577,7 @@
                 "open_issues": 5,
                 "owner": "kf99916",
                 "repo": "TimelineTableViewCell",
-                "stars": 1327,
+                "stars": 1326,
                 "topics": [
                   "cocoapods",
                   "swift",
@@ -6295,7 +6295,7 @@
                 "open_issues": 28,
                 "owner": "intuit",
                 "repo": "CardParts",
-                "stars": 2514,
+                "stars": 2515,
                 "topics": [
                   "cardparts",
                   "cards",
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-09-29T06:50:11.773Z",
+    "last_updated": "2026-09-30T06:38:42.903Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
