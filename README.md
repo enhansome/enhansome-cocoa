@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,379 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,795 | 🐛 106 | 📅 2026-09-02
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -133,7 +133,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,060 | 🐛 0 | 🌐 Swift | 📅 2026-10-01**
+**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,058 | 🐛 0 | 🌐 Swift | 📅 2026-10-01**
 *from [exyte](https://github.com/exyte):*
 
 > *Toasts and popups library written with SwiftUI*
@@ -197,7 +197,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *The Swift library for showing the rounded coach marks (useful for onboarding or run-time help purposes)*
 
-**[Hero](https://github.com/HeroTransitions/Hero) ⭐ 22,490 | 🐛 42 | 🌐 Swift | 📅 2025-01-23**
+**[Hero](https://github.com/HeroTransitions/Hero) ⭐ 22,487 | 🐛 42 | 🌐 Swift | 📅 2025-01-23**
 *from [HeroTransitions](https://github.com/HeroTransitions):*
 
 > *Elegant transition library for iOS & tvOS*
@@ -232,7 +232,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *:sparkles: Twinkle iOS/tvOS app elements in Swift*
 
-**[CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) ⭐ 3,468 | 🐛 22 | 🌐 Swift | 📅 2023-05-22**
+**[CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) ⭐ 3,466 | 🐛 22 | 🌐 Swift | 📅 2023-05-22**
 *from [ChiliLabs](https://github.com/ChiliLabs):*
 
 > *A set of cool animated page controls written in Swift to replace boring UIPageControl.*
@@ -321,7 +321,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Simple timeline view written in Swift 3*
 
-**[SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) ⭐ 6,280 | 🐛 77 | 🌐 Swift | 📅 2024-05-19**
+**[SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) ⭐ 6,278 | 🐛 77 | 🌐 Swift | 📅 2024-05-19**
 *from [SwipeCellKit](https://github.com/SwipeCellKit):*
 
 > *Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.*
@@ -390,7 +390,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *📝 The next in the generations of 'growing textviews' optimized for iOS 8 and above.*
 
-**[CreditCardForm-iOS](https://github.com/orazz/CreditCardForm-iOS) ⭐ 1,464 | 🐛 6 | 🌐 Swift | 📅 2020-05-30**
+**[CreditCardForm-iOS](https://github.com/orazz/CreditCardForm-iOS) ⭐ 1,463 | 🐛 6 | 🌐 Swift | 📅 2020-05-30**
 *from [orazz](https://github.com/orazz):*
 
 > *CreditCardForm is iOS framework that allows developers to create the UI which replicates an actual Credit Card.*
@@ -464,7 +464,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Toast
 
-**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,060 | 🐛 0 | 🌐 Swift | 📅 2026-10-01**
+**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,058 | 🐛 0 | 🌐 Swift | 📅 2026-10-01**
 *from [exyte](https://github.com/exyte):*
 
 > *Toasts and popups library written with SwiftUI*
@@ -505,7 +505,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *🔥 PMSuperButton is a powerful UIButton coming from the countryside, but with super powers! 😎*
 
-**[SquishButton](https://github.com/BalestraPatrick/SquishButton) ⭐ 395 | 🐛 0 | 🌐 Swift | 📅 2018-03-08**
+**[SquishButton](https://github.com/BalestraPatrick/SquishButton) ⭐ 394 | 🐛 0 | 🌐 Swift | 📅 2018-03-08**
 *from [BalestraPatrick](https://github.com/BalestraPatrick):*
 
 > *A button that squishes when pressed. As seen in the Clips app.*
@@ -530,7 +530,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Multiple state tap to toggle UIButton in Swift*
 
-**[LGButton](https://github.com/loregr/LGButton) ⭐ 2,279 | 🐛 0 | 🌐 Swift | 📅 2020-09-11**
+**[LGButton](https://github.com/loregr/LGButton) ⭐ 2,278 | 🐛 0 | 🌐 Swift | 📅 2020-09-11**
 *from [loregr](https://github.com/loregr):*
 
 > *A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.*
@@ -733,7 +733,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.*
 
-**[SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) ⭐ 1,275 | 🐛 15 | 🌐 Swift | 📅 2026-07-23**
+**[SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) ⭐ 1,275 | 🐛 14 | 🌐 Swift | 📅 2026-07-23**
 *from [yysskk](https://github.com/yysskk):*
 
 > *Swipable tab and menu View and ViewController.*
@@ -753,7 +753,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Panels is a framework to easily add sliding panels to your application*
 
-**[SideMenu](https://github.com/jonkykong/SideMenu) ⭐ 5,820 | 🐛 47 | 🌐 Swift | 📅 2023-02-09**
+**[SideMenu](https://github.com/jonkykong/SideMenu) ⭐ 5,819 | 🐛 46 | 🌐 Swift | 📅 2023-02-09**
 *from [jonkykong](https://github.com/jonkykong):*
 
 > *Simple side menu control for iOS, no code necessary! Lots of customization. Add it to your project in 5 minutes or less.*
@@ -858,7 +858,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *SwiftOverlays is a Swift GUI library for displaying various popups and notifications*
 
-**[PKHUD](https://github.com/pkluz/PKHUD) ⭐ 3,774 | 🐛 64 | 🌐 Swift | 📅 2023-02-16**
+**[PKHUD](https://github.com/pkluz/PKHUD) ⭐ 3,771 | 🐛 64 | 🌐 Swift | 📅 2023-02-16**
 *from [pkluz](https://github.com/pkluz):*
 
 > *A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.*
@@ -960,7 +960,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *iOS custom view to display books on shelf*
 
-**[CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout) ⭐ 2,340 | 🐛 3 | 🌐 Swift | 📅 2021-05-01**
+**[CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout) ⭐ 2,339 | 🐛 3 | 🌐 Swift | 📅 2021-05-01**
 *from [yacir](https://github.com/yacir):*
 
 > *UICollectionViewLayout to display slanted content*
@@ -1043,7 +1043,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Awesome iOS 11 appstore cards in swift 4.*
 
-**[VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) ⭐ 1,539 | 🐛 15 | 🌐 Swift | 📅 2023-10-02**
+**[VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) ⭐ 1,538 | 🐛 15 | 🌐 Swift | 📅 2023-10-02**
 *from [JoniVR](https://github.com/JoniVR):*
 
 > *A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.*
@@ -1077,7 +1077,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Simple and highly customizable iOS tag list view, in Swift.*
 
-**[ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) ⭐ 4,603 | 🐛 29 | 🌐 Swift | 📅 2023-10-27**
+**[ActiveLabel.swift](https://github.com/optonaut/ActiveLabel.swift) ⭐ 4,601 | 🐛 29 | 🌐 Swift | 📅 2023-10-27**
 *from [optonaut](https://github.com/optonaut):*
 
 > *UILabel drop-in replacement supporting Hashtags (#), Mentions (@) and URLs (http\://) written in Swift*
@@ -1121,7 +1121,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *:milky\_way: A convenient and easy to use image viewer for your iOS app*
 
-**[FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) ⭐ 7,942 | 🐛 83 | 🌐 Objective-C | 📅 2024-03-21**
+**[FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) ⭐ 7,940 | 🐛 83 | 🌐 Objective-C | 📅 2024-03-21**
 *from [Flipboard](https://github.com/Flipboard):*
 
 > *Performant animated GIF engine for iOS*
@@ -1220,7 +1220,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A customizable calendar view for iOS.*
 
-**[FSCalendar](https://github.com/WenchaoIOS/FSCalendar) ⭐ 10,637 | 🐛 503 | 🌐 Objective-C | 📅 2024-08-10**
+**[FSCalendar](https://github.com/WenchaoIOS/FSCalendar) ⭐ 10,636 | 🐛 503 | 🌐 Objective-C | 📅 2024-08-10**
 *from [WenchaoD](https://github.com/WenchaoD):*
 
 > *A fully customizable iOS calendar library, compatible with Objective-C and Swift*
@@ -1349,7 +1349,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A reactive, card-based UI framework built on UIKit for iOS developers.*
 
-**[TextFieldEffects](https://github.com/raulriera/TextFieldEffects) ⭐ 6,013 | 🐛 7 | 🌐 Swift | 📅 2024-01-28**
+**[TextFieldEffects](https://github.com/raulriera/TextFieldEffects) ⭐ 6,011 | 🐛 7 | 🌐 Swift | 📅 2024-01-28**
 *from [raulriera](https://github.com/raulriera):*
 
 > *Custom UITextFields effects inspired by Codrops, built using Swift*
@@ -1435,7 +1435,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Sticky
 
-**[CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout) ⭐ 5,025 | 🐛 24 | 🌐 Objective-C | 📅 2021-07-17**
+**[CSStickyHeaderFlowLayout](https://github.com/jamztang/CSStickyHeaderFlowLayout) ⭐ 5,024 | 🐛 24 | 🌐 Objective-C | 📅 2021-07-17**
 *from [CSStickyHeaderFlowLayout](https://github.com/CSStickyHeaderFlowLayout):*
 
 > *UICollectionView replacement of UITableView. Do even more like Parallax Header, Sticky Section Header. Made for iOS 7.*
@@ -1449,4 +1449,4 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._

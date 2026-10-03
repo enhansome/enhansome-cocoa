@@ -209,7 +209,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4060,
+            "stars": 4058,
             "topics": [
               "popup",
               "swiftui",
@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22490,
+                "stars": 22487,
                 "topics": [
                   "animation",
                   "animations",
@@ -717,7 +717,7 @@
                 "open_issues": 22,
                 "owner": "ChiliLabs",
                 "repo": "CHIPageControl",
-                "stars": 3468,
+                "stars": 3466,
                 "topics": [
                   "cocoapods",
                   "ibdesignable",
@@ -1152,7 +1152,7 @@
                 "open_issues": 77,
                 "owner": "SwipeCellKit",
                 "repo": "SwipeCellKit",
-                "stars": 6280,
+                "stars": 6278,
                 "topics": [
                   "drag",
                   "ios",
@@ -1500,7 +1500,7 @@
                 "open_issues": 6,
                 "owner": "orazz",
                 "repo": "CreditCardForm-iOS",
-                "stars": 1464,
+                "stars": 1463,
                 "topics": [
                   "credit-card",
                   "creditcardform",
@@ -1854,7 +1854,7 @@
                 "open_issues": 0,
                 "owner": "exyte",
                 "repo": "PopupView",
-                "stars": 4060,
+                "stars": 4058,
                 "topics": [
                   "popup",
                   "swiftui",
@@ -2047,7 +2047,7 @@
                 "open_issues": 0,
                 "owner": "BalestraPatrick",
                 "repo": "SquishButton",
-                "stars": 395,
+                "stars": 394,
                 "topics": [
                   "button",
                   "swift",
@@ -2184,7 +2184,7 @@
                 "open_issues": 0,
                 "owner": "loregr",
                 "repo": "LGButton",
-                "stars": 2279,
+                "stars": 2278,
                 "topics": [
                   "beautiful-buttons",
                   "button",
@@ -3248,7 +3248,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-07-23T21:58:21Z",
-                "open_issues": 15,
+                "open_issues": 14,
                 "owner": "yysskk",
                 "repo": "SwipeMenuViewController",
                 "stars": 1275,
@@ -3370,10 +3370,10 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2023-02-09T09:07:10Z",
-                "open_issues": 47,
+                "open_issues": 46,
                 "owner": "jonkykong",
                 "repo": "SideMenu",
-                "stars": 5820,
+                "stars": 5819,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -3887,7 +3887,7 @@
                 "open_issues": 64,
                 "owner": "pkluz",
                 "repo": "PKHUD",
-                "stars": 3774,
+                "stars": 3771,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -4404,7 +4404,7 @@
                 "open_issues": 3,
                 "owner": "yacir",
                 "repo": "CollectionViewSlantedLayout",
-                "stars": 2340,
+                "stars": 2339,
                 "topics": [
                   "collection-view",
                   "collectionview",
@@ -4810,7 +4810,7 @@
                 "open_issues": 15,
                 "owner": "JoniVR",
                 "repo": "VerticalCardSwiper",
-                "stars": 1539,
+                "stars": 1538,
                 "topics": [
                   "animation",
                   "cards",
@@ -4945,7 +4945,7 @@
                 "open_issues": 29,
                 "owner": "optonaut",
                 "repo": "ActiveLabel.swift",
-                "stars": 4603,
+                "stars": 4601,
                 "topics": [
                   "activelabel",
                   "swift",
@@ -5182,7 +5182,7 @@
                 "open_issues": 83,
                 "owner": "Flipboard",
                 "repo": "FLAnimatedImage",
-                "stars": 7942,
+                "stars": 7940,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5357,7 +5357,7 @@
                 "open_issues": 10,
                 "owner": "louisdh",
                 "repo": "panelkit",
-                "stars": 3738,
+                "stars": 3737,
                 "topics": [
                   "ios",
                   "ipad",
@@ -5708,7 +5708,7 @@
                 "open_issues": 503,
                 "owner": "WenchaoD",
                 "repo": "FSCalendar",
-                "stars": 10637,
+                "stars": 10636,
                 "topics": [
                   "calendar",
                   "carthage",
@@ -6323,7 +6323,7 @@
                 "open_issues": 7,
                 "owner": "raulriera",
                 "repo": "TextFieldEffects",
-                "stars": 6013,
+                "stars": 6011,
                 "topics": [
                   "animation",
                   "effects",
@@ -6690,7 +6690,7 @@
                 "open_issues": 24,
                 "owner": "CSStickyHeaderFlowLayout",
                 "repo": "CSStickyHeaderFlowLayout",
-                "stars": 5025,
+                "stars": 5024,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-02T06:57:58.073Z",
+    "last_updated": "2026-10-03T04:36:38.339Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
