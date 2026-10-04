@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 513,821 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,291 | 🐛 107 | 📅 2026-09-02
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -197,7 +197,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *The Swift library for showing the rounded coach marks (useful for onboarding or run-time help purposes)*
 
-**[Hero](https://github.com/HeroTransitions/Hero) ⭐ 22,487 | 🐛 42 | 🌐 Swift | 📅 2025-01-23**
+**[Hero](https://github.com/HeroTransitions/Hero) ⭐ 22,488 | 🐛 42 | 🌐 Swift | 📅 2025-01-23**
 *from [HeroTransitions](https://github.com/HeroTransitions):*
 
 > *Elegant transition library for iOS & tvOS*
@@ -237,7 +237,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A set of cool animated page controls written in Swift to replace boring UIPageControl.*
 
-**[BubbleTransition](https://github.com/andreamazz/BubbleTransition) ⭐ 3,298 | 🐛 3 | 🌐 Swift | 📅 2020-11-04**
+**[BubbleTransition](https://github.com/andreamazz/BubbleTransition) ⭐ 3,299 | 🐛 3 | 🌐 Swift | 📅 2020-11-04**
 *from [andreamazz](https://github.com/andreamazz):*
 
 > *A custom modal transition that presents and dismiss a controller with an expanding bubble effect.*
@@ -485,7 +485,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Button
 
-**[buttoncraft](https://github.com/atrinh0/buttoncraft) ⭐ 448 | 🐛 1 | 🌐 Swift | 📅 2024-11-13**
+**[buttoncraft](https://github.com/atrinh0/buttoncraft) ⭐ 447 | 🐛 1 | 🌐 Swift | 📅 2024-11-13**
 *from [atrinh0](https://github.com/atrinh0):*
 
 > *Craft that perfect SwiftUI button effect 👌🏼*
@@ -1210,7 +1210,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A Github's like work contribution timeline. 🤸🏻*
 
-**[CalendarKit](https://github.com/richardtop/CalendarKit) ⭐ 2,702 | 🐛 35 | 🌐 Swift | 📅 2026-09-12**
+**[CalendarKit](https://github.com/richardtop/CalendarKit) ⭐ 2,700 | 🐛 35 | 🌐 Swift | 📅 2026-09-12**
 *from [richardtop](https://github.com/richardtop):*
 
 > *📅 Fully customizable calendar for iOS*
@@ -1366,7 +1366,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Bar
 
-**[AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) ⭐ 5,988 | 🐛 39 | 🌐 Swift | 📅 2023-04-13**
+**[AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) ⭐ 5,989 | 🐛 39 | 🌐 Swift | 📅 2023-04-13**
 *from [andreamazz](https://github.com/andreamazz):*
 
 > *Scrollable UINavigationBar that follows the scrolling of a UIScrollView*
@@ -1449,4 +1449,4 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-03._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-04._

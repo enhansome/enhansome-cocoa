@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22487,
+                "stars": 22488,
                 "topics": [
                   "animation",
                   "animations",
@@ -752,7 +752,7 @@
                 "open_issues": 3,
                 "owner": "andreamazz",
                 "repo": "BubbleTransition",
-                "stars": 3298,
+                "stars": 3299,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -1944,7 +1944,7 @@
                 "open_issues": 1,
                 "owner": "atrinh0",
                 "repo": "buttoncraft",
-                "stars": 448,
+                "stars": 447,
                 "topics": [
                   "button-animation",
                   "buttons",
@@ -5650,7 +5650,7 @@
                 "open_issues": 35,
                 "owner": "richardtop",
                 "repo": "CalendarKit",
-                "stars": 2702,
+                "stars": 2700,
                 "topics": [
                   "calendar",
                   "calendarkit",
@@ -6406,7 +6406,7 @@
                 "open_issues": 39,
                 "owner": "andreamazz",
                 "repo": "AMScrollingNavbar",
-                "stars": 5988,
+                "stars": 5989,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-03T06:25:30.153Z",
+    "last_updated": "2026-10-04T06:48:09.585Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
