@@ -209,7 +209,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4058,
+            "stars": 4060,
             "topics": [
               "popup",
               "swiftui",
@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22488,
+                "stars": 22489,
                 "topics": [
                   "animation",
                   "animations",
@@ -717,7 +717,7 @@
                 "open_issues": 22,
                 "owner": "ChiliLabs",
                 "repo": "CHIPageControl",
-                "stars": 3466,
+                "stars": 3467,
                 "topics": [
                   "cocoapods",
                   "ibdesignable",
@@ -1854,7 +1854,7 @@
                 "open_issues": 0,
                 "owner": "exyte",
                 "repo": "PopupView",
-                "stars": 4058,
+                "stars": 4060,
                 "topics": [
                   "popup",
                   "swiftui",
@@ -3467,7 +3467,7 @@
                 "open_issues": 314,
                 "owner": "xmartlabs",
                 "repo": "XLPagerTabStrip",
-                "stars": 6991,
+                "stars": 6992,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -5182,7 +5182,7 @@
                 "open_issues": 83,
                 "owner": "Flipboard",
                 "repo": "FLAnimatedImage",
-                "stars": 7940,
+                "stars": 7941,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5744,7 +5744,7 @@
                 "open_issues": 11,
                 "owner": "SvenTiigi",
                 "repo": "WhatsNewKit",
-                "stars": 4431,
+                "stars": 4432,
                 "topics": [
                   "ios",
                   "macos",
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-04T06:48:09.585Z",
+    "last_updated": "2026-10-05T06:57:40.511Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
