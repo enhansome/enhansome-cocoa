@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 514,811 | 🐛 107 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 515,289 | 🐛 106 | 📅 2026-09-02
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -187,7 +187,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *ZoomTransitioning provides a custom transition with image zooming animation and swiping the screen edge.*
 
-**[SABlurImageView](https://github.com/marty-suzuki/SABlurImageView) ⭐ 551 | 🐛 8 | 🌐 Swift | 📅 2020-11-10**
+**[SABlurImageView](https://github.com/marty-suzuki/SABlurImageView) ⭐ 550 | 🐛 8 | 🌐 Swift | 📅 2020-11-10**
 *from [marty-suzuki](https://github.com/marty-suzuki):*
 
 > *You can use blur effect and it's animation easily to call only two methods.*
@@ -535,7 +535,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.*
 
-**[DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) ⭐ 3,580 | 🐛 32 | 🌐 Swift | 📅 2022-06-13**
+**[DOFavoriteButton](https://github.com/okmr-d/DOFavoriteButton) ⭐ 3,579 | 🐛 32 | 🌐 Swift | 📅 2022-06-13**
 *from [okmr-d](https://github.com/okmr-d):*
 
 > *Cute Animated Button written in Swift.*
@@ -547,7 +547,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Light way to add Fancy bottom bar 📲*
 
-**[SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) ⭐ 1,533 | 🐛 18 | 🌐 Swift | 📅 2023-06-04**
+**[SwipeableTabBarController](https://github.com/marcosgriselli/SwipeableTabBarController) ⭐ 1,533 | 🐛 19 | 🌐 Swift | 📅 2023-06-04**
 *from [marcosgriselli](https://github.com/marcosgriselli):*
 
 > *UITabBarController with swipe interaction between its tabs.*
@@ -567,7 +567,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!*
 
-**[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) ⭐ 11,082 | 🐛 17 | 🌐 Swift | 📅 2022-01-26**
+**[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) ⭐ 11,081 | 🐛 17 | 🌐 Swift | 📅 2022-01-26**
 *from [Ramotion](https://github.com/Ramotion):*
 
 > *:octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion*
@@ -674,7 +674,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Kit for building custom gauges + easy reproducible Apple's style ring gauges.*
 
-**[NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) ⭐ 10,706 | 🐛 1 | 🌐 Swift | 📅 2026-03-18**
+**[NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) ⭐ 10,705 | 🐛 1 | 🌐 Swift | 📅 2026-03-18**
 *from [ninjaprox](https://github.com/ninjaprox):*
 
 > *A collection of awesome loading animations*
@@ -689,7 +689,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *FFCircularProgressView - An iOS 7-inspired blue circular progress view*
 
-**[M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite) ⭐ 3,894 | 🐛 48 | 🌐 Objective-C | 📅 2022-03-05**
+**[M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite) ⭐ 3,893 | 🐛 48 | 🌐 Objective-C | 📅 2022-03-05**
 *from [Marxon13](https://github.com/Marxon13):*
 
 > *A suite containing many tools to display progress information on iOS.*
@@ -738,7 +738,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Swipable tab and menu View and ViewController.*
 
-**[XLActionController](https://github.com/xmartlabs/XLActionController) ⭐ 3,296 | 🐛 27 | 🌐 Swift | 📅 2023-03-17**
+**[XLActionController](https://github.com/xmartlabs/XLActionController) ⭐ 3,295 | 🐛 27 | 🌐 Swift | 📅 2023-03-17**
 *from [xmartlabs](https://github.com/xmartlabs):*
 
 > *Fully customizable and extensible action sheet controller written in Swift*
@@ -903,7 +903,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *iOS / Objective C: an extremely simple UIAlertView alternative*
 
-**[RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub) ⭐ 3,026 | 🐛 3 | 🌐 Objective-C | 📅 2018-11-02**
+**[RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub) ⭐ 3,025 | 🐛 3 | 🌐 Objective-C | 📅 2018-11-02**
 *from [cwRichardKim](https://github.com/cwRichardKim):*
 
 > *Make any UIView a full fledged notification center*
@@ -1043,7 +1043,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Awesome iOS 11 appstore cards in swift 4.*
 
-**[VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) ⭐ 1,538 | 🐛 15 | 🌐 Swift | 📅 2023-10-02**
+**[VerticalCardSwiper](https://github.com/JoniVR/VerticalCardSwiper) ⭐ 1,539 | 🐛 15 | 🌐 Swift | 📅 2023-10-02**
 *from [JoniVR](https://github.com/JoniVR):*
 
 > *A marriage between the Shazam Discover UI and Tinder, built with UICollectionView in Swift.*
@@ -1215,19 +1215,19 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *📅 Fully customizable calendar for iOS*
 
-**[JTCalendar](https://github.com/jonathantribouharet/JTCalendar) ⭐ 2,741 | 🐛 118 | 🌐 Objective-C | 📅 2021-12-06**
+**[JTCalendar](https://github.com/jonathantribouharet/JTCalendar) ⭐ 2,740 | 🐛 118 | 🌐 Objective-C | 📅 2021-12-06**
 *from [jonathantribouharet](https://github.com/jonathantribouharet):*
 
 > *A customizable calendar view for iOS.*
 
-**[FSCalendar](https://github.com/WenchaoIOS/FSCalendar) ⭐ 10,636 | 🐛 503 | 🌐 Objective-C | 📅 2024-08-10**
+**[FSCalendar](https://github.com/WenchaoIOS/FSCalendar) ⭐ 10,634 | 🐛 503 | 🌐 Objective-C | 📅 2024-08-10**
 *from [WenchaoD](https://github.com/WenchaoD):*
 
 > *A fully customizable iOS calendar library, compatible with Objective-C and Swift*
 
 ## Introduction
 
-**[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,432 | 🐛 11 | 🌐 Swift | 📅 2024-10-10**
+**[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,430 | 🐛 11 | 🌐 Swift | 📅 2024-10-10**
 *from [SvenTiigi](https://github.com/SvenTiigi):*
 
 > *Showcase your awesome new app features 📱*
@@ -1298,7 +1298,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A pull-down-to-refresh control for iOS that plays pong, originally created for the MHacks III iOS app*
 
-**[CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl) ⭐ 3,883 | 🐛 26 | 🌐 Objective-C | 📅 2020-01-02**
+**[CBStoreHouseRefreshControl](https://github.com/coolbeet/CBStoreHouseRefreshControl) ⭐ 3,882 | 🐛 26 | 🌐 Objective-C | 📅 2020-01-02**
 *from [coolbeet](https://github.com/coolbeet):*
 
 > *Fully customizable pull-to-refresh control inspired by Storehouse iOS app*
@@ -1399,7 +1399,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Gallery
 
-**[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) ⭐ 8,701 | 🐛 335 | 🌐 Objective-C | 📅 2024-06-27**
+**[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) ⭐ 8,698 | 🐛 335 | 🌐 Objective-C | 📅 2024-06-27**
 *from [mwaterfall](https://github.com/mwaterfall):*
 
 > *A simple iOS photo and video browser with grid view, captions and selections.*
@@ -1449,4 +1449,4 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-05._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-06._

@@ -438,7 +438,7 @@
                 "open_issues": 8,
                 "owner": "marty-suzuki",
                 "repo": "SABlurImageView",
-                "stars": 551,
+                "stars": 550,
                 "topics": [
                   "blur",
                   "carthage",
@@ -2221,7 +2221,7 @@
                 "open_issues": 32,
                 "owner": "okmr-d",
                 "repo": "DOFavoriteButton",
-                "stars": 3580,
+                "stars": 3579,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -2277,7 +2277,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2023-06-04T21:52:42Z",
-                "open_issues": 18,
+                "open_issues": 19,
                 "owner": "marcosgriselli",
                 "repo": "SwipeableTabBarController",
                 "stars": 1533,
@@ -2354,7 +2354,7 @@
                 "open_issues": 73,
                 "owner": "telly",
                 "repo": "TLYShyNavBar",
-                "stars": 3693,
+                "stars": 3689,
                 "topics": [
                   "cocoapods",
                   "ios",
@@ -2386,7 +2386,7 @@
                 "open_issues": 17,
                 "owner": "Ramotion",
                 "repo": "animated-tab-bar",
-                "stars": 11082,
+                "stars": 11081,
                 "topics": [
                   "animation",
                   "ios",
@@ -2945,7 +2945,7 @@
                 "open_issues": 1,
                 "owner": "ninjaprox",
                 "repo": "NVActivityIndicatorView",
-                "stars": 10706,
+                "stars": 10705,
                 "topics": [
                   "animation",
                   "carthage",
@@ -3023,7 +3023,7 @@
                 "open_issues": 48,
                 "owner": "Marxon13",
                 "repo": "M13ProgressSuite",
-                "stars": 3894,
+                "stars": 3893,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -3277,7 +3277,7 @@
                 "open_issues": 27,
                 "owner": "xmartlabs",
                 "repo": "XLActionController",
-                "stars": 3296,
+                "stars": 3295,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -4122,7 +4122,7 @@
                 "open_issues": 3,
                 "owner": "cwRichardKim",
                 "repo": "RKNotificationHub",
-                "stars": 3026,
+                "stars": 3025,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -4810,7 +4810,7 @@
                 "open_issues": 15,
                 "owner": "JoniVR",
                 "repo": "VerticalCardSwiper",
-                "stars": 1538,
+                "stars": 1539,
                 "topics": [
                   "animation",
                   "cards",
@@ -5684,7 +5684,7 @@
                 "open_issues": 118,
                 "owner": "johnvuko",
                 "repo": "JTCalendar",
-                "stars": 2741,
+                "stars": 2740,
                 "topics": [
                   "calendar",
                   "ios"
@@ -5708,7 +5708,7 @@
                 "open_issues": 503,
                 "owner": "WenchaoD",
                 "repo": "FSCalendar",
-                "stars": 10636,
+                "stars": 10634,
                 "topics": [
                   "calendar",
                   "carthage",
@@ -5744,7 +5744,7 @@
                 "open_issues": 11,
                 "owner": "SvenTiigi",
                 "repo": "WhatsNewKit",
-                "stars": 4432,
+                "stars": 4430,
                 "topics": [
                   "ios",
                   "macos",
@@ -6070,7 +6070,7 @@
                 "open_issues": 26,
                 "owner": "coolbeet",
                 "repo": "CBStoreHouseRefreshControl",
-                "stars": 3883,
+                "stars": 3882,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6539,7 +6539,7 @@
                 "open_issues": 335,
                 "owner": "mwaterfall",
                 "repo": "MWPhotoBrowser",
-                "stars": 8701,
+                "stars": 8698,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-05T06:57:40.511Z",
+    "last_updated": "2026-10-06T07:30:14.445Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
