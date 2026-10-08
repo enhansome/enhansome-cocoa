@@ -123,7 +123,7 @@
             "open_issues": 32,
             "owner": "FluidGroup",
             "repo": "NextGrowingTextView",
-            "stars": 1797,
+            "stars": 1798,
             "topics": [
               "carthage",
               "cocoapods",
@@ -209,7 +209,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4058,
+            "stars": 4060,
             "topics": [
               "popup",
               "swiftui",
@@ -717,7 +717,7 @@
                 "open_issues": 22,
                 "owner": "ChiliLabs",
                 "repo": "CHIPageControl",
-                "stars": 3467,
+                "stars": 3469,
                 "topics": [
                   "cocoapods",
                   "ibdesignable",
@@ -1472,7 +1472,7 @@
                 "open_issues": 32,
                 "owner": "FluidGroup",
                 "repo": "NextGrowingTextView",
-                "stars": 1797,
+                "stars": 1798,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -1854,7 +1854,7 @@
                 "open_issues": 0,
                 "owner": "exyte",
                 "repo": "PopupView",
-                "stars": 4058,
+                "stars": 4060,
                 "topics": [
                   "popup",
                   "swiftui",
@@ -2386,7 +2386,7 @@
                 "open_issues": 17,
                 "owner": "Ramotion",
                 "repo": "animated-tab-bar",
-                "stars": 11080,
+                "stars": 11081,
                 "topics": [
                   "animation",
                   "ios",
@@ -2552,7 +2552,7 @@
                 "open_issues": 6,
                 "owner": "spromicky",
                 "repo": "StepSlider",
-                "stars": 576,
+                "stars": 575,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -2783,7 +2783,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "DockProgress",
-                "stars": 1356,
+                "stars": 1354,
                 "topics": [
                   "dock",
                   "icon",
@@ -2945,7 +2945,7 @@
                 "open_issues": 1,
                 "owner": "ninjaprox",
                 "repo": "NVActivityIndicatorView",
-                "stars": 10703,
+                "stars": 10702,
                 "topics": [
                   "animation",
                   "carthage",
@@ -5708,7 +5708,7 @@
                 "open_issues": 503,
                 "owner": "WenchaoD",
                 "repo": "FSCalendar",
-                "stars": 10632,
+                "stars": 10631,
                 "topics": [
                   "calendar",
                   "carthage",
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-07T07:10:47.060Z",
+    "last_updated": "2026-10-08T07:17:22.825Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
