@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,245 | 🐛 106 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 516,478 | 🐛 106 | 📅 2026-09-02
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -133,7 +133,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,060 | 🐛 0 | 🌐 Swift | 📅 2026-10-06**
+**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,061 | 🐛 0 | 🌐 Swift | 📅 2026-10-06**
 *from [exyte](https://github.com/exyte):*
 
 > *Toasts and popups library written with SwiftUI*
@@ -294,7 +294,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > \*PagingKit provides customizable menu UI. It has more flexible layout and design than the other libraries. \*
 
-**[TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) ⭐ 1,466 | 🐛 7 | 🌐 Swift | 📅 2026-09-14**
+**[TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) ⭐ 1,467 | 🐛 7 | 🌐 Swift | 📅 2026-09-14**
 *from [TBXark](https://github.com/TBXark):*
 
 > *A rubber animation pagecontrol*
@@ -464,7 +464,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Toast
 
-**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,060 | 🐛 0 | 🌐 Swift | 📅 2026-10-06**
+**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,061 | 🐛 0 | 🌐 Swift | 📅 2026-10-06**
 *from [exyte](https://github.com/exyte):*
 
 > *Toasts and popups library written with SwiftUI*
@@ -614,7 +614,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A circular, animatable & highly customizable progress bar from the Interface Builder (Objective-C)*
 
-**[GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) ⭐ 894 | 🐛 0 | 🌐 Swift | 📅 2026-02-24**
+**[GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) ⭐ 894 | 🐛 0 | 🌐 Swift | 📅 2026-10-08**
 *from [fxm90](https://github.com/fxm90):*
 
 > *A customizable animated gradient loading bar.*
@@ -639,7 +639,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Forget about typical stereotypic loading, It's time to change. SSSpinnerButton is an elegant button with a diffrent spinner animations.*
 
-**[GradientCircularProgress](https://github.com/keygx/GradientCircularProgress) ⭐ 543 | 🐛 9 | 🌐 Swift | 📅 2021-08-26**
+**[GradientCircularProgress](https://github.com/keygx/GradientCircularProgress) ⭐ 544 | 🐛 9 | 🌐 Swift | 📅 2021-08-26**
 *from [keygx](https://github.com/keygx):*
 
 > *Customizable progress indicator library in Swift*
@@ -649,7 +649,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Show progress in your app's Dock icon*
 
-**[CircularProgress](https://github.com/sindresorhus/CircularProgress) ⭐ 577 | 🐛 0 | 🌐 Swift | 📅 2024-02-20**
+**[CircularProgress](https://github.com/sindresorhus/CircularProgress) ⭐ 578 | 🐛 0 | 🌐 Swift | 📅 2024-02-20**
 *from [sindresorhus](https://github.com/sindresorhus):*
 
 > *Circular progress indicator for your macOS app*
@@ -669,7 +669,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Collection of iOS drop-in components to visualize progress*
 
-**[GaugeKit](https://github.com/skywinder/GaugeKit) ⭐ 1,022 | 🐛 2 | 🌐 Swift | 📅 2022-04-10**
+**[GaugeKit](https://github.com/skywinder/GaugeKit) ⭐ 1,023 | 🐛 2 | 🌐 Swift | 📅 2022-04-10**
 *from [skywinder](https://github.com/skywinder):*
 
 > *Kit for building custom gauges + easy reproducible Apple's style ring gauges.*
@@ -903,7 +903,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *iOS / Objective C: an extremely simple UIAlertView alternative*
 
-**[RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub) ⭐ 3,024 | 🐛 3 | 🌐 Objective-C | 📅 2018-11-02**
+**[RKNotificationHub](https://github.com/cwRichardKim/RKNotificationHub) ⭐ 3,022 | 🐛 3 | 🌐 Objective-C | 📅 2018-11-02**
 *from [cwRichardKim](https://github.com/cwRichardKim):*
 
 > *Make any UIView a full fledged notification center*
@@ -960,7 +960,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *iOS custom view to display books on shelf*
 
-**[CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout) ⭐ 2,339 | 🐛 3 | 🌐 Swift | 📅 2021-05-01**
+**[CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout) ⭐ 2,338 | 🐛 3 | 🌐 Swift | 📅 2021-05-01**
 *from [yacir](https://github.com/yacir):*
 
 > *UICollectionViewLayout to display slanted content*
@@ -1416,7 +1416,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *VideoSplashKit - UIViewController library for creating easy intro pages with background videos*
 
-**[XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) ⭐ 2,922 | 🐛 50 | 🌐 Objective-C | 📅 2024-04-08**
+**[XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) ⭐ 2,921 | 🐛 50 | 🌐 Objective-C | 📅 2024-04-08**
 *from [0xced](https://github.com/0xced):*
 
 > *YouTube video player for iOS, tvOS and macOS*
@@ -1449,4 +1449,4 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-08._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-09._
