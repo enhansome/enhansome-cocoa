@@ -717,7 +717,7 @@
                 "open_issues": 22,
                 "owner": "ChiliLabs",
                 "repo": "CHIPageControl",
-                "stars": 3469,
+                "stars": 3470,
                 "topics": [
                   "cocoapods",
                   "ibdesignable",
@@ -1500,7 +1500,7 @@
                 "open_issues": 6,
                 "owner": "orazz",
                 "repo": "CreditCardForm-iOS",
-                "stars": 1463,
+                "stars": 1464,
                 "topics": [
                   "credit-card",
                   "creditcardform",
@@ -2386,7 +2386,7 @@
                 "open_issues": 17,
                 "owner": "Ramotion",
                 "repo": "animated-tab-bar",
-                "stars": 11081,
+                "stars": 11079,
                 "topics": [
                   "animation",
                   "ios",
@@ -2780,7 +2780,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2026-01-25T06:44:12Z",
-                "open_issues": 0,
+                "open_issues": 1,
                 "owner": "sindresorhus",
                 "repo": "DockProgress",
                 "stars": 1354,
@@ -2893,7 +2893,7 @@
                 "open_issues": 37,
                 "owner": "mrackwitz",
                 "repo": "MRProgress",
-                "stars": 2524,
+                "stars": 2522,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -2945,7 +2945,7 @@
                 "open_issues": 1,
                 "owner": "ninjaprox",
                 "repo": "NVActivityIndicatorView",
-                "stars": 10702,
+                "stars": 10701,
                 "topics": [
                   "animation",
                   "carthage",
@@ -4404,7 +4404,7 @@
                 "open_issues": 3,
                 "owner": "yacir",
                 "repo": "CollectionViewSlantedLayout",
-                "stars": 2338,
+                "stars": 2339,
                 "topics": [
                   "collection-view",
                   "collectionview",
@@ -5155,7 +5155,7 @@
                 "open_issues": 24,
                 "owner": "hyperoslo",
                 "repo": "Lightbox",
-                "stars": 1742,
+                "stars": 1741,
                 "topics": [
                   "image",
                   "ios",
@@ -5182,7 +5182,7 @@
                 "open_issues": 83,
                 "owner": "Flipboard",
                 "repo": "FLAnimatedImage",
-                "stars": 7941,
+                "stars": 7939,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5641,7 +5641,7 @@
               "children": [],
               "repo_info": {
                 "archived": false,
-                "description": "📅 Calendar for Apple platforms in Swift",
+                "description": "Calendar for Apple platforms in Swift",
                 "homepage": "https://www.youtube.com/watch?v=cJ63-_z1qg8",
                 "id": 44537782,
                 "language": "Swift",
@@ -5708,7 +5708,7 @@
                 "open_issues": 503,
                 "owner": "WenchaoD",
                 "repo": "FSCalendar",
-                "stars": 10631,
+                "stars": 10630,
                 "topics": [
                   "calendar",
                   "carthage",
@@ -5744,7 +5744,7 @@
                 "open_issues": 11,
                 "owner": "SvenTiigi",
                 "repo": "WhatsNewKit",
-                "stars": 4428,
+                "stars": 4427,
                 "topics": [
                   "ios",
                   "macos",
@@ -5793,7 +5793,7 @@
                 "open_issues": 5,
                 "owner": "ariok",
                 "repo": "BWWalkthrough",
-                "stars": 2744,
+                "stars": 2743,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6070,7 +6070,7 @@
                 "open_issues": 26,
                 "owner": "coolbeet",
                 "repo": "CBStoreHouseRefreshControl",
-                "stars": 3882,
+                "stars": 3881,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-09T07:20:14.731Z",
+    "last_updated": "2026-10-10T07:00:00.874Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
