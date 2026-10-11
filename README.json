@@ -178,7 +178,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7309,
+            "stars": 7308,
             "topics": [
               "animations",
               "ios",
@@ -312,7 +312,7 @@
                 "open_issues": 12,
                 "owner": "marcosgriselli",
                 "repo": "ViewAnimator",
-                "stars": 7309,
+                "stars": 7308,
                 "topics": [
                   "animations",
                   "ios",
@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22488,
+                "stars": 22487,
                 "topics": [
                   "animation",
                   "animations",
@@ -920,7 +920,7 @@
                 "open_issues": 0,
                 "owner": "andreamazz",
                 "repo": "UITextField-Shake",
-                "stars": 722,
+                "stars": 721,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -1370,7 +1370,7 @@
                 "open_issues": 79,
                 "owner": "slackhq",
                 "repo": "SlackTextViewController",
-                "stars": 8252,
+                "stars": 8251,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -2221,7 +2221,7 @@
                 "open_issues": 32,
                 "owner": "okmr-d",
                 "repo": "DOFavoriteButton",
-                "stars": 3578,
+                "stars": 3577,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -2386,7 +2386,7 @@
                 "open_issues": 17,
                 "owner": "Ramotion",
                 "repo": "animated-tab-bar",
-                "stars": 11079,
+                "stars": 11080,
                 "topics": [
                   "animation",
                   "ios",
@@ -2779,11 +2779,11 @@
                 "id": 123488065,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-01-25T06:44:12Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-10T09:17:51Z",
+                "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "DockProgress",
-                "stars": 1354,
+                "stars": 1356,
                 "topics": [
                   "dock",
                   "icon",
@@ -3189,7 +3189,7 @@
                 "open_issues": 41,
                 "owner": "CaliCastle",
                 "repo": "PopMenu",
-                "stars": 1690,
+                "stars": 1691,
                 "topics": [
                   "actionsheet",
                   "carthage",
@@ -3550,7 +3550,7 @@
                 "open_issues": 131,
                 "owner": "romaonthego",
                 "repo": "RESideMenu",
-                "stars": 7034,
+                "stars": 7033,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -3644,7 +3644,7 @@
                 "open_issues": 20,
                 "owner": "matghazaryan",
                 "repo": "AMSlideMenu2",
-                "stars": 1192,
+                "stars": 1191,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -3996,7 +3996,7 @@
                 "open_issues": 3,
                 "owner": "atljeremy",
                 "repo": "JFMinimalNotifications",
-                "stars": 931,
+                "stars": 930,
                 "topics": [
                   "customizable",
                   "ios",
@@ -4024,7 +4024,7 @@
                 "open_issues": 93,
                 "owner": "KrauseFx",
                 "repo": "TSMessages",
-                "stars": 4837,
+                "stars": 4835,
                 "topics": [
                   "cocoapods",
                   "ios",
@@ -4080,7 +4080,7 @@
                 "open_issues": 16,
                 "owner": "terryworona",
                 "repo": "TWMessageBarManager",
-                "stars": 1750,
+                "stars": 1749,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5429,7 +5429,7 @@
                 "open_issues": 20,
                 "owner": "ApplikeySolutions",
                 "repo": "PandoraPlayer",
-                "stars": 1204,
+                "stars": 1203,
                 "topics": [
                   "animation",
                   "artist",
@@ -5744,7 +5744,7 @@
                 "open_issues": 11,
                 "owner": "SvenTiigi",
                 "repo": "WhatsNewKit",
-                "stars": 4427,
+                "stars": 4428,
                 "topics": [
                   "ios",
                   "macos",
@@ -6349,7 +6349,7 @@
                 "open_issues": 28,
                 "owner": "jverdi",
                 "repo": "JVFloatLabeledTextField",
-                "stars": 7132,
+                "stars": 7131,
                 "topics": [
                   "carthage",
                   "floating-labels",
@@ -6690,7 +6690,7 @@
                 "open_issues": 24,
                 "owner": "CSStickyHeaderFlowLayout",
                 "repo": "CSStickyHeaderFlowLayout",
-                "stars": 5024,
+                "stars": 5023,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6733,7 +6733,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-10T07:00:00.874Z",
+    "last_updated": "2026-10-11T07:06:55.704Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
