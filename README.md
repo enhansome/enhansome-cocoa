@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,125 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 519,590 | 🐛 105 | 📅 2026-09-02
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -106,7 +106,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-**[NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) ⭐ 1,797 | 🐛 32 | 🌐 Swift | 📅 2026-08-21**
+**[NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) ⭐ 1,797 | 🐛 31 | 🌐 Swift | 📅 2026-08-21**
 *from [muukii](https://github.com/muukii):*
 
 > *📝 The next in the generations of 'growing textviews' optimized for iOS 8 and above.*
@@ -124,7 +124,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-**[ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) ⭐ 7,305 | 🐛 12 | 🌐 Swift | 📅 2024-03-31**
+**[ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) ⭐ 7,304 | 🐛 12 | 🌐 Swift | 📅 2024-03-31**
 *from [marcosgriselli](https://github.com/marcosgriselli):*
 
 > *ViewAnimator brings your UI to life with just one line*
@@ -133,7 +133,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,062 | 🐛 0 | 🌐 Swift | 📅 2026-10-06**
+**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,063 | 🐛 0 | 🌐 Swift | 📅 2026-10-06**
 *from [exyte](https://github.com/exyte):*
 
 > *Toasts and popups library written with SwiftUI*
@@ -167,7 +167,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Elegant SVG animation kit for swift*
 
-**[ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) ⭐ 7,305 | 🐛 12 | 🌐 Swift | 📅 2024-03-31**
+**[ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) ⭐ 7,304 | 🐛 12 | 🌐 Swift | 📅 2024-03-31**
 *from [marcosgriselli](https://github.com/marcosgriselli):*
 
 > *ViewAnimator brings your UI to life with just one line*
@@ -197,7 +197,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *The Swift library for showing the rounded coach marks (useful for onboarding or run-time help purposes)*
 
-**[Hero](https://github.com/HeroTransitions/Hero) ⭐ 22,489 | 🐛 42 | 🌐 Swift | 📅 2025-01-23**
+**[Hero](https://github.com/HeroTransitions/Hero) ⭐ 22,490 | 🐛 42 | 🌐 Swift | 📅 2025-01-23**
 *from [HeroTransitions](https://github.com/HeroTransitions):*
 
 > *Elegant transition library for iOS & tvOS*
@@ -321,7 +321,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Simple timeline view written in Swift 3*
 
-**[SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) ⭐ 6,276 | 🐛 77 | 🌐 Swift | 📅 2024-05-19**
+**[SwipeCellKit](https://github.com/SwipeCellKit/SwipeCellKit) ⭐ 6,275 | 🐛 77 | 🌐 Swift | 📅 2024-05-19**
 *from [SwipeCellKit](https://github.com/SwipeCellKit):*
 
 > *Swipeable UITableViewCell/UICollectionViewCell based on the stock Mail.app, implemented in Swift.*
@@ -351,7 +351,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *↕️ VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9.*
 
-**[folding-cell](https://github.com/Ramotion/folding-cell) ⭐ 10,171 | 🐛 12 | 🌐 Swift | 📅 2024-04-28**
+**[folding-cell](https://github.com/Ramotion/folding-cell) ⭐ 10,170 | 🐛 12 | 🌐 Swift | 📅 2024-04-28**
 *from [Ramotion](https://github.com/Ramotion):*
 
 > *:octocat: 📃 FoldingCell is an expanding content cell with animation inspired by folding paper card material design. Swift UI Library by @Ramotion*
@@ -385,7 +385,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## TextField
 
-**[NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) ⭐ 1,797 | 🐛 32 | 🌐 Swift | 📅 2026-08-21**
+**[NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) ⭐ 1,797 | 🐛 31 | 🌐 Swift | 📅 2026-08-21**
 *from [muukii](https://github.com/muukii):*
 
 > *📝 The next in the generations of 'growing textviews' optimized for iOS 8 and above.*
@@ -464,7 +464,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Toast
 
-**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,062 | 🐛 0 | 🌐 Swift | 📅 2026-10-06**
+**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,063 | 🐛 0 | 🌐 Swift | 📅 2026-10-06**
 *from [exyte](https://github.com/exyte):*
 
 > *Toasts and popups library written with SwiftUI*
@@ -567,7 +567,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!*
 
-**[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) ⭐ 11,082 | 🐛 17 | 🌐 Swift | 📅 2022-01-26**
+**[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) ⭐ 11,083 | 🐛 17 | 🌐 Swift | 📅 2022-01-26**
 *from [Ramotion](https://github.com/Ramotion):*
 
 > *:octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion*
@@ -858,7 +858,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *SwiftOverlays is a Swift GUI library for displaying various popups and notifications*
 
-**[PKHUD](https://github.com/pkluz/PKHUD) ⭐ 3,770 | 🐛 64 | 🌐 Swift | 📅 2023-02-16**
+**[PKHUD](https://github.com/pkluz/PKHUD) ⭐ 3,769 | 🐛 64 | 🌐 Swift | 📅 2023-02-16**
 *from [pkluz](https://github.com/pkluz):*
 
 > *A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.*
@@ -873,7 +873,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Highly customizable alertview and alert/notification/success/error/alarm popup written in Swift*
 
-**[CRToast](https://github.com/cruffenach/CRToast) ⭐ 4,120 | 🐛 69 | 🌐 Objective-C | 📅 2024-05-02**
+**[CRToast](https://github.com/cruffenach/CRToast) ⭐ 4,119 | 🐛 69 | 🌐 Objective-C | 📅 2024-05-02**
 *from [cruffenach](https://github.com/cruffenach):*
 
 > *A modern iOS toast view that can fit your notification needs*
@@ -898,7 +898,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *An iOS manager for presenting system-wide notifications via a dropdown message bar.*
 
-**[RKDropdownAlert](https://github.com/cwRichardKim/RKDropdownAlert) ⭐ 1,525 | 🐛 10 | 🌐 Objective-C | 📅 2017-04-16**
+**[RKDropdownAlert](https://github.com/cwRichardKim/RKDropdownAlert) ⭐ 1,524 | 🐛 10 | 🌐 Objective-C | 📅 2017-04-16**
 *from [cwRichardKim](https://github.com/cwRichardKim):*
 
 > *iOS / Objective C: an extremely simple UIAlertView alternative*
@@ -1210,17 +1210,17 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A Github's like work contribution timeline. 🤸🏻*
 
-**[CalendarKit](https://github.com/richardtop/CalendarKit) ⭐ 2,702 | 🐛 35 | 🌐 Swift | 📅 2026-09-12**
+**[CalendarKit](https://github.com/richardtop/CalendarKit) ⭐ 2,703 | 🐛 35 | 🌐 Swift | 📅 2026-09-12**
 *from [richardtop](https://github.com/richardtop):*
 
 > *📅 Fully customizable calendar for iOS*
 
-**[JTCalendar](https://github.com/jonathantribouharet/JTCalendar) ⭐ 2,739 | 🐛 118 | 🌐 Objective-C | 📅 2021-12-06**
+**[JTCalendar](https://github.com/jonathantribouharet/JTCalendar) ⭐ 2,738 | 🐛 118 | 🌐 Objective-C | 📅 2021-12-06**
 *from [jonathantribouharet](https://github.com/jonathantribouharet):*
 
 > *A customizable calendar view for iOS.*
 
-**[FSCalendar](https://github.com/WenchaoIOS/FSCalendar) ⭐ 10,629 | 🐛 503 | 🌐 Objective-C | 📅 2024-08-10**
+**[FSCalendar](https://github.com/WenchaoIOS/FSCalendar) ⭐ 10,628 | 🐛 503 | 🌐 Objective-C | 📅 2024-08-10**
 *from [WenchaoD](https://github.com/WenchaoD):*
 
 > *A fully customizable iOS calendar library, compatible with Objective-C and Swift*
@@ -1252,7 +1252,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A super-charged version of MYIntroductionView for building custom app introductions and tutorials.*
 
-**[Onboard](https://github.com/mamaral/Onboard) ⭐ 6,549 | 🐛 45 | 🌐 Objective-C | 📅 2025-01-01**
+**[Onboard](https://github.com/mamaral/Onboard) ⭐ 6,548 | 🐛 45 | 🌐 Objective-C | 📅 2025-01-01**
 *from [mamaral](https://github.com/mamaral):*
 
 > *An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.*
@@ -1344,7 +1344,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Material
 
-**[CardParts](https://github.com/intuit/CardParts) ⭐ 2,516 | 🐛 28 | 🌐 Swift | 📅 2022-02-24**
+**[CardParts](https://github.com/intuit/CardParts) ⭐ 2,515 | 🐛 28 | 🌐 Swift | 📅 2022-02-24**
 *from [intuit](https://github.com/intuit):*
 
 > *A reactive, card-based UI framework built on UIKit for iOS developers.*
@@ -1399,7 +1399,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Gallery
 
-**[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) ⭐ 8,695 | 🐛 335 | 🌐 Objective-C | 📅 2024-06-27**
+**[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) ⭐ 8,694 | 🐛 335 | 🌐 Objective-C | 📅 2024-06-27**
 *from [mwaterfall](https://github.com/mwaterfall):*
 
 > *A simple iOS photo and video browser with grid view, captions and selections.*
@@ -1449,4 +1449,4 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-15._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-16._
