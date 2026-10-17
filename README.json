@@ -209,7 +209,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4063,
+            "stars": 4062,
             "topics": [
               "popup",
               "swiftui",
@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22490,
+                "stars": 22488,
                 "topics": [
                   "animation",
                   "animations",
@@ -1854,7 +1854,7 @@
                 "open_issues": 0,
                 "owner": "exyte",
                 "repo": "PopupView",
-                "stars": 4063,
+                "stars": 4062,
                 "topics": [
                   "popup",
                   "swiftui",
@@ -2386,7 +2386,7 @@
                 "open_issues": 17,
                 "owner": "Ramotion",
                 "repo": "animated-tab-bar",
-                "stars": 11083,
+                "stars": 11082,
                 "topics": [
                   "animation",
                   "ios",
@@ -2981,7 +2981,7 @@
                 "open_issues": 3,
                 "owner": "uzysjung",
                 "repo": "UzysAnimatedGifPullToRefresh",
-                "stars": 1394,
+                "stars": 1393,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -3256,6 +3256,7 @@
                   "animation-library",
                   "ios",
                   "swift",
+                  "swiftui",
                   "uikit"
                 ]
               },
@@ -5539,7 +5540,7 @@
                 "open_issues": 11,
                 "owner": "efremidze",
                 "repo": "VisualEffectView",
-                "stars": 1425,
+                "stars": 1426,
                 "topics": [
                   "apple",
                   "blur",
@@ -5744,7 +5745,7 @@
                 "open_issues": 11,
                 "owner": "SvenTiigi",
                 "repo": "WhatsNewKit",
-                "stars": 4428,
+                "stars": 4427,
                 "topics": [
                   "ios",
                   "macos",
@@ -5868,7 +5869,7 @@
                 "open_issues": 45,
                 "owner": "mamaral",
                 "repo": "Onboard",
-                "stars": 6548,
+                "stars": 6547,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6406,7 +6407,7 @@
                 "open_issues": 39,
                 "owner": "andreamazz",
                 "repo": "AMScrollingNavbar",
-                "stars": 5986,
+                "stars": 5985,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6733,7 +6734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-16T05:47:46.807Z",
+    "last_updated": "2026-10-17T05:33:02.616Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
