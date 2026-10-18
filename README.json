@@ -2471,7 +2471,7 @@
                 "open_issues": 14,
                 "owner": "Yalantis",
                 "repo": "FoldingTabBar.iOS",
-                "stars": 3660,
+                "stars": 3661,
                 "topics": [
                   "animation",
                   "carthage",
@@ -3189,7 +3189,7 @@
                 "open_issues": 41,
                 "owner": "CaliCastle",
                 "repo": "PopMenu",
-                "stars": 1689,
+                "stars": 1690,
                 "topics": [
                   "actionsheet",
                   "carthage",
@@ -6350,7 +6350,7 @@
                 "open_issues": 28,
                 "owner": "jverdi",
                 "repo": "JVFloatLabeledTextField",
-                "stars": 7131,
+                "stars": 7130,
                 "topics": [
                   "carthage",
                   "floating-labels",
@@ -6540,7 +6540,7 @@
                 "open_issues": 335,
                 "owner": "mwaterfall",
                 "repo": "MWPhotoBrowser",
-                "stars": 8694,
+                "stars": 8693,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6734,7 +6734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-17T05:33:02.616Z",
+    "last_updated": "2026-10-18T05:49:41.466Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",

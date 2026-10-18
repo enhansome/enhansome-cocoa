@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,098 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 520,602 | 🐛 105 | 📅 2026-09-02
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -582,7 +582,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Simple, beatiful and interactive UITabBar*
 
-**[FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) ⭐ 3,660 | 🐛 14 | 🌐 Objective-C | 📅 2022-06-13**
+**[FoldingTabBar.iOS](https://github.com/Yalantis/FoldingTabBar.iOS) ⭐ 3,661 | 🐛 14 | 🌐 Objective-C | 📅 2022-06-13**
 *from [Yalantis](https://github.com/Yalantis):*
 
 > *Folding Tab Bar and Tab Bar Controller*
@@ -723,7 +723,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *FTPopOverMenu\_Swift, swift version of FTPopOverMenu. FTPopOverMenu is a pop over menu for iOS which is maybe the easiest one to use. Supports both portrait and landscape. It can show from any UIView, any UIBarButtonItem and any CGRect.*
 
-**[PopMenu](https://github.com/CaliCastle/PopMenu) ⭐ 1,689 | 🐛 41 | 🌐 Swift | 📅 2024-03-12**
+**[PopMenu](https://github.com/CaliCastle/PopMenu) ⭐ 1,690 | 🐛 41 | 🌐 Swift | 📅 2024-03-12**
 *from [CaliCastle](https://github.com/CaliCastle):*
 
 > *A cool and customizable popup style action sheet for iOS 😎*
@@ -1354,7 +1354,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Custom UITextFields effects inspired by Codrops, built using Swift*
 
-**[JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) ⭐ 7,131 | 🐛 28 | 🌐 Objective-C | 📅 2023-04-17**
+**[JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) ⭐ 7,130 | 🐛 28 | 🌐 Objective-C | 📅 2023-04-17**
 *from [jverdi](https://github.com/jverdi):*
 
 > *UITextField subclass with floating labels - inspired by Matt D. Smith's design: <http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users>*
@@ -1399,7 +1399,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Gallery
 
-**[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) ⭐ 8,694 | 🐛 335 | 🌐 Objective-C | 📅 2024-06-27**
+**[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) ⭐ 8,693 | 🐛 335 | 🌐 Objective-C | 📅 2024-06-27**
 *from [mwaterfall](https://github.com/mwaterfall):*
 
 > *A simple iOS photo and video browser with grid view, captions and selections.*
@@ -1449,4 +1449,4 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-17._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-18._
