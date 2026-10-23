@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 522,502 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 523,268 | 🐛 105 | 📅 2026-09-02
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -217,7 +217,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *:octocat: ≡ GarlandView seamlessly transitions between multiple lists of content. Swift UI library made by @Ramotion*
 
-**[Transition](https://github.com/Touchwonders/Transition) ⭐ 2,624 | 🐛 2 | 🌐 Swift | 📅 2020-11-02**
+**[Transition](https://github.com/Touchwonders/Transition) ⭐ 2,623 | 🐛 2 | 🌐 Swift | 📅 2020-11-02**
 *from [Touchwonders](https://github.com/Touchwonders):*
 
 > *Easy interactive interruptible custom ViewController transitions*
@@ -232,7 +232,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *:sparkles: Twinkle iOS/tvOS app elements in Swift*
 
-**[CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) ⭐ 3,470 | 🐛 22 | 🌐 Swift | 📅 2023-05-22**
+**[CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) ⭐ 3,471 | 🐛 22 | 🌐 Swift | 📅 2023-05-22**
 *from [ChiliLabs](https://github.com/ChiliLabs):*
 
 > *A set of cool animated page controls written in Swift to replace boring UIPageControl.*
@@ -294,7 +294,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > \*PagingKit provides customizable menu UI. It has more flexible layout and design than the other libraries. \*
 
-**[TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) ⭐ 1,467 | 🐛 7 | 🌐 Swift | 📅 2026-09-14**
+**[TKRubberIndicator](https://github.com/TBXark/TKRubberIndicator) ⭐ 1,468 | 🐛 7 | 🌐 Swift | 📅 2026-09-14**
 *from [TBXark](https://github.com/TBXark):*
 
 > *A rubber animation pagecontrol*
@@ -515,7 +515,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Animated Play and Pause Button written in Swift, using CALayer, CAKeyframeAnimation.*
 
-**[TransitionButton](https://github.com/AladinWay/TransitionButton) ⭐ 1,476 | 🐛 20 | 🌐 Swift | 📅 2022-09-05**
+**[TransitionButton](https://github.com/AladinWay/TransitionButton) ⭐ 1,475 | 🐛 20 | 🌐 Swift | 📅 2022-09-05**
 *from [AladinWay](https://github.com/AladinWay):*
 
 > *UIButton sublass for loading and transition animation.*
@@ -567,7 +567,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!*
 
-**[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) ⭐ 11,083 | 🐛 17 | 🌐 Swift | 📅 2022-01-26**
+**[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) ⭐ 11,082 | 🐛 17 | 🌐 Swift | 📅 2022-01-26**
 *from [Ramotion](https://github.com/Ramotion):*
 
 > *:octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion*
@@ -773,7 +773,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > \*A simple side menu for iOS written in Swift. \*
 
-**[XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) ⭐ 6,990 | 🐛 314 | 🌐 Swift | 📅 2023-11-22**
+**[XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) ⭐ 6,989 | 🐛 314 | 🌐 Swift | 📅 2023-11-22**
 *from [xmartlabs](https://github.com/xmartlabs):*
 
 > *Android PagerTabStrip for iOS.*
@@ -898,7 +898,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *An iOS manager for presenting system-wide notifications via a dropdown message bar.*
 
-**[RKDropdownAlert](https://github.com/cwRichardKim/RKDropdownAlert) ⭐ 1,524 | 🐛 10 | 🌐 Objective-C | 📅 2017-04-16**
+**[RKDropdownAlert](https://github.com/cwRichardKim/RKDropdownAlert) ⭐ 1,523 | 🐛 10 | 🌐 Objective-C | 📅 2017-04-16**
 *from [cwRichardKim](https://github.com/cwRichardKim):*
 
 > *iOS / Objective C: an extremely simple UIAlertView alternative*
@@ -1237,7 +1237,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *The easiest way to create a great walkthrough experience in your apps, powered by Swift.*
 
-**[BWWalkthrough](https://github.com/ariok/BWWalkthrough) ⭐ 2,743 | 🐛 5 | 🌐 Swift | 📅 2021-02-07**
+**[BWWalkthrough](https://github.com/ariok/BWWalkthrough) ⭐ 2,741 | 🐛 5 | 🌐 Swift | 📅 2021-02-07**
 *from [ariok](https://github.com/ariok):*
 
 > *BWWalkthrough is a class to build custom walkthroughs for your iOS App*
@@ -1247,7 +1247,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Awesome tool for create tutorial walkthrough or coach tour*
 
-**[MYBlurIntroductionView](https://github.com/MatthewYork/MYBlurIntroductionView) ⭐ 1,513 | 🐛 18 | 🌐 Objective-C | 📅 2017-10-30**
+**[MYBlurIntroductionView](https://github.com/MatthewYork/MYBlurIntroductionView) ⭐ 1,512 | 🐛 18 | 🌐 Objective-C | 📅 2017-10-30**
 *from [MatthewYork](https://github.com/MatthewYork):*
 
 > *A super-charged version of MYIntroductionView for building custom app introductions and tutorials.*
@@ -1327,7 +1327,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Picker
 
-**[reel-search](https://github.com/Ramotion/reel-search) ⭐ 2,504 | 🐛 5 | 🌐 Swift | 📅 2020-04-06**
+**[reel-search](https://github.com/Ramotion/reel-search) ⭐ 2,505 | 🐛 5 | 🌐 Swift | 📅 2020-04-06**
 *from [Ramotion](https://github.com/Ramotion):*
 
 > *:octocat: 🔍 RAMReel is a UI controller that allows you to choose options from a list. Swift UI library made by @Ramotion*
@@ -1366,7 +1366,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Bar
 
-**[AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) ⭐ 5,985 | 🐛 39 | 🌐 Swift | 📅 2023-04-13**
+**[AMScrollingNavbar](https://github.com/andreamazz/AMScrollingNavbar) ⭐ 5,984 | 🐛 39 | 🌐 Swift | 📅 2023-04-13**
 *from [andreamazz](https://github.com/andreamazz):*
 
 > *Scrollable UINavigationBar that follows the scrolling of a UIScrollView*
@@ -1449,4 +1449,4 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-22._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-23._

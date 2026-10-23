@@ -618,7 +618,7 @@
                 "open_issues": 2,
                 "owner": "Touchwonders",
                 "repo": "Transition",
-                "stars": 2624,
+                "stars": 2623,
                 "topics": [
                   "animation",
                   "controller",
@@ -717,7 +717,7 @@
                 "open_issues": 22,
                 "owner": "ChiliLabs",
                 "repo": "CHIPageControl",
-                "stars": 3470,
+                "stars": 3471,
                 "topics": [
                   "cocoapods",
                   "ibdesignable",
@@ -1000,7 +1000,7 @@
                 "open_issues": 7,
                 "owner": "tbxark",
                 "repo": "TKRubberIndicator",
-                "stars": 1467,
+                "stars": 1468,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -2094,7 +2094,7 @@
                 "open_issues": 20,
                 "owner": "AladinWay",
                 "repo": "TransitionButton",
-                "stars": 1476,
+                "stars": 1475,
                 "topics": [
                   "animation",
                   "button",
@@ -2386,7 +2386,7 @@
                 "open_issues": 17,
                 "owner": "Ramotion",
                 "repo": "animated-tab-bar",
-                "stars": 11083,
+                "stars": 11082,
                 "topics": [
                   "animation",
                   "ios",
@@ -3468,7 +3468,7 @@
                 "open_issues": 314,
                 "owner": "xmartlabs",
                 "repo": "XLPagerTabStrip",
-                "stars": 6990,
+                "stars": 6989,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -4102,7 +4102,7 @@
                 "open_issues": 10,
                 "owner": "cwRichardKim",
                 "repo": "RKDropdownAlert",
-                "stars": 1524,
+                "stars": 1523,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -4562,7 +4562,7 @@
                 "open_issues": 2,
                 "owner": "marty-suzuki",
                 "repo": "SAHistoryNavigationViewController",
-                "stars": 1553,
+                "stars": 1554,
                 "topics": [
                   "animation",
                   "support-3d-touch",
@@ -4855,7 +4855,7 @@
                 "open_issues": 96,
                 "owner": "slackhq",
                 "repo": "PanModal",
-                "stars": 3771,
+                "stars": 3770,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5794,7 +5794,7 @@
                 "open_issues": 5,
                 "owner": "ariok",
                 "repo": "BWWalkthrough",
-                "stars": 2743,
+                "stars": 2741,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5848,7 +5848,7 @@
                 "open_issues": 18,
                 "owner": "MatthewYork",
                 "repo": "MYBlurIntroductionView",
-                "stars": 1513,
+                "stars": 1512,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6206,7 +6206,7 @@
                 "open_issues": 5,
                 "owner": "Ramotion",
                 "repo": "reel-search",
-                "stars": 2504,
+                "stars": 2505,
                 "topics": [
                   "component",
                   "ios",
@@ -6407,7 +6407,7 @@
                 "open_issues": 39,
                 "owner": "andreamazz",
                 "repo": "AMScrollingNavbar",
-                "stars": 5985,
+                "stars": 5984,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6734,7 +6734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-22T06:04:49.641Z",
+    "last_updated": "2026-10-23T05:59:46.158Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
