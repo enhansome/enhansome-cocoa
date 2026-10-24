@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "s2mr",
             "repo": "Elephant",
-            "stars": 151,
+            "stars": 152,
             "topics": [
               "animation",
               "ios",
@@ -151,7 +151,7 @@
             "open_issues": 48,
             "owner": "alexaubry",
             "repo": "BulletinBoard",
-            "stars": 5331,
+            "stars": 5330,
             "topics": [
               "card",
               "configuration",
@@ -178,7 +178,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7305,
+            "stars": 7304,
             "topics": [
               "animations",
               "ios",
@@ -209,7 +209,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4060,
+            "stars": 4061,
             "topics": [
               "popup",
               "swiftui",
@@ -286,7 +286,7 @@
                 "open_issues": 0,
                 "owner": "s2mr",
                 "repo": "Elephant",
-                "stars": 151,
+                "stars": 152,
                 "topics": [
                   "animation",
                   "ios",
@@ -312,7 +312,7 @@
                 "open_issues": 12,
                 "owner": "marcosgriselli",
                 "repo": "ViewAnimator",
-                "stars": 7305,
+                "stars": 7304,
                 "topics": [
                   "animations",
                   "ios",
@@ -752,7 +752,7 @@
                 "open_issues": 3,
                 "owner": "andreamazz",
                 "repo": "BubbleTransition",
-                "stars": 3298,
+                "stars": 3297,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -815,7 +815,7 @@
                 "open_issues": 14,
                 "owner": "IFTTT",
                 "repo": "JazzHands",
-                "stars": 6351,
+                "stars": 6350,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -1152,7 +1152,7 @@
                 "open_issues": 77,
                 "owner": "SwipeCellKit",
                 "repo": "SwipeCellKit",
-                "stars": 6275,
+                "stars": 6276,
                 "topics": [
                   "drag",
                   "ios",
@@ -1205,8 +1205,8 @@
                 "id": 84613303,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-13T12:00:02Z",
-                "open_issues": 8,
+                "last_commit": "2026-10-24T05:42:07Z",
+                "open_issues": 9,
                 "owner": "younatics",
                 "repo": "YNExpandableCell",
                 "stars": 451,
@@ -1321,7 +1321,7 @@
                 "open_issues": 12,
                 "owner": "Ramotion",
                 "repo": "folding-cell",
-                "stars": 10170,
+                "stars": 10169,
                 "topics": [
                   "animation",
                   "ios",
@@ -1820,7 +1820,7 @@
                 "open_issues": 48,
                 "owner": "alexaubry",
                 "repo": "BulletinBoard",
-                "stars": 5331,
+                "stars": 5330,
                 "topics": [
                   "card",
                   "configuration",
@@ -1854,7 +1854,7 @@
                 "open_issues": 0,
                 "owner": "exyte",
                 "repo": "PopupView",
-                "stars": 4060,
+                "stars": 4061,
                 "topics": [
                   "popup",
                   "swiftui",
@@ -2383,7 +2383,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2022-01-26T02:40:50Z",
-                "open_issues": 17,
+                "open_issues": 18,
                 "owner": "Ramotion",
                 "repo": "animated-tab-bar",
                 "stars": 11082,
@@ -2414,7 +2414,7 @@
                 "open_issues": 87,
                 "owner": "uias",
                 "repo": "Tabman",
-                "stars": 2921,
+                "stars": 2920,
                 "topics": [
                   "ios",
                   "swift",
@@ -2629,8 +2629,8 @@
                 "id": 77480764,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-08T20:12:11Z",
-                "open_issues": 0,
+                "last_commit": "2026-10-23T20:44:22Z",
+                "open_issues": 1,
                 "owner": "fxm90",
                 "repo": "GradientLoadingBar",
                 "stars": 893,
@@ -3973,7 +3973,7 @@
                 "language": "Objective-C",
                 "license": "MIT",
                 "last_commit": "2024-05-02T19:59:52Z",
-                "open_issues": 69,
+                "open_issues": 70,
                 "owner": "cruffenach",
                 "repo": "CRToast",
                 "stars": 4119,
@@ -4946,7 +4946,7 @@
                 "open_issues": 29,
                 "owner": "optonaut",
                 "repo": "ActiveLabel.swift",
-                "stars": 4599,
+                "stars": 4598,
                 "topics": [
                   "activelabel",
                   "swift",
@@ -5183,7 +5183,7 @@
                 "open_issues": 83,
                 "owner": "Flipboard",
                 "repo": "FLAnimatedImage",
-                "stars": 7938,
+                "stars": 7937,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5685,7 +5685,7 @@
                 "open_issues": 117,
                 "owner": "johnvuko",
                 "repo": "JTCalendar",
-                "stars": 2738,
+                "stars": 2739,
                 "topics": [
                   "calendar",
                   "ios"
@@ -6071,7 +6071,7 @@
                 "open_issues": 26,
                 "owner": "coolbeet",
                 "repo": "CBStoreHouseRefreshControl",
-                "stars": 3881,
+                "stars": 3882,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6296,7 +6296,7 @@
                 "open_issues": 28,
                 "owner": "intuit",
                 "repo": "CardParts",
-                "stars": 2515,
+                "stars": 2516,
                 "topics": [
                   "cardparts",
                   "cards",
@@ -6691,7 +6691,7 @@
                 "open_issues": 24,
                 "owner": "CSStickyHeaderFlowLayout",
                 "repo": "CSStickyHeaderFlowLayout",
-                "stars": 5021,
+                "stars": 5019,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6734,7 +6734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-23T05:59:46.158Z",
+    "last_updated": "2026-10-24T05:45:03.410Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
