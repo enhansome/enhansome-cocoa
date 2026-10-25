@@ -178,7 +178,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7304,
+            "stars": 7303,
             "topics": [
               "animations",
               "ios",
@@ -312,7 +312,7 @@
                 "open_issues": 12,
                 "owner": "marcosgriselli",
                 "repo": "ViewAnimator",
-                "stars": 7304,
+                "stars": 7303,
                 "topics": [
                   "animations",
                   "ios",
@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22487,
+                "stars": 22490,
                 "topics": [
                   "animation",
                   "animations",
@@ -1205,8 +1205,8 @@
                 "id": 84613303,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-24T05:42:07Z",
-                "open_issues": 9,
+                "last_commit": "2026-10-24T12:59:03Z",
+                "open_issues": 8,
                 "owner": "younatics",
                 "repo": "YNExpandableCell",
                 "stars": 451,
@@ -1321,7 +1321,7 @@
                 "open_issues": 12,
                 "owner": "Ramotion",
                 "repo": "folding-cell",
-                "stars": 10169,
+                "stars": 10170,
                 "topics": [
                   "animation",
                   "ios",
@@ -2312,7 +2312,7 @@
                 "open_issues": 6,
                 "owner": "Cuberto",
                 "repo": "flashy-tabbar",
-                "stars": 731,
+                "stars": 730,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -2386,7 +2386,7 @@
                 "open_issues": 18,
                 "owner": "Ramotion",
                 "repo": "animated-tab-bar",
-                "stars": 11082,
+                "stars": 11086,
                 "topics": [
                   "animation",
                   "ios",
@@ -2629,8 +2629,8 @@
                 "id": 77480764,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-10-23T20:44:22Z",
-                "open_issues": 1,
+                "last_commit": "2026-10-24T09:28:15Z",
+                "open_issues": 0,
                 "owner": "fxm90",
                 "repo": "GradientLoadingBar",
                 "stars": 893,
@@ -2945,7 +2945,7 @@
                 "open_issues": 1,
                 "owner": "ninjaprox",
                 "repo": "NVActivityIndicatorView",
-                "stars": 10700,
+                "stars": 10701,
                 "topics": [
                   "animation",
                   "carthage",
@@ -3303,7 +3303,7 @@
                 "id": 82458708,
                 "language": "Swift",
                 "license": "MIT",
-                "last_commit": "2026-09-13T12:02:29Z",
+                "last_commit": "2026-10-24T13:58:03Z",
                 "open_issues": 8,
                 "owner": "younatics",
                 "repo": "YNDropDownMenu",
@@ -3468,7 +3468,7 @@
                 "open_issues": 314,
                 "owner": "xmartlabs",
                 "repo": "XLPagerTabStrip",
-                "stars": 6989,
+                "stars": 6990,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -3973,7 +3973,7 @@
                 "language": "Objective-C",
                 "license": "MIT",
                 "last_commit": "2024-05-02T19:59:52Z",
-                "open_issues": 70,
+                "open_issues": 71,
                 "owner": "cruffenach",
                 "repo": "CRToast",
                 "stars": 4119,
@@ -4025,7 +4025,7 @@
                 "open_issues": 93,
                 "owner": "KrauseFx",
                 "repo": "TSMessages",
-                "stars": 4835,
+                "stars": 4834,
                 "topics": [
                   "cocoapods",
                   "ios",
@@ -5709,7 +5709,7 @@
                 "open_issues": 503,
                 "owner": "WenchaoD",
                 "repo": "FSCalendar",
-                "stars": 10628,
+                "stars": 10629,
                 "topics": [
                   "calendar",
                   "carthage",
@@ -6206,7 +6206,7 @@
                 "open_issues": 5,
                 "owner": "Ramotion",
                 "repo": "reel-search",
-                "stars": 2505,
+                "stars": 2506,
                 "topics": [
                   "component",
                   "ios",
@@ -6296,7 +6296,7 @@
                 "open_issues": 28,
                 "owner": "intuit",
                 "repo": "CardParts",
-                "stars": 2516,
+                "stars": 2515,
                 "topics": [
                   "cardparts",
                   "cards",
@@ -6350,7 +6350,7 @@
                 "open_issues": 28,
                 "owner": "jverdi",
                 "repo": "JVFloatLabeledTextField",
-                "stars": 7130,
+                "stars": 7131,
                 "topics": [
                   "carthage",
                   "floating-labels",
@@ -6734,7 +6734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-24T05:45:03.410Z",
+    "last_updated": "2026-10-25T06:01:09.317Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
