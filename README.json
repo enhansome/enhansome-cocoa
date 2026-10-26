@@ -151,7 +151,7 @@
             "open_issues": 48,
             "owner": "alexaubry",
             "repo": "BulletinBoard",
-            "stars": 5330,
+            "stars": 5331,
             "topics": [
               "card",
               "configuration",
@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22490,
+                "stars": 22489,
                 "topics": [
                   "animation",
                   "animations",
@@ -815,7 +815,7 @@
                 "open_issues": 14,
                 "owner": "IFTTT",
                 "repo": "JazzHands",
-                "stars": 6350,
+                "stars": 6351,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -1820,7 +1820,7 @@
                 "open_issues": 48,
                 "owner": "alexaubry",
                 "repo": "BulletinBoard",
-                "stars": 5330,
+                "stars": 5331,
                 "topics": [
                   "card",
                   "configuration",
@@ -2130,7 +2130,7 @@
                 "open_issues": 3,
                 "owner": "leonardocardoso",
                 "repo": "NFDownloadButton",
-                "stars": 438,
+                "stars": 437,
                 "topics": [
                   "animation",
                   "button",
@@ -3251,7 +3251,7 @@
                 "open_issues": 12,
                 "owner": "yysskk",
                 "repo": "SwipeMenuViewController",
-                "stars": 1275,
+                "stars": 1276,
                 "topics": [
                   "animation-library",
                   "ios",
@@ -3374,7 +3374,7 @@
                 "open_issues": 46,
                 "owner": "jonkykong",
                 "repo": "SideMenu",
-                "stars": 5818,
+                "stars": 5820,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -4747,7 +4747,7 @@
                 "open_issues": 50,
                 "owner": "Yalantis",
                 "repo": "Koloda",
-                "stars": 5388,
+                "stars": 5389,
                 "topics": [
                   "animation",
                   "cards",
@@ -5183,7 +5183,7 @@
                 "open_issues": 83,
                 "owner": "Flipboard",
                 "repo": "FLAnimatedImage",
-                "stars": 7937,
+                "stars": 7938,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5709,7 +5709,7 @@
                 "open_issues": 503,
                 "owner": "WenchaoD",
                 "repo": "FSCalendar",
-                "stars": 10629,
+                "stars": 10630,
                 "topics": [
                   "calendar",
                   "carthage",
@@ -6206,7 +6206,7 @@
                 "open_issues": 5,
                 "owner": "Ramotion",
                 "repo": "reel-search",
-                "stars": 2506,
+                "stars": 2507,
                 "topics": [
                   "component",
                   "ios",
@@ -6407,7 +6407,7 @@
                 "open_issues": 39,
                 "owner": "andreamazz",
                 "repo": "AMScrollingNavbar",
-                "stars": 5984,
+                "stars": 5985,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6691,7 +6691,7 @@
                 "open_issues": 24,
                 "owner": "CSStickyHeaderFlowLayout",
                 "repo": "CSStickyHeaderFlowLayout",
-                "stars": 5019,
+                "stars": 5020,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6734,7 +6734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-25T06:01:09.317Z",
+    "last_updated": "2026-10-26T06:05:27.326Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
