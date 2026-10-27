@@ -151,7 +151,7 @@
             "open_issues": 48,
             "owner": "alexaubry",
             "repo": "BulletinBoard",
-            "stars": 5331,
+            "stars": 5330,
             "topics": [
               "card",
               "configuration",
@@ -178,7 +178,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7303,
+            "stars": 7302,
             "topics": [
               "animations",
               "ios",
@@ -312,7 +312,7 @@
                 "open_issues": 12,
                 "owner": "marcosgriselli",
                 "repo": "ViewAnimator",
-                "stars": 7303,
+                "stars": 7302,
                 "topics": [
                   "animations",
                   "ios",
@@ -343,7 +343,7 @@
                 "open_issues": 2,
                 "owner": "ivanvorobei",
                 "repo": "SPLarkController",
-                "stars": 981,
+                "stars": 982,
                 "topics": [
                   "animation",
                   "controller",
@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22489,
+                "stars": 22490,
                 "topics": [
                   "animation",
                   "animations",
@@ -752,7 +752,7 @@
                 "open_issues": 3,
                 "owner": "andreamazz",
                 "repo": "BubbleTransition",
-                "stars": 3297,
+                "stars": 3296,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -1290,7 +1290,7 @@
                 "open_issues": 20,
                 "owner": "ApplikeySolutions",
                 "repo": "VegaScroll",
-                "stars": 2899,
+                "stars": 2900,
                 "topics": [
                   "animation",
                   "flowlayout",
@@ -1526,7 +1526,7 @@
                 "open_issues": 85,
                 "owner": "Skyscanner",
                 "repo": "SkyFloatingLabelTextField",
-                "stars": 4122,
+                "stars": 4120,
                 "topics": [
                   "cocoapods",
                   "interface-builder",
@@ -1820,7 +1820,7 @@
                 "open_issues": 48,
                 "owner": "alexaubry",
                 "repo": "BulletinBoard",
-                "stars": 5331,
+                "stars": 5330,
                 "topics": [
                   "card",
                   "configuration",
@@ -2130,7 +2130,7 @@
                 "open_issues": 3,
                 "owner": "leonardocardoso",
                 "repo": "NFDownloadButton",
-                "stars": 437,
+                "stars": 436,
                 "topics": [
                   "animation",
                   "button",
@@ -3374,7 +3374,7 @@
                 "open_issues": 46,
                 "owner": "jonkykong",
                 "repo": "SideMenu",
-                "stars": 5820,
+                "stars": 5819,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -3972,8 +3972,8 @@
                 "id": 16788636,
                 "language": "Objective-C",
                 "license": "MIT",
-                "last_commit": "2024-05-02T19:59:52Z",
-                "open_issues": 71,
+                "last_commit": "2026-10-26T12:26:25Z",
+                "open_issues": 68,
                 "owner": "cruffenach",
                 "repo": "CRToast",
                 "stars": 4119,
@@ -4946,7 +4946,7 @@
                 "open_issues": 29,
                 "owner": "optonaut",
                 "repo": "ActiveLabel.swift",
-                "stars": 4598,
+                "stars": 4597,
                 "topics": [
                   "activelabel",
                   "swift",
@@ -5507,7 +5507,7 @@
                 "open_issues": 4,
                 "owner": "Yalantis",
                 "repo": "ForceBlur",
-                "stars": 673,
+                "stars": 674,
                 "topics": [
                   "animation",
                   "blur",
@@ -6734,7 +6734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-26T06:05:27.326Z",
+    "last_updated": "2026-10-27T06:13:16.286Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
