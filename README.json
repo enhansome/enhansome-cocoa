@@ -178,7 +178,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7302,
+            "stars": 7303,
             "topics": [
               "animations",
               "ios",
@@ -209,7 +209,7 @@
             "open_issues": 0,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4061,
+            "stars": 4062,
             "topics": [
               "popup",
               "swiftui",
@@ -312,7 +312,7 @@
                 "open_issues": 12,
                 "owner": "marcosgriselli",
                 "repo": "ViewAnimator",
-                "stars": 7302,
+                "stars": 7303,
                 "topics": [
                   "animations",
                   "ios",
@@ -534,7 +534,7 @@
                 "open_issues": 3,
                 "owner": "cruisediary",
                 "repo": "Comets",
-                "stars": 613,
+                "stars": 612,
                 "topics": [
                   "animation",
                   "calayer",
@@ -618,7 +618,7 @@
                 "open_issues": 2,
                 "owner": "Touchwonders",
                 "repo": "Transition",
-                "stars": 2623,
+                "stars": 2622,
                 "topics": [
                   "animation",
                   "controller",
@@ -1152,7 +1152,7 @@
                 "open_issues": 77,
                 "owner": "SwipeCellKit",
                 "repo": "SwipeCellKit",
-                "stars": 6276,
+                "stars": 6275,
                 "topics": [
                   "drag",
                   "ios",
@@ -1854,7 +1854,7 @@
                 "open_issues": 0,
                 "owner": "exyte",
                 "repo": "PopupView",
-                "stars": 4061,
+                "stars": 4062,
                 "topics": [
                   "popup",
                   "swiftui",
@@ -2386,7 +2386,7 @@
                 "open_issues": 18,
                 "owner": "Ramotion",
                 "repo": "animated-tab-bar",
-                "stars": 11086,
+                "stars": 11085,
                 "topics": [
                   "animation",
                   "ios",
@@ -2471,7 +2471,7 @@
                 "open_issues": 14,
                 "owner": "Yalantis",
                 "repo": "FoldingTabBar.iOS",
-                "stars": 3661,
+                "stars": 3660,
                 "topics": [
                   "animation",
                   "carthage",
@@ -2503,7 +2503,7 @@
                 "open_issues": 4,
                 "owner": "bfeher",
                 "repo": "BFPaperTabBarController",
-                "stars": 342,
+                "stars": 341,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -2914,7 +2914,7 @@
                 "open_issues": 2,
                 "owner": "skywinder",
                 "repo": "GaugeKit",
-                "stars": 1023,
+                "stars": 1022,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -3374,7 +3374,7 @@
                 "open_issues": 46,
                 "owner": "jonkykong",
                 "repo": "SideMenu",
-                "stars": 5819,
+                "stars": 5817,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -3468,7 +3468,7 @@
                 "open_issues": 314,
                 "owner": "xmartlabs",
                 "repo": "XLPagerTabStrip",
-                "stars": 6990,
+                "stars": 6989,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -3976,7 +3976,7 @@
                 "open_issues": 68,
                 "owner": "cruffenach",
                 "repo": "CRToast",
-                "stars": 4119,
+                "stars": 4114,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -4025,7 +4025,7 @@
                 "open_issues": 93,
                 "owner": "KrauseFx",
                 "repo": "TSMessages",
-                "stars": 4834,
+                "stars": 4833,
                 "topics": [
                   "cocoapods",
                   "ios",
@@ -4405,7 +4405,7 @@
                 "open_issues": 3,
                 "owner": "yacir",
                 "repo": "CollectionViewSlantedLayout",
-                "stars": 2341,
+                "stars": 2340,
                 "topics": [
                   "collection-view",
                   "collectionview",
@@ -4562,7 +4562,7 @@
                 "open_issues": 2,
                 "owner": "marty-suzuki",
                 "repo": "SAHistoryNavigationViewController",
-                "stars": 1554,
+                "stars": 1553,
                 "topics": [
                   "animation",
                   "support-3d-touch",
@@ -4649,7 +4649,7 @@
                 "open_issues": 8,
                 "owner": "tispr",
                 "repo": "tispr-card-stack",
-                "stars": 847,
+                "stars": 846,
                 "topics": [
                   "indy"
                 ]
@@ -4779,7 +4779,7 @@
                 "open_issues": 25,
                 "owner": "PaoloCuscela",
                 "repo": "Cards",
-                "stars": 4199,
+                "stars": 4197,
                 "topics": [
                   "cards",
                   "ibdesignable",
@@ -4925,7 +4925,7 @@
                 "open_issues": 117,
                 "owner": "ElaWorkshop",
                 "repo": "TagListView",
-                "stars": 2664,
+                "stars": 2665,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5926,7 +5926,7 @@
                 "open_issues": 1,
                 "owner": "SvenTiigi",
                 "repo": "FlyoverKit",
-                "stars": 714,
+                "stars": 713,
                 "topics": [
                   "360degree",
                   "mapview",
@@ -6324,7 +6324,7 @@
                 "open_issues": 7,
                 "owner": "raulriera",
                 "repo": "TextFieldEffects",
-                "stars": 6010,
+                "stars": 6009,
                 "topics": [
                   "animation",
                   "effects",
@@ -6350,7 +6350,7 @@
                 "open_issues": 28,
                 "owner": "jverdi",
                 "repo": "JVFloatLabeledTextField",
-                "stars": 7131,
+                "stars": 7130,
                 "topics": [
                   "carthage",
                   "floating-labels",
@@ -6379,7 +6379,7 @@
                 "open_issues": 34,
                 "owner": "nghialv",
                 "repo": "MaterialKit",
-                "stars": 2488,
+                "stars": 2487,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6407,7 +6407,7 @@
                 "open_issues": 39,
                 "owner": "andreamazz",
                 "repo": "AMScrollingNavbar",
-                "stars": 5985,
+                "stars": 5984,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6734,7 +6734,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-27T06:13:16.286Z",
+    "last_updated": "2026-10-28T06:48:44.607Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
