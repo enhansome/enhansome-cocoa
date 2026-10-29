@@ -1152,7 +1152,7 @@
                 "open_issues": 77,
                 "owner": "SwipeCellKit",
                 "repo": "SwipeCellKit",
-                "stars": 6275,
+                "stars": 6276,
                 "topics": [
                   "drag",
                   "ios",
@@ -1321,7 +1321,7 @@
                 "open_issues": 12,
                 "owner": "Ramotion",
                 "repo": "folding-cell",
-                "stars": 10170,
+                "stars": 10169,
                 "topics": [
                   "animation",
                   "ios",
@@ -1500,7 +1500,7 @@
                 "open_issues": 6,
                 "owner": "orazz",
                 "repo": "CreditCardForm-iOS",
-                "stars": 1464,
+                "stars": 1463,
                 "topics": [
                   "credit-card",
                   "creditcardform",
@@ -2612,7 +2612,7 @@
                 "open_issues": 53,
                 "owner": "MatiBot",
                 "repo": "MBCircularProgressBar",
-                "stars": 998,
+                "stars": 996,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -2635,13 +2635,14 @@
                 "repo": "GradientLoadingBar",
                 "stars": 893,
                 "topics": [
-                  "cocoapods",
-                  "gradient",
                   "ios",
-                  "loading-animations",
-                  "loading-bar",
-                  "loading-indicator",
-                  "swift"
+                  "loading-animation",
+                  "loading-indicators",
+                  "loading-spinner",
+                  "swift",
+                  "swift-package-manager",
+                  "swiftui",
+                  "uikit"
                 ]
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -2783,7 +2784,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "DockProgress",
-                "stars": 1357,
+                "stars": 1358,
                 "topics": [
                   "dock",
                   "icon",
@@ -3468,7 +3469,7 @@
                 "open_issues": 314,
                 "owner": "xmartlabs",
                 "repo": "XLPagerTabStrip",
-                "stars": 6989,
+                "stars": 6990,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -4747,7 +4748,7 @@
                 "open_issues": 50,
                 "owner": "Yalantis",
                 "repo": "Koloda",
-                "stars": 5389,
+                "stars": 5388,
                 "topics": [
                   "animation",
                   "cards",
@@ -5183,7 +5184,7 @@
                 "open_issues": 83,
                 "owner": "Flipboard",
                 "repo": "FLAnimatedImage",
-                "stars": 7938,
+                "stars": 7940,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6120,7 +6121,7 @@
                 "open_issues": 8,
                 "owner": "yoavlt",
                 "repo": "LiquidLoader",
-                "stars": 1324,
+                "stars": 1323,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6168,7 +6169,7 @@
                 "open_issues": 8,
                 "owner": "ParkGwangBeom",
                 "repo": "Windless",
-                "stars": 947,
+                "stars": 946,
                 "topics": [
                   "animation",
                   "indicator",
@@ -6206,7 +6207,7 @@
                 "open_issues": 5,
                 "owner": "Ramotion",
                 "repo": "reel-search",
-                "stars": 2507,
+                "stars": 2506,
                 "topics": [
                   "component",
                   "ios",
@@ -6734,7 +6735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-10-28T06:48:44.607Z",
+    "last_updated": "2026-10-29T06:59:59.360Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
