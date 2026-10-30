@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 526,446 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 526,983 | 🐛 105 | 📅 2026-09-02
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -124,7 +124,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-**[ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) ⭐ 7,303 | 🐛 12 | 🌐 Swift | 📅 2024-03-31**
+**[ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) ⭐ 7,302 | 🐛 12 | 🌐 Swift | 📅 2024-03-31**
 *from [marcosgriselli](https://github.com/marcosgriselli):*
 
 > *ViewAnimator brings your UI to life with just one line*
@@ -133,7 +133,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,062 | 🐛 0 | 🌐 Swift | 📅 2026-10-06**
+**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,062 | 🐛 1 | 🌐 Swift | 📅 2026-10-06**
 *from [exyte](https://github.com/exyte):*
 
 > *Toasts and popups library written with SwiftUI*
@@ -167,7 +167,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Elegant SVG animation kit for swift*
 
-**[ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) ⭐ 7,303 | 🐛 12 | 🌐 Swift | 📅 2024-03-31**
+**[ViewAnimator](https://github.com/marcosgriselli/ViewAnimator) ⭐ 7,302 | 🐛 12 | 🌐 Swift | 📅 2024-03-31**
 *from [marcosgriselli](https://github.com/marcosgriselli):*
 
 > *ViewAnimator brings your UI to life with just one line*
@@ -267,7 +267,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A collection of animations for iOS. Simple, just add water animations.*
 
-**[WobbleView](https://github.com/inFullMobile/WobbleView) ⭐ 2,167 | 🐛 2 | 🌐 Swift | 📅 2017-05-30**
+**[WobbleView](https://github.com/inFullMobile/WobbleView) ⭐ 2,166 | 🐛 2 | 🌐 Swift | 📅 2017-05-30**
 *from [inFullMobile](https://github.com/inFullMobile):*
 
 > *null*
@@ -410,7 +410,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A label view for displaying numbers which can transition or animate using a technique called number tweening or number morphing.*
 
-**[FloatLabelFields](https://github.com/FahimF/FloatLabelFields) ⭐ 1,180 | 🐛 16 | 🌐 Swift | 📅 2020-01-15**
+**[FloatLabelFields](https://github.com/FahimF/FloatLabelFields) ⭐ 1,181 | 🐛 16 | 🌐 Swift | 📅 2020-01-15**
 *from [FahimF](https://github.com/FahimF):*
 
 > *Text entry controls which contain a built-in title/label so that you don't have to add a separate title for each field.*
@@ -425,7 +425,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Simple countdown UILabel with morphing animation, and some useful function.*
 
-**[WSTagsField](https://github.com/whitesmith/WSTagsField) ⭐ 1,283 | 🐛 30 | 🌐 Swift | 📅 2022-10-20**
+**[WSTagsField](https://github.com/whitesmith/WSTagsField) ⭐ 1,284 | 🐛 30 | 🌐 Swift | 📅 2022-10-20**
 *from [whitesmith](https://github.com/whitesmith):*
 
 > *An iOS text field that represents different Tags*
@@ -464,7 +464,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Toast
 
-**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,062 | 🐛 0 | 🌐 Swift | 📅 2026-10-06**
+**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,062 | 🐛 1 | 🌐 Swift | 📅 2026-10-06**
 *from [exyte](https://github.com/exyte):*
 
 > *Toasts and popups library written with SwiftUI*
@@ -567,7 +567,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!*
 
-**[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) ⭐ 11,085 | 🐛 18 | 🌐 Swift | 📅 2022-01-26**
+**[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) ⭐ 11,086 | 🐛 18 | 🌐 Swift | 📅 2022-01-26**
 *from [Ramotion](https://github.com/Ramotion):*
 
 > *:octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion*
@@ -669,7 +669,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Collection of iOS drop-in components to visualize progress*
 
-**[GaugeKit](https://github.com/skywinder/GaugeKit) ⭐ 1,022 | 🐛 2 | 🌐 Swift | 📅 2022-04-10**
+**[GaugeKit](https://github.com/skywinder/GaugeKit) ⭐ 1,021 | 🐛 2 | 🌐 Swift | 📅 2022-04-10**
 *from [skywinder](https://github.com/skywinder):*
 
 > *Kit for building custom gauges + easy reproducible Apple's style ring gauges.*
@@ -723,17 +723,17 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *FTPopOverMenu\_Swift, swift version of FTPopOverMenu. FTPopOverMenu is a pop over menu for iOS which is maybe the easiest one to use. Supports both portrait and landscape. It can show from any UIView, any UIBarButtonItem and any CGRect.*
 
-**[PopMenu](https://github.com/CaliCastle/PopMenu) ⭐ 1,690 | 🐛 41 | 🌐 Swift | 📅 2024-03-12**
+**[PopMenu](https://github.com/CaliCastle/PopMenu) ⭐ 1,691 | 🐛 41 | 🌐 Swift | 📅 2024-03-12**
 *from [CaliCastle](https://github.com/CaliCastle):*
 
 > *A cool and customizable popup style action sheet for iOS 😎*
 
-**[GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) ⭐ 2,876 | 🐛 0 | 🌐 Swift | 📅 2020-04-13**
+**[GuillotineMenu](https://github.com/Yalantis/GuillotineMenu) ⭐ 2,877 | 🐛 0 | 🌐 Swift | 📅 2020-04-13**
 *from [Yalantis](https://github.com/Yalantis):*
 
 > *Our Guillotine Menu Transitioning Animation implemented in Swift reminds a bit of a notorious killing machine.*
 
-**[SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) ⭐ 1,276 | 🐛 12 | 🌐 Swift | 📅 2026-07-23**
+**[SwipeMenuViewController](https://github.com/yysskk/SwipeMenuViewController) ⭐ 1,277 | 🐛 12 | 🌐 Swift | 📅 2026-07-23**
 *from [yysskk](https://github.com/yysskk):*
 
 > *Swipable tab and menu View and ViewController.*
@@ -743,7 +743,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Fully customizable and extensible action sheet controller written in Swift*
 
-**[YNDropDownMenu](https://github.com/younatics/YNDropDownMenu) ⭐ 1,326 | 🐛 8 | 🌐 Swift | 📅 2026-10-24**
+**[YNDropDownMenu](https://github.com/younatics/YNDropDownMenu) ⭐ 1,327 | 🐛 8 | 🌐 Swift | 📅 2026-10-24**
 *from [younatics](https://github.com/younatics):*
 
 > *✨ Awesome Dropdown menu for iOS with Swift 4*
@@ -753,7 +753,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Panels is a framework to easily add sliding panels to your application*
 
-**[SideMenu](https://github.com/jonkykong/SideMenu) ⭐ 5,817 | 🐛 46 | 🌐 Swift | 📅 2023-02-09**
+**[SideMenu](https://github.com/jonkykong/SideMenu) ⭐ 5,818 | 🐛 46 | 🌐 Swift | 📅 2023-02-09**
 *from [jonkykong](https://github.com/jonkykong):*
 
 > *Simple side menu control for iOS, no code necessary! Lots of customization. Add it to your project in 5 minutes or less.*
@@ -768,7 +768,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A fancy hexagonal layout for displaying data like your Apple Watch*
 
-**[ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) ⭐ 1,799 | 🐛 91 | 🌐 Swift | 📅 2020-04-22**
+**[ENSwiftSideMenu](https://github.com/evnaz/ENSwiftSideMenu) ⭐ 1,800 | 🐛 91 | 🌐 Swift | 📅 2020-04-22**
 *from [evnaz](https://github.com/evnaz):*
 
 > \*A simple side menu for iOS written in Swift. \*
@@ -788,7 +788,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Slide Menu (Drawer) in Swift 4 - Xcode 9 - iOS 11*
 
-**[RESideMenu](https://github.com/romaonthego/RESideMenu) ⭐ 7,032 | 🐛 131 | 🌐 Objective-C | 📅 2017-12-05**
+**[RESideMenu](https://github.com/romaonthego/RESideMenu) ⭐ 7,033 | 🐛 131 | 🌐 Objective-C | 📅 2017-12-05**
 *from [romaonthego](https://github.com/romaonthego):*
 
 > *iOS 7/8 style side menu with parallax effect.*
@@ -808,7 +808,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Side Menus for iOS 7*
 
-**[AMSlideMenu](https://github.com/SocialObjects-Software/AMSlideMenu) ⭐ 1,191 | 🐛 20 | 🌐 Swift | 📅 2024-08-31**
+**[AMSlideMenu](https://github.com/SocialObjects-Software/AMSlideMenu) ⭐ 1,192 | 🐛 20 | 🌐 Swift | 📅 2024-08-31**
 *from [arturdev](https://github.com/arturdev):*
 
 > *Sliding Menu for iOS (Left and Right menus).  Multiple storyboards and XIBs support.*
@@ -893,7 +893,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A framework for displaying notifications similar to Apple's iOS 8 and iOS 9 notifications.*
 
-**[TWMessageBarManager](https://github.com/terryworona/TWMessageBarManager) ⭐ 1,749 | 🐛 16 | 🌐 Objective-C | 📅 2018-09-17**
+**[TWMessageBarManager](https://github.com/terryworona/TWMessageBarManager) ⭐ 1,750 | 🐛 16 | 🌐 Objective-C | 📅 2018-09-17**
 *from [terryworona](https://github.com/terryworona):*
 
 > *An iOS manager for presenting system-wide notifications via a dropdown message bar.*
@@ -960,7 +960,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *iOS custom view to display books on shelf*
 
-**[CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout) ⭐ 2,340 | 🐛 3 | 🌐 Swift | 📅 2021-05-01**
+**[CollectionViewSlantedLayout](https://github.com/yacir/CollectionViewSlantedLayout) ⭐ 2,341 | 🐛 3 | 🌐 Swift | 📅 2021-05-01**
 *from [yacir](https://github.com/yacir):*
 
 > *UICollectionViewLayout to display slanted content*
@@ -1060,7 +1060,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *An elegant and highly customizable presentation API for constructing bottom sheet modals on iOS.*
 
-**[KLCPopup](https://github.com/jmascia/KLCPopup) ⭐ 1,673 | 🐛 56 | 🌐 Objective-C | 📅 2019-07-14**
+**[KLCPopup](https://github.com/jmascia/KLCPopup) ⭐ 1,674 | 🐛 56 | 🌐 Objective-C | 📅 2019-07-14**
 *from [jmascia](https://github.com/jmascia):*
 
 > *A simple and flexible class for presenting custom views as a popup in iOS.*
@@ -1121,7 +1121,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *:milky\_way: A convenient and easy to use image viewer for your iOS app*
 
-**[FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) ⭐ 7,940 | 🐛 83 | 🌐 Objective-C | 📅 2024-03-21**
+**[FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) ⭐ 7,941 | 🐛 83 | 🌐 Objective-C | 📅 2024-03-21**
 *from [Flipboard](https://github.com/Flipboard):*
 
 > *Performant animated GIF engine for iOS*
@@ -1227,7 +1227,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Introduction
 
-**[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,426 | 🐛 11 | 🌐 Swift | 📅 2024-10-10**
+**[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,425 | 🐛 11 | 🌐 Swift | 📅 2024-10-10**
 *from [SvenTiigi](https://github.com/SvenTiigi):*
 
 > *Showcase your awesome new app features 📱*
@@ -1349,12 +1349,12 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A reactive, card-based UI framework built on UIKit for iOS developers.*
 
-**[TextFieldEffects](https://github.com/raulriera/TextFieldEffects) ⭐ 6,009 | 🐛 7 | 🌐 Swift | 📅 2024-01-28**
+**[TextFieldEffects](https://github.com/raulriera/TextFieldEffects) ⭐ 6,010 | 🐛 7 | 🌐 Swift | 📅 2024-01-28**
 *from [raulriera](https://github.com/raulriera):*
 
 > *Custom UITextFields effects inspired by Codrops, built using Swift*
 
-**[JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) ⭐ 7,130 | 🐛 28 | 🌐 Objective-C | 📅 2023-04-17**
+**[JVFloatLabeledTextField](https://github.com/jverdi/JVFloatLabeledTextField) ⭐ 7,131 | 🐛 28 | 🌐 Objective-C | 📅 2023-04-17**
 *from [jverdi](https://github.com/jverdi):*
 
 > *UITextField subclass with floating labels - inspired by Matt D. Smith's design: <http://dribbble.com/shots/1254439--GIF-Mobile-Form-Interaction?list=users>*
@@ -1442,11 +1442,11 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## RichText
 
-**[ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor) ⭐ 3,778 | 🐛 131 | 🌐 Objective-C | 📅 2021-09-07**
+**[ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor) ⭐ 3,779 | 🐛 131 | 🌐 Objective-C | 📅 2021-09-07**
 *from [nnhubbard](https://github.com/nnhubbard):*
 
 > *A beautiful rich text WYSIWYG editor for iOS with a syntax highlighted source view*
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-29._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-10-30._
