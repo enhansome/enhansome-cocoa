@@ -717,7 +717,7 @@
                 "open_issues": 22,
                 "owner": "ChiliLabs",
                 "repo": "CHIPageControl",
-                "stars": 3471,
+                "stars": 3472,
                 "topics": [
                   "cocoapods",
                   "ibdesignable",
@@ -878,7 +878,7 @@
                 "open_issues": 2,
                 "owner": "dotintent",
                 "repo": "WobbleView",
-                "stars": 2166,
+                "stars": 2165,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -1321,7 +1321,7 @@
                 "open_issues": 12,
                 "owner": "Ramotion",
                 "repo": "folding-cell",
-                "stars": 10168,
+                "stars": 10169,
                 "topics": [
                   "animation",
                   "ios",
@@ -2946,7 +2946,7 @@
                 "open_issues": 1,
                 "owner": "ninjaprox",
                 "repo": "NVActivityIndicatorView",
-                "stars": 10700,
+                "stars": 10701,
                 "topics": [
                   "animation",
                   "carthage",
@@ -3375,7 +3375,7 @@
                 "open_issues": 46,
                 "owner": "jonkykong",
                 "repo": "SideMenu",
-                "stars": 5818,
+                "stars": 5819,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -4251,7 +4251,7 @@
                 "open_issues": 0,
                 "owner": "abdullahselek",
                 "repo": "ASCollectionView",
-                "stars": 368,
+                "stars": 367,
                 "topics": [
                   "collectionview",
                   "landscape",
@@ -4856,7 +4856,7 @@
                 "open_issues": 96,
                 "owner": "slackhq",
                 "repo": "PanModal",
-                "stars": 3769,
+                "stars": 3768,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5541,7 +5541,7 @@
                 "open_issues": 11,
                 "owner": "efremidze",
                 "repo": "VisualEffectView",
-                "stars": 1429,
+                "stars": 1430,
                 "topics": [
                   "apple",
                   "blur",
@@ -5686,7 +5686,7 @@
                 "open_issues": 117,
                 "owner": "johnvuko",
                 "repo": "JTCalendar",
-                "stars": 2739,
+                "stars": 2738,
                 "topics": [
                   "calendar",
                   "ios"
@@ -6735,7 +6735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-01T07:27:59.956Z",
+    "last_updated": "2026-11-02T07:37:19.910Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",

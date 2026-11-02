@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 528,155 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 529,046 | 🐛 105 | 📅 2026-09-02
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -232,7 +232,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *:sparkles: Twinkle iOS/tvOS app elements in Swift*
 
-**[CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) ⭐ 3,471 | 🐛 22 | 🌐 Swift | 📅 2023-05-22**
+**[CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) ⭐ 3,472 | 🐛 22 | 🌐 Swift | 📅 2023-05-22**
 *from [ChiliLabs](https://github.com/ChiliLabs):*
 
 > *A set of cool animated page controls written in Swift to replace boring UIPageControl.*
@@ -267,7 +267,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A collection of animations for iOS. Simple, just add water animations.*
 
-**[WobbleView](https://github.com/inFullMobile/WobbleView) ⭐ 2,166 | 🐛 2 | 🌐 Swift | 📅 2017-05-30**
+**[WobbleView](https://github.com/inFullMobile/WobbleView) ⭐ 2,165 | 🐛 2 | 🌐 Swift | 📅 2017-05-30**
 *from [inFullMobile](https://github.com/inFullMobile):*
 
 > *null*
@@ -351,7 +351,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *↕️ VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9.*
 
-**[folding-cell](https://github.com/Ramotion/folding-cell) ⭐ 10,168 | 🐛 12 | 🌐 Swift | 📅 2024-04-28**
+**[folding-cell](https://github.com/Ramotion/folding-cell) ⭐ 10,169 | 🐛 12 | 🌐 Swift | 📅 2024-04-28**
 *from [Ramotion](https://github.com/Ramotion):*
 
 > *:octocat: 📃 FoldingCell is an expanding content cell with animation inspired by folding paper card material design. Swift UI Library by @Ramotion*
@@ -674,7 +674,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Kit for building custom gauges + easy reproducible Apple's style ring gauges.*
 
-**[NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) ⭐ 10,700 | 🐛 1 | 🌐 Swift | 📅 2026-03-18**
+**[NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) ⭐ 10,701 | 🐛 1 | 🌐 Swift | 📅 2026-03-18**
 *from [ninjaprox](https://github.com/ninjaprox):*
 
 > *A collection of awesome loading animations*
@@ -753,7 +753,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Panels is a framework to easily add sliding panels to your application*
 
-**[SideMenu](https://github.com/jonkykong/SideMenu) ⭐ 5,818 | 🐛 46 | 🌐 Swift | 📅 2023-02-09**
+**[SideMenu](https://github.com/jonkykong/SideMenu) ⭐ 5,819 | 🐛 46 | 🌐 Swift | 📅 2023-02-09**
 *from [jonkykong](https://github.com/jonkykong):*
 
 > *Simple side menu control for iOS, no code necessary! Lots of customization. Add it to your project in 5 minutes or less.*
@@ -930,7 +930,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Collapse and expand UICollectionView sections with one method call.*
 
-**[ASCollectionView](https://github.com/abdullahselek/ASCollectionView) ⭐ 368 | 🐛 0 | 🌐 Swift | 📅 2024-05-14**
+**[ASCollectionView](https://github.com/abdullahselek/ASCollectionView) ⭐ 367 | 🐛 0 | 🌐 Swift | 📅 2024-05-14**
 *from [abdullahselek](https://github.com/abdullahselek):*
 
 > *A Swift collection view inspired by Airbnb.*
@@ -1188,7 +1188,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *ForceBlur Animation for iOS Messaging Apps*
 
-**[VisualEffectView](https://github.com/efremidze/VisualEffectView) ⭐ 1,429 | 🐛 11 | 🌐 Swift | 📅 2025-12-29**
+**[VisualEffectView](https://github.com/efremidze/VisualEffectView) ⭐ 1,430 | 🐛 11 | 🌐 Swift | 📅 2025-12-29**
 *from [efremidze](https://github.com/efremidze):*
 
 > *Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱*
@@ -1215,7 +1215,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *📅 Fully customizable calendar for iOS*
 
-**[JTCalendar](https://github.com/jonathantribouharet/JTCalendar) ⭐ 2,739 | 🐛 117 | 🌐 Objective-C | 📅 2021-12-06**
+**[JTCalendar](https://github.com/jonathantribouharet/JTCalendar) ⭐ 2,738 | 🐛 117 | 🌐 Objective-C | 📅 2021-12-06**
 *from [jonathantribouharet](https://github.com/jonathantribouharet):*
 
 > *A customizable calendar view for iOS.*
@@ -1449,4 +1449,4 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-01._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
