@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 529,046 | 🐛 105 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 529,864 | 🐛 104 | 📅 2026-09-02
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -133,7 +133,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,063 | 🐛 2 | 🌐 Swift | 📅 2026-10-06**
+**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,063 | 🐛 1 | 🌐 Swift | 📅 2026-11-02**
 *from [exyte](https://github.com/exyte):*
 
 > *Toasts and popups library written with SwiftUI*
@@ -262,7 +262,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *iOS Component for creating a pulsing animation.*
 
-**[DCAnimationKit](https://github.com/daltoniam/DCAnimationKit) ⭐ 803 | 🐛 1 | 🌐 Objective-C | 📅 2016-02-09**
+**[DCAnimationKit](https://github.com/daltoniam/DCAnimationKit) ⭐ 804 | 🐛 1 | 🌐 Objective-C | 📅 2016-02-09**
 *from [daltoniam](https://github.com/daltoniam):*
 
 > *A collection of animations for iOS. Simple, just add water animations.*
@@ -311,7 +311,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Easy to use UITableViewCell implementing swiping to trigger actions.*
 
-**[TableFlip](https://github.com/mergesort/TableFlip) ⭐ 557 | 🐛 0 | 🌐 Swift | 📅 2021-01-17**
+**[TableFlip](https://github.com/mergesort/TableFlip) ⭐ 556 | 🐛 0 | 🌐 Swift | 📅 2021-01-17**
 *from [mergesort](https://github.com/mergesort):*
 
 > *A simpler way to do cool UITableView animations! (╯°□°）╯︵ ┻━┻*
@@ -464,7 +464,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Toast
 
-**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,063 | 🐛 2 | 🌐 Swift | 📅 2026-10-06**
+**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,063 | 🐛 1 | 🌐 Swift | 📅 2026-11-02**
 *from [exyte](https://github.com/exyte):*
 
 > *Toasts and popups library written with SwiftUI*
@@ -614,7 +614,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A circular, animatable & highly customizable progress bar from the Interface Builder (Objective-C)*
 
-**[GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) ⭐ 893 | 🐛 0 | 🌐 Swift | 📅 2026-10-24**
+**[GradientLoadingBar](https://github.com/fxm90/GradientLoadingBar) ⭐ 894 | 🐛 0 | 🌐 Swift | 📅 2026-10-24**
 *from [fxm90](https://github.com/fxm90):*
 
 > *A customizable animated gradient loading bar.*
@@ -753,7 +753,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Panels is a framework to easily add sliding panels to your application*
 
-**[SideMenu](https://github.com/jonkykong/SideMenu) ⭐ 5,819 | 🐛 46 | 🌐 Swift | 📅 2023-02-09**
+**[SideMenu](https://github.com/jonkykong/SideMenu) ⭐ 5,820 | 🐛 46 | 🌐 Swift | 📅 2023-02-09**
 *from [jonkykong](https://github.com/jonkykong):*
 
 > *Simple side menu control for iOS, no code necessary! Lots of customization. Add it to your project in 5 minutes or less.*
@@ -788,7 +788,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Slide Menu (Drawer) in Swift 4 - Xcode 9 - iOS 11*
 
-**[RESideMenu](https://github.com/romaonthego/RESideMenu) ⭐ 7,034 | 🐛 131 | 🌐 Objective-C | 📅 2017-12-05**
+**[RESideMenu](https://github.com/romaonthego/RESideMenu) ⭐ 7,033 | 🐛 131 | 🌐 Objective-C | 📅 2017-12-05**
 *from [romaonthego](https://github.com/romaonthego):*
 
 > *iOS 7/8 style side menu with parallax effect.*
@@ -798,7 +798,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *The fastest zero-tap iOS menu.*
 
-**[REFrostedViewController](https://github.com/romaonthego/REFrostedViewController) ⭐ 2,929 | 🐛 91 | 🌐 Objective-C | 📅 2022-10-13**
+**[REFrostedViewController](https://github.com/romaonthego/REFrostedViewController) ⭐ 2,928 | 🐛 91 | 🌐 Objective-C | 📅 2022-10-13**
 *from [romaonthego](https://github.com/romaonthego):*
 
 > *iOS 7/8 style blurred view controller that appears on top of your view controller.*
@@ -858,7 +858,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *SwiftOverlays is a Swift GUI library for displaying various popups and notifications*
 
-**[PKHUD](https://github.com/pkluz/PKHUD) ⭐ 3,768 | 🐛 64 | 🌐 Swift | 📅 2023-02-16**
+**[PKHUD](https://github.com/pkluz/PKHUD) ⭐ 3,769 | 🐛 64 | 🌐 Swift | 📅 2023-02-16**
 *from [pkluz](https://github.com/pkluz):*
 
 > *A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.*
@@ -1210,7 +1210,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A Github's like work contribution timeline. 🤸🏻*
 
-**[CalendarKit](https://github.com/richardtop/CalendarKit) ⭐ 2,703 | 🐛 35 | 🌐 Swift | 📅 2026-09-12**
+**[CalendarKit](https://github.com/richardtop/CalendarKit) ⭐ 2,704 | 🐛 35 | 🌐 Swift | 📅 2026-09-12**
 *from [richardtop](https://github.com/richardtop):*
 
 > *📅 Fully customizable calendar for iOS*
@@ -1227,7 +1227,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Introduction
 
-**[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,425 | 🐛 11 | 🌐 Swift | 📅 2024-10-10**
+**[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,426 | 🐛 11 | 🌐 Swift | 📅 2024-10-10**
 *from [SvenTiigi](https://github.com/SvenTiigi):*
 
 > *Showcase your awesome new app features 📱*
@@ -1247,7 +1247,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Awesome tool for create tutorial walkthrough or coach tour*
 
-**[MYBlurIntroductionView](https://github.com/MatthewYork/MYBlurIntroductionView) ⭐ 1,512 | 🐛 18 | 🌐 Objective-C | 📅 2017-10-30**
+**[MYBlurIntroductionView](https://github.com/MatthewYork/MYBlurIntroductionView) ⭐ 1,511 | 🐛 18 | 🌐 Objective-C | 📅 2017-10-30**
 *from [MatthewYork](https://github.com/MatthewYork):*
 
 > *A super-charged version of MYIntroductionView for building custom app introductions and tutorials.*
@@ -1449,4 +1449,4 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-02._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-03._
