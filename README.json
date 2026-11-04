@@ -178,7 +178,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7303,
+            "stars": 7304,
             "topics": [
               "animations",
               "ios",
@@ -209,7 +209,7 @@
             "open_issues": 1,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4063,
+            "stars": 4062,
             "topics": [
               "popup",
               "swiftui",
@@ -312,7 +312,7 @@
                 "open_issues": 12,
                 "owner": "marcosgriselli",
                 "repo": "ViewAnimator",
-                "stars": 7303,
+                "stars": 7304,
                 "topics": [
                   "animations",
                   "ios",
@@ -1854,7 +1854,7 @@
                 "open_issues": 1,
                 "owner": "exyte",
                 "repo": "PopupView",
-                "stars": 4063,
+                "stars": 4062,
                 "topics": [
                   "popup",
                   "swiftui",
@@ -2130,7 +2130,7 @@
                 "open_issues": 3,
                 "owner": "leonardocardoso",
                 "repo": "NFDownloadButton",
-                "stars": 436,
+                "stars": 435,
                 "topics": [
                   "animation",
                   "button",
@@ -2946,7 +2946,7 @@
                 "open_issues": 1,
                 "owner": "ninjaprox",
                 "repo": "NVActivityIndicatorView",
-                "stars": 10701,
+                "stars": 10702,
                 "topics": [
                   "animation",
                   "carthage",
@@ -3552,7 +3552,7 @@
                 "open_issues": 131,
                 "owner": "romaonthego",
                 "repo": "RESideMenu",
-                "stars": 7033,
+                "stars": 7031,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -4926,7 +4926,7 @@
                 "open_issues": 117,
                 "owner": "ElaWorkshop",
                 "repo": "TagListView",
-                "stars": 2664,
+                "stars": 2663,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5710,7 +5710,7 @@
                 "open_issues": 503,
                 "owner": "WenchaoD",
                 "repo": "FSCalendar",
-                "stars": 10628,
+                "stars": 10629,
                 "topics": [
                   "calendar",
                   "carthage",
@@ -5746,7 +5746,7 @@
                 "open_issues": 11,
                 "owner": "SvenTiigi",
                 "repo": "WhatsNewKit",
-                "stars": 4426,
+                "stars": 4438,
                 "topics": [
                   "ios",
                   "macos",
@@ -6735,7 +6735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-03T07:51:37.558Z",
+    "last_updated": "2026-11-04T07:27:51.870Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
