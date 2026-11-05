@@ -123,7 +123,7 @@
             "open_issues": 31,
             "owner": "FluidGroup",
             "repo": "NextGrowingTextView",
-            "stars": 1796,
+            "stars": 1795,
             "topics": [
               "carthage",
               "cocoapods",
@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22492,
+                "stars": 22494,
                 "topics": [
                   "animation",
                   "animations",
@@ -1152,7 +1152,7 @@
                 "open_issues": 77,
                 "owner": "SwipeCellKit",
                 "repo": "SwipeCellKit",
-                "stars": 6275,
+                "stars": 6274,
                 "topics": [
                   "drag",
                   "ios",
@@ -1472,7 +1472,7 @@
                 "open_issues": 31,
                 "owner": "FluidGroup",
                 "repo": "NextGrowingTextView",
-                "stars": 1796,
+                "stars": 1795,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -2386,7 +2386,7 @@
                 "open_issues": 18,
                 "owner": "Ramotion",
                 "repo": "animated-tab-bar",
-                "stars": 11085,
+                "stars": 11084,
                 "topics": [
                   "animation",
                   "ios",
@@ -2471,7 +2471,7 @@
                 "open_issues": 14,
                 "owner": "Yalantis",
                 "repo": "FoldingTabBar.iOS",
-                "stars": 3659,
+                "stars": 3658,
                 "topics": [
                   "animation",
                   "carthage",
@@ -2894,7 +2894,7 @@
                 "open_issues": 37,
                 "owner": "mrackwitz",
                 "repo": "MRProgress",
-                "stars": 2524,
+                "stars": 2523,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -4748,7 +4748,7 @@
                 "open_issues": 50,
                 "owner": "Yalantis",
                 "repo": "Koloda",
-                "stars": 5388,
+                "stars": 5387,
                 "topics": [
                   "animation",
                   "cards",
@@ -4947,7 +4947,7 @@
                 "open_issues": 29,
                 "owner": "optonaut",
                 "repo": "ActiveLabel.swift",
-                "stars": 4597,
+                "stars": 4596,
                 "topics": [
                   "activelabel",
                   "swift",
@@ -5044,7 +5044,7 @@
                 "open_issues": 15,
                 "owner": "scihant",
                 "repo": "CTPanoramaView",
-                "stars": 1044,
+                "stars": 1045,
                 "topics": [
                   "360-photo",
                   "carthage",
@@ -5184,7 +5184,7 @@
                 "open_issues": 83,
                 "owner": "Flipboard",
                 "repo": "FLAnimatedImage",
-                "stars": 7941,
+                "stars": 7940,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5746,7 +5746,7 @@
                 "open_issues": 11,
                 "owner": "SvenTiigi",
                 "repo": "WhatsNewKit",
-                "stars": 4438,
+                "stars": 4439,
                 "topics": [
                   "ios",
                   "macos",
@@ -6169,7 +6169,7 @@
                 "open_issues": 8,
                 "owner": "ParkGwangBeom",
                 "repo": "Windless",
-                "stars": 946,
+                "stars": 947,
                 "topics": [
                   "animation",
                   "indicator",
@@ -6325,7 +6325,7 @@
                 "open_issues": 7,
                 "owner": "raulriera",
                 "repo": "TextFieldEffects",
-                "stars": 6009,
+                "stars": 6011,
                 "topics": [
                   "animation",
                   "effects",
@@ -6692,7 +6692,7 @@
                 "open_issues": 24,
                 "owner": "CSStickyHeaderFlowLayout",
                 "repo": "CSStickyHeaderFlowLayout",
-                "stars": 5020,
+                "stars": 5019,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6735,7 +6735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-04T07:27:51.870Z",
+    "last_updated": "2026-11-05T07:52:11.875Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
