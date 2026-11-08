@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 532,666 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 533,395 | 🐛 103 | 📅 2026-09-02
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -773,7 +773,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > \*A simple side menu for iOS written in Swift. \*
 
-**[XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) ⭐ 6,987 | 🐛 314 | 🌐 Swift | 📅 2023-11-22**
+**[XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) ⭐ 6,988 | 🐛 314 | 🌐 Swift | 📅 2023-11-22**
 *from [xmartlabs](https://github.com/xmartlabs):*
 
 > *Android PagerTabStrip for iOS.*
@@ -1220,14 +1220,14 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A customizable calendar view for iOS.*
 
-**[FSCalendar](https://github.com/WenchaoIOS/FSCalendar) ⭐ 10,627 | 🐛 503 | 🌐 Objective-C | 📅 2024-08-10**
+**[FSCalendar](https://github.com/WenchaoIOS/FSCalendar) ⭐ 10,628 | 🐛 503 | 🌐 Objective-C | 📅 2024-08-10**
 *from [WenchaoD](https://github.com/WenchaoD):*
 
 > *A fully customizable iOS calendar library, compatible with Objective-C and Swift*
 
 ## Introduction
 
-**[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,439 | 🐛 11 | 🌐 Swift | 📅 2024-10-10**
+**[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,438 | 🐛 11 | 🌐 Swift | 📅 2024-10-10**
 *from [SvenTiigi](https://github.com/SvenTiigi):*
 
 > *Showcase your awesome new app features 📱*
@@ -1399,7 +1399,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Gallery
 
-**[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) ⭐ 8,692 | 🐛 335 | 🌐 Objective-C | 📅 2024-06-27**
+**[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) ⭐ 8,691 | 🐛 335 | 🌐 Objective-C | 📅 2024-06-27**
 *from [mwaterfall](https://github.com/mwaterfall):*
 
 > *A simple iOS photo and video browser with grid view, captions and selections.*
@@ -1449,4 +1449,4 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-07._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-08._

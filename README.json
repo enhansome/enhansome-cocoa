@@ -3469,7 +3469,7 @@
                 "open_issues": 314,
                 "owner": "xmartlabs",
                 "repo": "XLPagerTabStrip",
-                "stars": 6987,
+                "stars": 6988,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -5710,7 +5710,7 @@
                 "open_issues": 503,
                 "owner": "WenchaoD",
                 "repo": "FSCalendar",
-                "stars": 10627,
+                "stars": 10628,
                 "topics": [
                   "calendar",
                   "carthage",
@@ -5746,7 +5746,7 @@
                 "open_issues": 11,
                 "owner": "SvenTiigi",
                 "repo": "WhatsNewKit",
-                "stars": 4439,
+                "stars": 4438,
                 "topics": [
                   "ios",
                   "macos",
@@ -6541,7 +6541,7 @@
                 "open_issues": 335,
                 "owner": "mwaterfall",
                 "repo": "MWPhotoBrowser",
-                "stars": 8692,
+                "stars": 8691,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6735,7 +6735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-07T07:03:14.029Z",
+    "last_updated": "2026-11-08T07:14:56.304Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
