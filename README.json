@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "s2mr",
             "repo": "Elephant",
-            "stars": 152,
+            "stars": 153,
             "topics": [
               "animation",
               "ios",
@@ -286,7 +286,7 @@
                 "open_issues": 0,
                 "owner": "s2mr",
                 "repo": "Elephant",
-                "stars": 152,
+                "stars": 153,
                 "topics": [
                   "animation",
                   "ios",
@@ -1321,7 +1321,7 @@
                 "open_issues": 12,
                 "owner": "Ramotion",
                 "repo": "folding-cell",
-                "stars": 10166,
+                "stars": 10167,
                 "topics": [
                   "animation",
                   "ios",
@@ -1437,7 +1437,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2022-06-01T06:20:38Z",
-                "open_issues": 27,
+                "open_issues": 26,
                 "owner": "Ramotion",
                 "repo": "fluid-slider",
                 "stars": 1985,
@@ -2946,7 +2946,7 @@
                 "open_issues": 1,
                 "owner": "ninjaprox",
                 "repo": "NVActivityIndicatorView",
-                "stars": 10702,
+                "stars": 10703,
                 "topics": [
                   "animation",
                   "carthage",
@@ -4856,7 +4856,7 @@
                 "open_issues": 96,
                 "owner": "slackhq",
                 "repo": "PanModal",
-                "stars": 3767,
+                "stars": 3766,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5710,7 +5710,7 @@
                 "open_issues": 503,
                 "owner": "WenchaoD",
                 "repo": "FSCalendar",
-                "stars": 10628,
+                "stars": 10627,
                 "topics": [
                   "calendar",
                   "carthage",
@@ -6735,7 +6735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-08T07:14:56.304Z",
+    "last_updated": "2026-11-09T07:53:57.843Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
