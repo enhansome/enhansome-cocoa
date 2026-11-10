@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22494,
+                "stars": 22495,
                 "topics": [
                   "animation",
                   "animations",
@@ -1321,7 +1321,7 @@
                 "open_issues": 12,
                 "owner": "Ramotion",
                 "repo": "folding-cell",
-                "stars": 10167,
+                "stars": 10168,
                 "topics": [
                   "animation",
                   "ios",
@@ -4856,7 +4856,7 @@
                 "open_issues": 96,
                 "owner": "slackhq",
                 "repo": "PanModal",
-                "stars": 3766,
+                "stars": 3765,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5746,7 +5746,7 @@
                 "open_issues": 11,
                 "owner": "SvenTiigi",
                 "repo": "WhatsNewKit",
-                "stars": 4438,
+                "stars": 4439,
                 "topics": [
                   "ios",
                   "macos",
@@ -6735,7 +6735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-09T07:53:57.843Z",
+    "last_updated": "2026-11-10T08:21:49.073Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
