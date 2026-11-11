@@ -178,7 +178,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7302,
+            "stars": 7303,
             "topics": [
               "animations",
               "ios",
@@ -312,7 +312,7 @@
                 "open_issues": 12,
                 "owner": "marcosgriselli",
                 "repo": "ViewAnimator",
-                "stars": 7302,
+                "stars": 7303,
                 "topics": [
                   "animations",
                   "ios",
@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22495,
+                "stars": 22496,
                 "topics": [
                   "animation",
                   "animations",
@@ -815,7 +815,7 @@
                 "open_issues": 14,
                 "owner": "IFTTT",
                 "repo": "JazzHands",
-                "stars": 6349,
+                "stars": 6350,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -1321,7 +1321,7 @@
                 "open_issues": 12,
                 "owner": "Ramotion",
                 "repo": "folding-cell",
-                "stars": 10168,
+                "stars": 10169,
                 "topics": [
                   "animation",
                   "ios",
@@ -1370,7 +1370,7 @@
                 "open_issues": 79,
                 "owner": "slackhq",
                 "repo": "SlackTextViewController",
-                "stars": 8247,
+                "stars": 8248,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -2312,7 +2312,7 @@
                 "open_issues": 6,
                 "owner": "Cuberto",
                 "repo": "flashy-tabbar",
-                "stars": 730,
+                "stars": 729,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -2386,7 +2386,7 @@
                 "open_issues": 18,
                 "owner": "Ramotion",
                 "repo": "animated-tab-bar",
-                "stars": 11081,
+                "stars": 11082,
                 "topics": [
                   "animation",
                   "ios",
@@ -2414,7 +2414,7 @@
                 "open_issues": 87,
                 "owner": "uias",
                 "repo": "Tabman",
-                "stars": 2920,
+                "stars": 2919,
                 "topics": [
                   "ios",
                   "swift",
@@ -2946,7 +2946,7 @@
                 "open_issues": 1,
                 "owner": "ninjaprox",
                 "repo": "NVActivityIndicatorView",
-                "stars": 10703,
+                "stars": 10704,
                 "topics": [
                   "animation",
                   "carthage",
@@ -3469,7 +3469,7 @@
                 "open_issues": 314,
                 "owner": "xmartlabs",
                 "repo": "XLPagerTabStrip",
-                "stars": 6988,
+                "stars": 6989,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -3552,7 +3552,7 @@
                 "open_issues": 131,
                 "owner": "romaonthego",
                 "repo": "RESideMenu",
-                "stars": 7030,
+                "stars": 7031,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5184,7 +5184,7 @@
                 "open_issues": 82,
                 "owner": "Flipboard",
                 "repo": "FLAnimatedImage",
-                "stars": 7939,
+                "stars": 7940,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5710,7 +5710,7 @@
                 "open_issues": 503,
                 "owner": "WenchaoD",
                 "repo": "FSCalendar",
-                "stars": 10627,
+                "stars": 10628,
                 "topics": [
                   "calendar",
                   "carthage",
@@ -5870,7 +5870,7 @@
                 "open_issues": 45,
                 "owner": "mamaral",
                 "repo": "Onboard",
-                "stars": 6546,
+                "stars": 6547,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6297,7 +6297,7 @@
                 "open_issues": 28,
                 "owner": "intuit",
                 "repo": "CardParts",
-                "stars": 2514,
+                "stars": 2513,
                 "topics": [
                   "cardparts",
                   "cards",
@@ -6325,7 +6325,7 @@
                 "open_issues": 7,
                 "owner": "raulriera",
                 "repo": "TextFieldEffects",
-                "stars": 6011,
+                "stars": 6012,
                 "topics": [
                   "animation",
                   "effects",
@@ -6351,7 +6351,7 @@
                 "open_issues": 28,
                 "owner": "jverdi",
                 "repo": "JVFloatLabeledTextField",
-                "stars": 7128,
+                "stars": 7129,
                 "topics": [
                   "carthage",
                   "floating-labels",
@@ -6541,7 +6541,7 @@
                 "open_issues": 335,
                 "owner": "mwaterfall",
                 "repo": "MWPhotoBrowser",
-                "stars": 8691,
+                "stars": 8692,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6735,7 +6735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-10T08:21:49.073Z",
+    "last_updated": "2026-11-11T07:42:55.496Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
