@@ -178,7 +178,7 @@
             "open_issues": 12,
             "owner": "marcosgriselli",
             "repo": "ViewAnimator",
-            "stars": 7303,
+            "stars": 7301,
             "topics": [
               "animations",
               "ios",
@@ -209,7 +209,7 @@
             "open_issues": 1,
             "owner": "exyte",
             "repo": "PopupView",
-            "stars": 4062,
+            "stars": 4063,
             "topics": [
               "popup",
               "swiftui",
@@ -312,7 +312,7 @@
                 "open_issues": 12,
                 "owner": "marcosgriselli",
                 "repo": "ViewAnimator",
-                "stars": 7303,
+                "stars": 7301,
                 "topics": [
                   "animations",
                   "ios",
@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22496,
+                "stars": 22495,
                 "topics": [
                   "animation",
                   "animations",
@@ -1321,7 +1321,7 @@
                 "open_issues": 12,
                 "owner": "Ramotion",
                 "repo": "folding-cell",
-                "stars": 10169,
+                "stars": 10168,
                 "topics": [
                   "animation",
                   "ios",
@@ -1854,7 +1854,7 @@
                 "open_issues": 1,
                 "owner": "exyte",
                 "repo": "PopupView",
-                "stars": 4062,
+                "stars": 4063,
                 "topics": [
                   "popup",
                   "swiftui",
@@ -1992,7 +1992,7 @@
                 "open_issues": 0,
                 "owner": "exyte",
                 "repo": "FloatingButton",
-                "stars": 1270,
+                "stars": 1271,
                 "topics": [
                   "swiftui",
                   "swiftui-animations",
@@ -2386,7 +2386,7 @@
                 "open_issues": 18,
                 "owner": "Ramotion",
                 "repo": "animated-tab-bar",
-                "stars": 11082,
+                "stars": 11081,
                 "topics": [
                   "animation",
                   "ios",
@@ -2471,7 +2471,7 @@
                 "open_issues": 14,
                 "owner": "Yalantis",
                 "repo": "FoldingTabBar.iOS",
-                "stars": 3655,
+                "stars": 3654,
                 "topics": [
                   "animation",
                   "carthage",
@@ -2946,7 +2946,7 @@
                 "open_issues": 1,
                 "owner": "ninjaprox",
                 "repo": "NVActivityIndicatorView",
-                "stars": 10704,
+                "stars": 10706,
                 "topics": [
                   "animation",
                   "carthage",
@@ -3469,7 +3469,7 @@
                 "open_issues": 314,
                 "owner": "xmartlabs",
                 "repo": "XLPagerTabStrip",
-                "stars": 6989,
+                "stars": 6990,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -4406,7 +4406,7 @@
                 "open_issues": 3,
                 "owner": "yacir",
                 "repo": "CollectionViewSlantedLayout",
-                "stars": 2340,
+                "stars": 2339,
                 "topics": [
                   "collection-view",
                   "collectionview",
@@ -4947,7 +4947,7 @@
                 "open_issues": 29,
                 "owner": "optonaut",
                 "repo": "ActiveLabel.swift",
-                "stars": 4595,
+                "stars": 4594,
                 "topics": [
                   "activelabel",
                   "swift",
@@ -5746,7 +5746,7 @@
                 "open_issues": 11,
                 "owner": "SvenTiigi",
                 "repo": "WhatsNewKit",
-                "stars": 4439,
+                "stars": 4440,
                 "topics": [
                   "ios",
                   "macos",
@@ -6207,7 +6207,7 @@
                 "open_issues": 5,
                 "owner": "Ramotion",
                 "repo": "reel-search",
-                "stars": 2504,
+                "stars": 2503,
                 "topics": [
                   "component",
                   "ios",
@@ -6351,7 +6351,7 @@
                 "open_issues": 28,
                 "owner": "jverdi",
                 "repo": "JVFloatLabeledTextField",
-                "stars": 7129,
+                "stars": 7130,
                 "topics": [
                   "carthage",
                   "floating-labels",
@@ -6735,7 +6735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-11T07:42:55.496Z",
+    "last_updated": "2026-11-12T08:14:05.362Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
