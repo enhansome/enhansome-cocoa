@@ -151,7 +151,7 @@
             "open_issues": 48,
             "owner": "alexaubry",
             "repo": "BulletinBoard",
-            "stars": 5328,
+            "stars": 5329,
             "topics": [
               "card",
               "configuration",
@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22495,
+                "stars": 22496,
                 "topics": [
                   "animation",
                   "animations",
@@ -773,7 +773,7 @@
                 "open_issues": 1,
                 "owner": "shu223",
                 "repo": "AnimatedTransitionGallery",
-                "stars": 2498,
+                "stars": 2497,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -1152,7 +1152,7 @@
                 "open_issues": 77,
                 "owner": "SwipeCellKit",
                 "repo": "SwipeCellKit",
-                "stars": 6271,
+                "stars": 6272,
                 "topics": [
                   "drag",
                   "ios",
@@ -1321,7 +1321,7 @@
                 "open_issues": 12,
                 "owner": "Ramotion",
                 "repo": "folding-cell",
-                "stars": 10168,
+                "stars": 10169,
                 "topics": [
                   "animation",
                   "ios",
@@ -1500,7 +1500,7 @@
                 "open_issues": 6,
                 "owner": "orazz",
                 "repo": "CreditCardForm-iOS",
-                "stars": 1462,
+                "stars": 1463,
                 "topics": [
                   "credit-card",
                   "creditcardform",
@@ -1820,7 +1820,7 @@
                 "open_issues": 48,
                 "owner": "alexaubry",
                 "repo": "BulletinBoard",
-                "stars": 5328,
+                "stars": 5329,
                 "topics": [
                   "card",
                   "configuration",
@@ -2221,7 +2221,7 @@
                 "open_issues": 32,
                 "owner": "okmr-d",
                 "repo": "DOFavoriteButton",
-                "stars": 3574,
+                "stars": 3573,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -2386,7 +2386,7 @@
                 "open_issues": 18,
                 "owner": "Ramotion",
                 "repo": "animated-tab-bar",
-                "stars": 11081,
+                "stars": 11083,
                 "topics": [
                   "animation",
                   "ios",
@@ -2946,7 +2946,7 @@
                 "open_issues": 1,
                 "owner": "ninjaprox",
                 "repo": "NVActivityIndicatorView",
-                "stars": 10706,
+                "stars": 10709,
                 "topics": [
                   "animation",
                   "carthage",
@@ -4947,7 +4947,7 @@
                 "open_issues": 29,
                 "owner": "optonaut",
                 "repo": "ActiveLabel.swift",
-                "stars": 4594,
+                "stars": 4595,
                 "topics": [
                   "activelabel",
                   "swift",
@@ -5995,7 +5995,7 @@
                 "open_issues": 4,
                 "owner": "Yalantis",
                 "repo": "PullToMakeSoup",
-                "stars": 1909,
+                "stars": 1908,
                 "topics": [
                   "animation",
                   "carthage",
@@ -6541,7 +6541,7 @@
                 "open_issues": 335,
                 "owner": "mwaterfall",
                 "repo": "MWPhotoBrowser",
-                "stars": 8692,
+                "stars": 8690,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6692,7 +6692,7 @@
                 "open_issues": 24,
                 "owner": "CSStickyHeaderFlowLayout",
                 "repo": "CSStickyHeaderFlowLayout",
-                "stars": 5017,
+                "stars": 5018,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6735,7 +6735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-12T08:14:05.362Z",
+    "last_updated": "2026-11-13T07:51:48.263Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
