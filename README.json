@@ -2414,7 +2414,7 @@
                 "open_issues": 87,
                 "owner": "uias",
                 "repo": "Tabman",
-                "stars": 2919,
+                "stars": 2920,
                 "topics": [
                   "ios",
                   "swift",
@@ -3702,7 +3702,7 @@
                 "open_issues": 3,
                 "owner": "DroidsOnRoids",
                 "repo": "MPParallaxView",
-                "stars": 1731,
+                "stars": 1732,
                 "topics": [
                   "ios",
                   "parallax",
@@ -4026,7 +4026,7 @@
                 "open_issues": 93,
                 "owner": "KrauseFx",
                 "repo": "TSMessages",
-                "stars": 4832,
+                "stars": 4833,
                 "topics": [
                   "cocoapods",
                   "ios",
@@ -4616,7 +4616,7 @@
                 "open_issues": 3,
                 "owner": "johnnywjy",
                 "repo": "JYRadarChart",
-                "stars": 420,
+                "stars": 421,
                 "topics": [
                   "chart",
                   "cocoapods",
@@ -4748,7 +4748,7 @@
                 "open_issues": 50,
                 "owner": "Yalantis",
                 "repo": "Koloda",
-                "stars": 5387,
+                "stars": 5385,
                 "topics": [
                   "animation",
                   "cards",
@@ -4926,7 +4926,7 @@
                 "open_issues": 117,
                 "owner": "ElaWorkshop",
                 "repo": "TagListView",
-                "stars": 2662,
+                "stars": 2663,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5205,7 +5205,7 @@
                 "open_issues": 19,
                 "owner": "EddyBorja",
                 "repo": "EBPhotoPages",
-                "stars": 1619,
+                "stars": 1620,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6541,7 +6541,7 @@
                 "open_issues": 335,
                 "owner": "mwaterfall",
                 "repo": "MWPhotoBrowser",
-                "stars": 8690,
+                "stars": 8691,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6562,7 +6562,7 @@
                 "open_issues": 63,
                 "owner": "mariohahn",
                 "repo": "MHVideoPhotoGallery",
-                "stars": 1940,
+                "stars": 1941,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6735,7 +6735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-14T07:33:31.349Z",
+    "last_updated": "2026-11-15T07:47:32.519Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",

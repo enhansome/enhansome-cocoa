@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 536,567 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 537,093 | 🐛 104 | 📅 2026-09-02
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -572,7 +572,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *:octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion*
 
-**[Tabman](https://github.com/uias/Tabman) ⭐ 2,919 | 🐛 87 | 🌐 Swift | 📅 2026-09-26**
+**[Tabman](https://github.com/uias/Tabman) ⭐ 2,920 | 🐛 87 | 🌐 Swift | 📅 2026-09-26**
 *from [uias](https://github.com/uias):*
 
 > *™️ A powerful paging view controller with tab bar.*
@@ -822,7 +822,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Parallax
 
-**[MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) ⭐ 1,731 | 🐛 3 | 🌐 Swift | 📅 2026-10-21**
+**[MPParallaxView](https://github.com/DroidsOnRoids/MPParallaxView) ⭐ 1,732 | 🐛 3 | 🌐 Swift | 📅 2026-10-21**
 *from [DroidsOnRoids](https://github.com/DroidsOnRoids):*
 
 > *Apple TV Parallax effect in Swift.*
@@ -883,7 +883,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *An iOS UIView for presenting a minimalistic notification that doesn't block the UI and is highly configurable.*
 
-**[TSMessages](https://github.com/KrauseFx/TSMessages) ⭐ 4,832 | 🐛 93 | 🌐 Objective-C | 📅 2023-06-01**
+**[TSMessages](https://github.com/KrauseFx/TSMessages) ⭐ 4,833 | 🐛 93 | 🌐 Objective-C | 📅 2023-06-01**
 *from [KrauseFx](https://github.com/KrauseFx):*
 
 > *💌 Easy to use and customizable messages/notifications for iOS à la Tweetbot*
@@ -1006,7 +1006,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *BSChart is a simple and useful chart library written on Swift*
 
-**[JYRadarChart](https://github.com/johnnywjy/JYRadarChart) ⭐ 420 | 🐛 3 | 🌐 Objective-C | 📅 2018-08-20**
+**[JYRadarChart](https://github.com/johnnywjy/JYRadarChart) ⭐ 421 | 🐛 3 | 🌐 Objective-C | 📅 2018-08-20**
 *from [johnnywjy](https://github.com/johnnywjy):*
 
 > *an iOS open source Radar Chart implementation*
@@ -1033,7 +1033,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Inifinite swipeable stacked UIViews.*
 
-**[Koloda](https://github.com/Yalantis/Koloda) ⭐ 5,387 | 🐛 50 | 🌐 Swift | 📅 2024-05-29**
+**[Koloda](https://github.com/Yalantis/Koloda) ⭐ 5,385 | 🐛 50 | 🌐 Swift | 📅 2024-05-29**
 *from [Yalantis](https://github.com/Yalantis):*
 
 > \*KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. \*
@@ -1126,7 +1126,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Performant animated GIF engine for iOS*
 
-**[EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages) ⭐ 1,619 | 🐛 19 | 🌐 Objective-C | 📅 2021-11-02**
+**[EBPhotoPages](https://github.com/EddyBorja/EBPhotoPages) ⭐ 1,620 | 🐛 19 | 🌐 Objective-C | 📅 2021-11-02**
 *from [EddyBorja](https://github.com/EddyBorja):*
 
 > *A photo gallery for iOS with a modern feature set. Similar features as the Facebook photo browser.*
@@ -1399,12 +1399,12 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Gallery
 
-**[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) ⭐ 8,690 | 🐛 335 | 🌐 Objective-C | 📅 2024-06-27**
+**[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) ⭐ 8,691 | 🐛 335 | 🌐 Objective-C | 📅 2024-06-27**
 *from [mwaterfall](https://github.com/mwaterfall):*
 
 > *A simple iOS photo and video browser with grid view, captions and selections.*
 
-**[MHVideoPhotoGallery](https://github.com/mariohahn/MHVideoPhotoGallery) ⭐ 1,940 | 🐛 63 | 🌐 Objective-C | 📅 2021-10-06**
+**[MHVideoPhotoGallery](https://github.com/mariohahn/MHVideoPhotoGallery) ⭐ 1,941 | 🐛 63 | 🌐 Objective-C | 📅 2021-10-06**
 *from [mariohahn](https://github.com/mariohahn):*
 
 > \*A Photo and Video Gallery \*
@@ -1449,4 +1449,4 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-14._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-15._
