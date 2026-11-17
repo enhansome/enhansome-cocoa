@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 537,628 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,201 | 🐛 104 | 📅 2026-09-02
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -222,7 +222,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Easy interactive interruptible custom ViewController transitions*
 
-**[Shiny](https://github.com/efremidze/Shiny) ⭐ 846 | 🐛 3 | 🌐 Swift | 📅 2025-07-09**
+**[Shiny](https://github.com/efremidze/Shiny) ⭐ 847 | 🐛 3 | 🌐 Swift | 📅 2025-07-09**
 *from [efremidze](https://github.com/efremidze):*
 
 > *Iridescent Effect View (inspired by Apple Pay Cash) ✨*
@@ -351,7 +351,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *↕️ VegaScroll is a lightweight animation flowlayout for UICollectionView completely written in Swift 4, compatible with iOS 11 and Xcode 9.*
 
-**[folding-cell](https://github.com/Ramotion/folding-cell) ⭐ 10,171 | 🐛 12 | 🌐 Swift | 📅 2024-04-28**
+**[folding-cell](https://github.com/Ramotion/folding-cell) ⭐ 10,172 | 🐛 12 | 🌐 Swift | 📅 2024-04-28**
 *from [Ramotion](https://github.com/Ramotion):*
 
 > *:octocat: 📃 FoldingCell is an expanding content cell with animation inspired by folding paper card material design. Swift UI Library by @Ramotion*
@@ -495,7 +495,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Yet another animated flat buttons in Swift*
 
-**[FloatingButton](https://github.com/exyte/FloatingButton) ⭐ 1,271 | 🐛 0 | 🌐 Swift | 📅 2026-11-06**
+**[FloatingButton](https://github.com/exyte/FloatingButton) ⭐ 1,270 | 🐛 0 | 🌐 Swift | 📅 2026-11-06**
 *from [exyte](https://github.com/exyte):*
 
 > *Easily customizable floating button menu created with SwiftUI*
@@ -530,7 +530,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Multiple state tap to toggle UIButton in Swift*
 
-**[LGButton](https://github.com/loregr/LGButton) ⭐ 2,279 | 🐛 0 | 🌐 Swift | 📅 2020-09-11**
+**[LGButton](https://github.com/loregr/LGButton) ⭐ 2,280 | 🐛 0 | 🌐 Swift | 📅 2020-09-11**
 *from [loregr](https://github.com/loregr):*
 
 > *A fully customisable subclass of the native UIControl which allows you to create beautiful buttons without writing any line of code.*
@@ -567,7 +567,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Unlike all those arrogant UINavigationBar, this one is shy and humble! Easily create auto-scrolling navigation bars!*
 
-**[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) ⭐ 11,083 | 🐛 18 | 🌐 Swift | 📅 2022-01-26**
+**[animated-tab-bar](https://github.com/Ramotion/animated-tab-bar) ⭐ 11,082 | 🐛 18 | 🌐 Swift | 📅 2022-01-26**
 *from [Ramotion](https://github.com/Ramotion):*
 
 > *:octocat: RAMAnimatedTabBarController is a Swift UI module library for adding animation to iOS tabbar items and icons. iOS library made by @Ramotion*
@@ -639,7 +639,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Forget about typical stereotypic loading, It's time to change. SSSpinnerButton is an elegant button with a diffrent spinner animations.*
 
-**[GradientCircularProgress](https://github.com/keygx/GradientCircularProgress) ⭐ 544 | 🐛 9 | 🌐 Swift | 📅 2021-08-26**
+**[GradientCircularProgress](https://github.com/keygx/GradientCircularProgress) ⭐ 543 | 🐛 9 | 🌐 Swift | 📅 2021-08-26**
 *from [keygx](https://github.com/keygx):*
 
 > *Customizable progress indicator library in Swift*
@@ -674,22 +674,22 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Kit for building custom gauges + easy reproducible Apple's style ring gauges.*
 
-**[NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) ⭐ 10,711 | 🐛 1 | 🌐 Swift | 📅 2026-03-18**
+**[NVActivityIndicatorView](https://github.com/ninjaprox/NVActivityIndicatorView) ⭐ 10,713 | 🐛 1 | 🌐 Swift | 📅 2026-03-18**
 *from [ninjaprox](https://github.com/ninjaprox):*
 
 > *A collection of awesome loading animations*
 
-**[UzysAnimatedGifPullToRefresh](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) ⭐ 1,391 | 🐛 3 | 🌐 Objective-C | 📅 2016-07-07**
+**[UzysAnimatedGifPullToRefresh](https://github.com/uzysjung/UzysAnimatedGifPullToRefresh) ⭐ 1,392 | 🐛 3 | 🌐 Objective-C | 📅 2016-07-07**
 *from [uzysjung](https://github.com/uzysjung):*
 
 > *Add PullToRefresh using animated GIF to any scrollView with just simple code*
 
-**[FFCircularProgressView](https://github.com/elbryan/FFCircularProgressView) ⭐ 986 | 🐛 7 | 🌐 Objective-C | 📅 2018-01-25**
+**[FFCircularProgressView](https://github.com/elbryan/FFCircularProgressView) ⭐ 985 | 🐛 7 | 🌐 Objective-C | 📅 2018-01-25**
 *from [elbryan](https://github.com/elbryan):*
 
 > *FFCircularProgressView - An iOS 7-inspired blue circular progress view*
 
-**[M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite) ⭐ 3,889 | 🐛 48 | 🌐 Objective-C | 📅 2022-03-05**
+**[M13ProgressSuite](https://github.com/Marxon13/M13ProgressSuite) ⭐ 3,888 | 🐛 48 | 🌐 Objective-C | 📅 2022-03-05**
 *from [Marxon13](https://github.com/Marxon13):*
 
 > *A suite containing many tools to display progress information on iOS.*
@@ -773,7 +773,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > \*A simple side menu for iOS written in Swift. \*
 
-**[XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) ⭐ 6,990 | 🐛 314 | 🌐 Swift | 📅 2023-11-22**
+**[XLPagerTabStrip](https://github.com/xmartlabs/XLPagerTabStrip) ⭐ 6,991 | 🐛 314 | 🌐 Swift | 📅 2023-11-22**
 *from [xmartlabs](https://github.com/xmartlabs):*
 
 > *Android PagerTabStrip for iOS.*
@@ -846,7 +846,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Helper Shadow Path for UIView in Swift iOS*
 
-**[ShadowView](https://github.com/PierrePerrin/ShadowView) ⭐ 413 | 🐛 1 | 🌐 Swift | 📅 2024-08-29**
+**[ShadowView](https://github.com/PierrePerrin/ShadowView) ⭐ 414 | 🐛 1 | 🌐 Swift | 📅 2024-08-29**
 *from [PierrePerrin](https://github.com/PierrePerrin):*
 
 > *An iOS Library that makes shadows management easy on UIView.*
@@ -1096,7 +1096,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > \*HoneycombView is the iOS UIView for displaying like Honeycomb layout written by swift \*
 
-**[CTPanoramaView](https://github.com/scihant/CTPanoramaView) ⭐ 1,044 | 🐛 15 | 🌐 Swift | 📅 2024-08-09**
+**[CTPanoramaView](https://github.com/scihant/CTPanoramaView) ⭐ 1,043 | 🐛 15 | 🌐 Swift | 📅 2024-08-09**
 *from [scihant](https://github.com/scihant):*
 
 > *A library that displays spherical or cylindrical panoramas with touch or motion based controls.*
@@ -1106,7 +1106,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Create complementary gradients generated from dominant and prominent colors in supplied image. Inspired by Grade.js*
 
-**[URWeatherView](https://github.com/jegumhon/URWeatherView) ⭐ 446 | 🐛 1 | 🌐 Swift | 📅 2019-01-07**
+**[URWeatherView](https://github.com/jegumhon/URWeatherView) ⭐ 447 | 🐛 1 | 🌐 Swift | 📅 2019-01-07**
 *from [jegumhon](https://github.com/jegumhon):*
 
 > *Show the weather effects onto view written in Swift3*
@@ -1215,7 +1215,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *📅 Fully customizable calendar for iOS*
 
-**[JTCalendar](https://github.com/jonathantribouharet/JTCalendar) ⭐ 2,736 | 🐛 117 | 🌐 Objective-C | 📅 2021-12-06**
+**[JTCalendar](https://github.com/jonathantribouharet/JTCalendar) ⭐ 2,737 | 🐛 117 | 🌐 Objective-C | 📅 2021-12-06**
 *from [jonathantribouharet](https://github.com/jonathantribouharet):*
 
 > *A customizable calendar view for iOS.*
@@ -1227,7 +1227,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Introduction
 
-**[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,442 | 🐛 11 | 🌐 Swift | 📅 2024-10-10**
+**[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,440 | 🐛 11 | 🌐 Swift | 📅 2024-10-10**
 *from [SvenTiigi](https://github.com/SvenTiigi):*
 
 > *Showcase your awesome new app features 📱*
@@ -1252,7 +1252,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A super-charged version of MYIntroductionView for building custom app introductions and tutorials.*
 
-**[Onboard](https://github.com/mamaral/Onboard) ⭐ 6,547 | 🐛 45 | 🌐 Objective-C | 📅 2025-01-01**
+**[Onboard](https://github.com/mamaral/Onboard) ⭐ 6,548 | 🐛 45 | 🌐 Objective-C | 📅 2025-01-01**
 *from [mamaral](https://github.com/mamaral):*
 
 > *An iOS framework to easily create a beautiful and engaging onboarding experience with only a few lines of code.*
@@ -1310,7 +1310,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Loading
 
-**[LiquidLoader](https://github.com/yoavlt/LiquidLoader) ⭐ 1,323 | 🐛 8 | 🌐 Swift | 📅 2020-05-18**
+**[LiquidLoader](https://github.com/yoavlt/LiquidLoader) ⭐ 1,324 | 🐛 8 | 🌐 Swift | 📅 2020-05-18**
 *from [yoavlt](https://github.com/yoavlt):*
 
 > *Spinner loader components with liquid animation*
@@ -1449,4 +1449,4 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-16._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-17._
