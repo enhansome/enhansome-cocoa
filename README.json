@@ -1290,7 +1290,7 @@
                 "open_issues": 20,
                 "owner": "ApplikeySolutions",
                 "repo": "VegaScroll",
-                "stars": 2899,
+                "stars": 2898,
                 "topics": [
                   "animation",
                   "flowlayout",
@@ -1321,7 +1321,7 @@
                 "open_issues": 12,
                 "owner": "Ramotion",
                 "repo": "folding-cell",
-                "stars": 10172,
+                "stars": 10173,
                 "topics": [
                   "animation",
                   "ios",
@@ -1370,7 +1370,7 @@
                 "open_issues": 79,
                 "owner": "slackhq",
                 "repo": "SlackTextViewController",
-                "stars": 8247,
+                "stars": 8246,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -1500,7 +1500,7 @@
                 "open_issues": 6,
                 "owner": "orazz",
                 "repo": "CreditCardForm-iOS",
-                "stars": 1463,
+                "stars": 1464,
                 "topics": [
                   "credit-card",
                   "creditcardform",
@@ -2386,7 +2386,7 @@
                 "open_issues": 18,
                 "owner": "Ramotion",
                 "repo": "animated-tab-bar",
-                "stars": 11082,
+                "stars": 11083,
                 "topics": [
                   "animation",
                   "ios",
@@ -3910,7 +3910,7 @@
                 "open_issues": 0,
                 "owner": "JT501",
                 "repo": "SwiftNotify",
-                "stars": 501,
+                "stars": 500,
                 "topics": [
                   "alert",
                   "alertview",
@@ -4026,7 +4026,7 @@
                 "open_issues": 93,
                 "owner": "KrauseFx",
                 "repo": "TSMessages",
-                "stars": 4833,
+                "stars": 4832,
                 "topics": [
                   "cocoapods",
                   "ios",
@@ -4465,7 +4465,7 @@
                 "open_issues": 7,
                 "owner": "betzerra",
                 "repo": "MosaicLayout",
-                "stars": 504,
+                "stars": 503,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -4748,7 +4748,7 @@
                 "open_issues": 50,
                 "owner": "Yalantis",
                 "repo": "Koloda",
-                "stars": 5385,
+                "stars": 5386,
                 "topics": [
                   "animation",
                   "cards",
@@ -4780,7 +4780,7 @@
                 "open_issues": 25,
                 "owner": "PaoloCuscela",
                 "repo": "Cards",
-                "stars": 4194,
+                "stars": 4193,
                 "topics": [
                   "cards",
                   "ibdesignable",
@@ -5579,7 +5579,7 @@
                 "open_issues": 5,
                 "owner": "kf99916",
                 "repo": "TimelineTableViewCell",
-                "stars": 1322,
+                "stars": 1321,
                 "topics": [
                   "cocoapods",
                   "swift",
@@ -6325,7 +6325,7 @@
                 "open_issues": 7,
                 "owner": "raulriera",
                 "repo": "TextFieldEffects",
-                "stars": 6013,
+                "stars": 6014,
                 "topics": [
                   "animation",
                   "effects",
@@ -6735,7 +6735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-17T09:08:02.498Z",
+    "last_updated": "2026-11-18T08:28:25.488Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
