@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 538,703 | 🐛 104 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 539,196 | 🐛 104 | 📅 2026-09-02
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -197,7 +197,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *The Swift library for showing the rounded coach marks (useful for onboarding or run-time help purposes)*
 
-**[Hero](https://github.com/HeroTransitions/Hero) ⭐ 22,497 | 🐛 42 | 🌐 Swift | 📅 2025-01-23**
+**[Hero](https://github.com/HeroTransitions/Hero) ⭐ 22,499 | 🐛 42 | 🌐 Swift | 📅 2025-01-23**
 *from [HeroTransitions](https://github.com/HeroTransitions):*
 
 > *Elegant transition library for iOS & tvOS*
@@ -495,7 +495,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Yet another animated flat buttons in Swift*
 
-**[FloatingButton](https://github.com/exyte/FloatingButton) ⭐ 1,270 | 🐛 0 | 🌐 Swift | 📅 2026-11-06**
+**[FloatingButton](https://github.com/exyte/FloatingButton) ⭐ 1,271 | 🐛 0 | 🌐 Swift | 📅 2026-11-06**
 *from [exyte](https://github.com/exyte):*
 
 > *Easily customizable floating button menu created with SwiftUI*
@@ -743,7 +743,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Fully customizable and extensible action sheet controller written in Swift*
 
-**[YNDropDownMenu](https://github.com/younatics/YNDropDownMenu) ⭐ 1,325 | 🐛 8 | 🌐 Swift | 📅 2026-10-24**
+**[YNDropDownMenu](https://github.com/younatics/YNDropDownMenu) ⭐ 1,326 | 🐛 8 | 🌐 Swift | 📅 2026-10-24**
 *from [younatics](https://github.com/younatics):*
 
 > *✨ Awesome Dropdown menu for iOS with Swift 4*
@@ -788,7 +788,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Slide Menu (Drawer) in Swift 4 - Xcode 9 - iOS 11*
 
-**[RESideMenu](https://github.com/romaonthego/RESideMenu) ⭐ 7,031 | 🐛 131 | 🌐 Objective-C | 📅 2017-12-05**
+**[RESideMenu](https://github.com/romaonthego/RESideMenu) ⭐ 7,030 | 🐛 131 | 🌐 Objective-C | 📅 2017-12-05**
 *from [romaonthego](https://github.com/romaonthego):*
 
 > *iOS 7/8 style side menu with parallax effect.*
@@ -883,7 +883,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *An iOS UIView for presenting a minimalistic notification that doesn't block the UI and is highly configurable.*
 
-**[TSMessages](https://github.com/KrauseFx/TSMessages) ⭐ 4,832 | 🐛 93 | 🌐 Objective-C | 📅 2023-06-01**
+**[TSMessages](https://github.com/KrauseFx/TSMessages) ⭐ 4,831 | 🐛 93 | 🌐 Objective-C | 📅 2023-06-01**
 *from [KrauseFx](https://github.com/KrauseFx):*
 
 > *💌 Easy to use and customizable messages/notifications for iOS à la Tweetbot*
@@ -1121,7 +1121,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *:milky\_way: A convenient and easy to use image viewer for your iOS app*
 
-**[FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) ⭐ 7,940 | 🐛 82 | 🌐 Objective-C | 📅 2024-03-21**
+**[FLAnimatedImage](https://github.com/Flipboard/FLAnimatedImage) ⭐ 7,939 | 🐛 82 | 🌐 Objective-C | 📅 2024-03-21**
 *from [Flipboard](https://github.com/Flipboard):*
 
 > *Performant animated GIF engine for iOS*
@@ -1188,7 +1188,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *ForceBlur Animation for iOS Messaging Apps*
 
-**[VisualEffectView](https://github.com/efremidze/VisualEffectView) ⭐ 1,431 | 🐛 11 | 🌐 Swift | 📅 2025-12-29**
+**[VisualEffectView](https://github.com/efremidze/VisualEffectView) ⭐ 1,432 | 🐛 11 | 🌐 Swift | 📅 2025-12-29**
 *from [efremidze](https://github.com/efremidze):*
 
 > *Dynamic blur background view with tint color (UIVisualEffectView subclass) 📱*
@@ -1278,7 +1278,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## PullToRefresh
 
-**[PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) ⭐ 1,908 | 🐛 4 | 🌐 Objective-C | 📅 2019-03-18**
+**[PullToMakeSoup](https://github.com/Yalantis/PullToMakeSoup) ⭐ 1,907 | 🐛 4 | 🌐 Objective-C | 📅 2019-03-18**
 *from [Yalantis](https://github.com/Yalantis):*
 
 > *Custom animated pull-to-refresh that can be easily added to UIScrollView*
@@ -1399,7 +1399,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Gallery
 
-**[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) ⭐ 8,691 | 🐛 335 | 🌐 Objective-C | 📅 2024-06-27**
+**[MWPhotoBrowser](https://github.com/mwaterfall/MWPhotoBrowser) ⭐ 8,690 | 🐛 335 | 🌐 Objective-C | 📅 2024-06-27**
 *from [mwaterfall](https://github.com/mwaterfall):*
 
 > *A simple iOS photo and video browser with grid view, captions and selections.*
@@ -1416,7 +1416,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *VideoSplashKit - UIViewController library for creating easy intro pages with background videos*
 
-**[XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) ⭐ 2,917 | 🐛 50 | 🌐 Objective-C | 📅 2024-04-08**
+**[XCDYouTubeKit](https://github.com/0xced/XCDYouTubeKit) ⭐ 2,918 | 🐛 50 | 🌐 Objective-C | 📅 2024-04-08**
 *from [0xced](https://github.com/0xced):*
 
 > *YouTube video player for iOS, tvOS and macOS*
@@ -1442,11 +1442,11 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## RichText
 
-**[ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor) ⭐ 3,777 | 🐛 131 | 🌐 Objective-C | 📅 2021-09-07**
+**[ZSSRichTextEditor](https://github.com/nnhubbard/ZSSRichTextEditor) ⭐ 3,776 | 🐛 131 | 🌐 Objective-C | 📅 2021-09-07**
 *from [nnhubbard](https://github.com/nnhubbard):*
 
 > *A beautiful rich text WYSIWYG editor for iOS with a syntax highlighted source view*
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-18._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-19._

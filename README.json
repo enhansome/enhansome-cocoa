@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22497,
+                "stars": 22499,
                 "topics": [
                   "animation",
                   "animations",
@@ -1370,7 +1370,7 @@
                 "open_issues": 79,
                 "owner": "slackhq",
                 "repo": "SlackTextViewController",
-                "stars": 8246,
+                "stars": 8245,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -1992,7 +1992,7 @@
                 "open_issues": 0,
                 "owner": "exyte",
                 "repo": "FloatingButton",
-                "stars": 1270,
+                "stars": 1271,
                 "topics": [
                   "swiftui",
                   "swiftui-animations",
@@ -3308,7 +3308,7 @@
                 "open_issues": 8,
                 "owner": "younatics",
                 "repo": "YNDropDownMenu",
-                "stars": 1325,
+                "stars": 1326,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -3552,7 +3552,7 @@
                 "open_issues": 131,
                 "owner": "romaonthego",
                 "repo": "RESideMenu",
-                "stars": 7031,
+                "stars": 7030,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -4026,7 +4026,7 @@
                 "open_issues": 93,
                 "owner": "KrauseFx",
                 "repo": "TSMessages",
-                "stars": 4832,
+                "stars": 4831,
                 "topics": [
                   "cocoapods",
                   "ios",
@@ -5184,7 +5184,7 @@
                 "open_issues": 82,
                 "owner": "Flipboard",
                 "repo": "FLAnimatedImage",
-                "stars": 7940,
+                "stars": 7939,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5541,7 +5541,7 @@
                 "open_issues": 11,
                 "owner": "efremidze",
                 "repo": "VisualEffectView",
-                "stars": 1431,
+                "stars": 1432,
                 "topics": [
                   "apple",
                   "blur",
@@ -5995,7 +5995,7 @@
                 "open_issues": 4,
                 "owner": "Yalantis",
                 "repo": "PullToMakeSoup",
-                "stars": 1908,
+                "stars": 1907,
                 "topics": [
                   "animation",
                   "carthage",
@@ -6541,7 +6541,7 @@
                 "open_issues": 335,
                 "owner": "mwaterfall",
                 "repo": "MWPhotoBrowser",
-                "stars": 8691,
+                "stars": 8690,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6611,7 +6611,7 @@
                 "open_issues": 50,
                 "owner": "0xced",
                 "repo": "XCDYouTubeKit",
-                "stars": 2917,
+                "stars": 2918,
                 "topics": [
                   "player",
                   "video",
@@ -6720,7 +6720,7 @@
                 "open_issues": 131,
                 "owner": "nnhubbard",
                 "repo": "ZSSRichTextEditor",
-                "stars": 3777,
+                "stars": 3776,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6735,7 +6735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-18T08:28:25.488Z",
+    "last_updated": "2026-11-19T08:41:55.411Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
