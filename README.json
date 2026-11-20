@@ -123,7 +123,7 @@
             "open_issues": 31,
             "owner": "FluidGroup",
             "repo": "NextGrowingTextView",
-            "stars": 1794,
+            "stars": 1793,
             "topics": [
               "carthage",
               "cocoapods",
@@ -151,7 +151,7 @@
             "open_issues": 48,
             "owner": "alexaubry",
             "repo": "BulletinBoard",
-            "stars": 5329,
+            "stars": 5328,
             "topics": [
               "card",
               "configuration",
@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22499,
+                "stars": 22497,
                 "topics": [
                   "animation",
                   "animations",
@@ -618,7 +618,7 @@
                 "open_issues": 2,
                 "owner": "Touchwonders",
                 "repo": "Transition",
-                "stars": 2621,
+                "stars": 2622,
                 "topics": [
                   "animation",
                   "controller",
@@ -1152,7 +1152,7 @@
                 "open_issues": 77,
                 "owner": "SwipeCellKit",
                 "repo": "SwipeCellKit",
-                "stars": 6271,
+                "stars": 6270,
                 "topics": [
                   "drag",
                   "ios",
@@ -1259,7 +1259,7 @@
                 "open_issues": 12,
                 "owner": "marty-suzuki",
                 "repo": "URLEmbeddedView",
-                "stars": 643,
+                "stars": 639,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -1321,7 +1321,7 @@
                 "open_issues": 12,
                 "owner": "Ramotion",
                 "repo": "folding-cell",
-                "stars": 10173,
+                "stars": 10172,
                 "topics": [
                   "animation",
                   "ios",
@@ -1370,7 +1370,7 @@
                 "open_issues": 79,
                 "owner": "slackhq",
                 "repo": "SlackTextViewController",
-                "stars": 8245,
+                "stars": 8244,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -1472,7 +1472,7 @@
                 "open_issues": 31,
                 "owner": "FluidGroup",
                 "repo": "NextGrowingTextView",
-                "stars": 1794,
+                "stars": 1793,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -1500,7 +1500,7 @@
                 "open_issues": 6,
                 "owner": "orazz",
                 "repo": "CreditCardForm-iOS",
-                "stars": 1464,
+                "stars": 1463,
                 "topics": [
                   "credit-card",
                   "creditcardform",
@@ -1526,7 +1526,7 @@
                 "open_issues": 85,
                 "owner": "Skyscanner",
                 "repo": "SkyFloatingLabelTextField",
-                "stars": 4117,
+                "stars": 4116,
                 "topics": [
                   "cocoapods",
                   "interface-builder",
@@ -1594,7 +1594,7 @@
                 "open_issues": 16,
                 "owner": "FahimF",
                 "repo": "FloatLabelFields",
-                "stars": 1181,
+                "stars": 1179,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -1668,7 +1668,7 @@
                 "open_issues": 30,
                 "owner": "whitesmith",
                 "repo": "WSTagsField",
-                "stars": 1283,
+                "stars": 1280,
                 "topics": [
                   "carthage",
                   "carthage-installation",
@@ -1792,7 +1792,7 @@
                 "open_issues": 112,
                 "owner": "cjwirth",
                 "repo": "RichEditorView",
-                "stars": 1892,
+                "stars": 1890,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -1820,7 +1820,7 @@
                 "open_issues": 48,
                 "owner": "alexaubry",
                 "repo": "BulletinBoard",
-                "stars": 5329,
+                "stars": 5328,
                 "topics": [
                   "card",
                   "configuration",
@@ -1971,7 +1971,7 @@
                 "open_issues": 6,
                 "owner": "yannickl",
                 "repo": "DynamicButton",
-                "stars": 1150,
+                "stars": 1149,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -2130,7 +2130,7 @@
                 "open_issues": 3,
                 "owner": "leonardocardoso",
                 "repo": "NFDownloadButton",
-                "stars": 435,
+                "stars": 436,
                 "topics": [
                   "animation",
                   "button",
@@ -2184,7 +2184,7 @@
                 "open_issues": 0,
                 "owner": "loregr",
                 "repo": "LGButton",
-                "stars": 2280,
+                "stars": 2278,
                 "topics": [
                   "beautiful-buttons",
                   "button",
@@ -2221,7 +2221,7 @@
                 "open_issues": 32,
                 "owner": "okmr-d",
                 "repo": "DOFavoriteButton",
-                "stars": 3574,
+                "stars": 3573,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -2386,7 +2386,7 @@
                 "open_issues": 18,
                 "owner": "Ramotion",
                 "repo": "animated-tab-bar",
-                "stars": 11083,
+                "stars": 11079,
                 "topics": [
                   "animation",
                   "ios",
@@ -2443,7 +2443,7 @@
                 "open_issues": 8,
                 "owner": "v-braun",
                 "repo": "VBRRollingPit",
-                "stars": 332,
+                "stars": 331,
                 "topics": [
                   "animation",
                   "cocoapods",
@@ -2784,7 +2784,7 @@
                 "open_issues": 0,
                 "owner": "sindresorhus",
                 "repo": "DockProgress",
-                "stars": 1359,
+                "stars": 1360,
                 "topics": [
                   "dock",
                   "icon",
@@ -2946,7 +2946,7 @@
                 "open_issues": 1,
                 "owner": "ninjaprox",
                 "repo": "NVActivityIndicatorView",
-                "stars": 10713,
+                "stars": 10711,
                 "topics": [
                   "animation",
                   "carthage",
@@ -2982,7 +2982,7 @@
                 "open_issues": 3,
                 "owner": "uzysjung",
                 "repo": "UzysAnimatedGifPullToRefresh",
-                "stars": 1392,
+                "stars": 1391,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -3190,7 +3190,7 @@
                 "open_issues": 41,
                 "owner": "CaliCastle",
                 "repo": "PopMenu",
-                "stars": 1691,
+                "stars": 1690,
                 "topics": [
                   "actionsheet",
                   "carthage",
@@ -3222,7 +3222,7 @@
                 "open_issues": 0,
                 "owner": "Yalantis",
                 "repo": "GuillotineMenu",
-                "stars": 2875,
+                "stars": 2874,
                 "topics": [
                   "animation",
                   "cocoapods",
@@ -3252,7 +3252,7 @@
                 "open_issues": 12,
                 "owner": "yysskk",
                 "repo": "SwipeMenuViewController",
-                "stars": 1277,
+                "stars": 1275,
                 "topics": [
                   "animation-library",
                   "ios",
@@ -3308,7 +3308,7 @@
                 "open_issues": 8,
                 "owner": "younatics",
                 "repo": "YNDropDownMenu",
-                "stars": 1326,
+                "stars": 1325,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -3375,7 +3375,7 @@
                 "open_issues": 46,
                 "owner": "jonkykong",
                 "repo": "SideMenu",
-                "stars": 5819,
+                "stars": 5817,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -3448,7 +3448,7 @@
                 "open_issues": 91,
                 "owner": "devgenios",
                 "repo": "ENSwiftSideMenu",
-                "stars": 1799,
+                "stars": 1794,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -3469,7 +3469,7 @@
                 "open_issues": 314,
                 "owner": "xmartlabs",
                 "repo": "XLPagerTabStrip",
-                "stars": 6991,
+                "stars": 6989,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -3552,7 +3552,7 @@
                 "open_issues": 131,
                 "owner": "romaonthego",
                 "repo": "RESideMenu",
-                "stars": 7030,
+                "stars": 7029,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -3646,7 +3646,7 @@
                 "open_issues": 20,
                 "owner": "matghazaryan",
                 "repo": "AMSlideMenu2",
-                "stars": 1188,
+                "stars": 1187,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -3816,7 +3816,7 @@
                 "open_issues": 1,
                 "owner": "PierrePerrin",
                 "repo": "ShadowView",
-                "stars": 414,
+                "stars": 413,
                 "topics": [
                   "blur",
                   "blurred-images",
@@ -3977,7 +3977,7 @@
                 "open_issues": 68,
                 "owner": "cruffenach",
                 "repo": "CRToast",
-                "stars": 4112,
+                "stars": 4111,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -4082,7 +4082,7 @@
                 "open_issues": 16,
                 "owner": "terryworona",
                 "repo": "TWMessageBarManager",
-                "stars": 1748,
+                "stars": 1747,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -4616,7 +4616,7 @@
                 "open_issues": 3,
                 "owner": "johnnywjy",
                 "repo": "JYRadarChart",
-                "stars": 421,
+                "stars": 420,
                 "topics": [
                   "chart",
                   "cocoapods",
@@ -4926,7 +4926,7 @@
                 "open_issues": 117,
                 "owner": "ElaWorkshop",
                 "repo": "TagListView",
-                "stars": 2663,
+                "stars": 2662,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5100,7 +5100,7 @@
                 "open_issues": 1,
                 "owner": "Urtaq",
                 "repo": "URWeatherView",
-                "stars": 447,
+                "stars": 445,
                 "topics": [
                   "carthage",
                   "cloud",
@@ -5205,7 +5205,7 @@
                 "open_issues": 19,
                 "owner": "EddyBorja",
                 "repo": "EBPhotoPages",
-                "stars": 1620,
+                "stars": 1616,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5605,7 +5605,7 @@
                 "open_issues": 10,
                 "owner": "itsmeichigo",
                 "repo": "DateTimePicker",
-                "stars": 1854,
+                "stars": 1853,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5710,7 +5710,7 @@
                 "open_issues": 503,
                 "owner": "WenchaoD",
                 "repo": "FSCalendar",
-                "stars": 10628,
+                "stars": 10627,
                 "topics": [
                   "calendar",
                   "carthage",
@@ -5774,7 +5774,7 @@
                 "open_issues": 9,
                 "owner": "ruipfcosta",
                 "repo": "SwiftyWalkthrough",
-                "stars": 369,
+                "stars": 368,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5795,7 +5795,7 @@
                 "open_issues": 5,
                 "owner": "ariok",
                 "repo": "BWWalkthrough",
-                "stars": 2739,
+                "stars": 2738,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5849,7 +5849,7 @@
                 "open_issues": 18,
                 "owner": "MatthewYork",
                 "repo": "MYBlurIntroductionView",
-                "stars": 1510,
+                "stars": 1509,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5870,7 +5870,7 @@
                 "open_issues": 45,
                 "owner": "mamaral",
                 "repo": "Onboard",
-                "stars": 6548,
+                "stars": 6547,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6297,7 +6297,7 @@
                 "open_issues": 28,
                 "owner": "intuit",
                 "repo": "CardParts",
-                "stars": 2513,
+                "stars": 2512,
                 "topics": [
                   "cardparts",
                   "cards",
@@ -6325,7 +6325,7 @@
                 "open_issues": 7,
                 "owner": "raulriera",
                 "repo": "TextFieldEffects",
-                "stars": 6014,
+                "stars": 6012,
                 "topics": [
                   "animation",
                   "effects",
@@ -6351,7 +6351,7 @@
                 "open_issues": 28,
                 "owner": "jverdi",
                 "repo": "JVFloatLabeledTextField",
-                "stars": 7130,
+                "stars": 7129,
                 "topics": [
                   "carthage",
                   "floating-labels",
@@ -6541,7 +6541,7 @@
                 "open_issues": 335,
                 "owner": "mwaterfall",
                 "repo": "MWPhotoBrowser",
-                "stars": 8690,
+                "stars": 8689,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6562,7 +6562,7 @@
                 "open_issues": 63,
                 "owner": "mariohahn",
                 "repo": "MHVideoPhotoGallery",
-                "stars": 1941,
+                "stars": 1940,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6720,7 +6720,7 @@
                 "open_issues": 131,
                 "owner": "nnhubbard",
                 "repo": "ZSSRichTextEditor",
-                "stars": 3776,
+                "stars": 3775,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6735,7 +6735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-19T08:41:55.411Z",
+    "last_updated": "2026-11-20T08:28:07.033Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
