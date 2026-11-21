@@ -45,7 +45,7 @@
             "open_issues": 4,
             "owner": "popwarsweet",
             "repo": "PageControls",
-            "stars": 1099,
+            "stars": 1098,
             "topics": []
           },
           "first_seen": "2026-08-28T12:43:03.687Z"
@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22497,
+                "stars": 22496,
                 "topics": [
                   "animation",
                   "animations",
@@ -948,7 +948,7 @@
                 "open_issues": 4,
                 "owner": "popwarsweet",
                 "repo": "PageControls",
-                "stars": 1099,
+                "stars": 1098,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -969,7 +969,7 @@
                 "open_issues": 8,
                 "owner": "kazuhiro4949",
                 "repo": "PagingKit",
-                "stars": 1386,
+                "stars": 1385,
                 "topics": [
                   "ios",
                   "pageviewcontroller",
@@ -1321,7 +1321,7 @@
                 "open_issues": 12,
                 "owner": "Ramotion",
                 "repo": "folding-cell",
-                "stars": 10172,
+                "stars": 10171,
                 "topics": [
                   "animation",
                   "ios",
@@ -1792,7 +1792,7 @@
                 "open_issues": 112,
                 "owner": "cjwirth",
                 "repo": "RichEditorView",
-                "stars": 1890,
+                "stars": 1889,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -1944,7 +1944,7 @@
                 "open_issues": 1,
                 "owner": "atrinh0",
                 "repo": "buttoncraft",
-                "stars": 446,
+                "stars": 447,
                 "topics": [
                   "button-animation",
                   "buttons",
@@ -2280,7 +2280,7 @@
                 "open_issues": 19,
                 "owner": "marcosgriselli",
                 "repo": "SwipeableTabBarController",
-                "stars": 1532,
+                "stars": 1531,
                 "topics": [
                   "animation",
                   "cocoapods",
@@ -2312,7 +2312,7 @@
                 "open_issues": 6,
                 "owner": "Cuberto",
                 "repo": "flashy-tabbar",
-                "stars": 729,
+                "stars": 728,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -3375,7 +3375,7 @@
                 "open_issues": 46,
                 "owner": "jonkykong",
                 "repo": "SideMenu",
-                "stars": 5817,
+                "stars": 5816,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -3469,7 +3469,7 @@
                 "open_issues": 314,
                 "owner": "xmartlabs",
                 "repo": "XLPagerTabStrip",
-                "stars": 6989,
+                "stars": 6988,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -3889,7 +3889,7 @@
                 "open_issues": 64,
                 "owner": "pkluz",
                 "repo": "PKHUD",
-                "stars": 3768,
+                "stars": 3767,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -4780,7 +4780,7 @@
                 "open_issues": 25,
                 "owner": "PaoloCuscela",
                 "repo": "Cards",
-                "stars": 4193,
+                "stars": 4192,
                 "topics": [
                   "cards",
                   "ibdesignable",
@@ -4812,7 +4812,7 @@
                 "open_issues": 15,
                 "owner": "JoniVR",
                 "repo": "VerticalCardSwiper",
-                "stars": 1539,
+                "stars": 1538,
                 "topics": [
                   "animation",
                   "cards",
@@ -4947,7 +4947,7 @@
                 "open_issues": 29,
                 "owner": "optonaut",
                 "repo": "ActiveLabel.swift",
-                "stars": 4595,
+                "stars": 4594,
                 "topics": [
                   "activelabel",
                   "swift",
@@ -5431,7 +5431,7 @@
                 "open_issues": 20,
                 "owner": "ApplikeySolutions",
                 "repo": "PandoraPlayer",
-                "stars": 1203,
+                "stars": 1202,
                 "topics": [
                   "animation",
                   "artist",
@@ -5870,7 +5870,7 @@
                 "open_issues": 45,
                 "owner": "mamaral",
                 "repo": "Onboard",
-                "stars": 6547,
+                "stars": 6546,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6408,7 +6408,7 @@
                 "open_issues": 39,
                 "owner": "andreamazz",
                 "repo": "AMScrollingNavbar",
-                "stars": 5980,
+                "stars": 5979,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6611,7 +6611,7 @@
                 "open_issues": 50,
                 "owner": "0xced",
                 "repo": "XCDYouTubeKit",
-                "stars": 2918,
+                "stars": 2919,
                 "topics": [
                   "player",
                   "video",
@@ -6735,7 +6735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-20T08:28:07.033Z",
+    "last_updated": "2026-11-21T08:13:58.011Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
