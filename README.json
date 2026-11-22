@@ -1992,7 +1992,7 @@
                 "open_issues": 0,
                 "owner": "exyte",
                 "repo": "FloatingButton",
-                "stars": 1271,
+                "stars": 1272,
                 "topics": [
                   "swiftui",
                   "swiftui-animations",
@@ -5184,7 +5184,7 @@
                 "open_issues": 82,
                 "owner": "Flipboard",
                 "repo": "FLAnimatedImage",
-                "stars": 7939,
+                "stars": 7940,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6735,7 +6735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-21T08:13:58.011Z",
+    "last_updated": "2026-11-22T07:57:07.808Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
