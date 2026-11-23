@@ -19,7 +19,7 @@
             "open_issues": 0,
             "owner": "s2mr",
             "repo": "Elephant",
-            "stars": 153,
+            "stars": 152,
             "topics": [
               "animation",
               "ios",
@@ -286,7 +286,7 @@
                 "open_issues": 0,
                 "owner": "s2mr",
                 "repo": "Elephant",
-                "stars": 153,
+                "stars": 152,
                 "topics": [
                   "animation",
                   "ios",
@@ -1152,7 +1152,7 @@
                 "open_issues": 77,
                 "owner": "SwipeCellKit",
                 "repo": "SwipeCellKit",
-                "stars": 6270,
+                "stars": 6271,
                 "topics": [
                   "drag",
                   "ios",
@@ -1321,7 +1321,7 @@
                 "open_issues": 12,
                 "owner": "Ramotion",
                 "repo": "folding-cell",
-                "stars": 10171,
+                "stars": 10169,
                 "topics": [
                   "animation",
                   "ios",
@@ -1526,7 +1526,7 @@
                 "open_issues": 85,
                 "owner": "Skyscanner",
                 "repo": "SkyFloatingLabelTextField",
-                "stars": 4116,
+                "stars": 4115,
                 "topics": [
                   "cocoapods",
                   "interface-builder",
@@ -1944,7 +1944,7 @@
                 "open_issues": 1,
                 "owner": "atrinh0",
                 "repo": "buttoncraft",
-                "stars": 447,
+                "stars": 446,
                 "topics": [
                   "button-animation",
                   "buttons",
@@ -2946,7 +2946,7 @@
                 "open_issues": 1,
                 "owner": "ninjaprox",
                 "repo": "NVActivityIndicatorView",
-                "stars": 10711,
+                "stars": 10712,
                 "topics": [
                   "animation",
                   "carthage",
@@ -3190,7 +3190,7 @@
                 "open_issues": 41,
                 "owner": "CaliCastle",
                 "repo": "PopMenu",
-                "stars": 1690,
+                "stars": 1689,
                 "topics": [
                   "actionsheet",
                   "carthage",
@@ -3252,7 +3252,7 @@
                 "open_issues": 12,
                 "owner": "yysskk",
                 "repo": "SwipeMenuViewController",
-                "stars": 1275,
+                "stars": 1274,
                 "topics": [
                   "animation-library",
                   "ios",
@@ -3375,7 +3375,7 @@
                 "open_issues": 46,
                 "owner": "jonkykong",
                 "repo": "SideMenu",
-                "stars": 5816,
+                "stars": 5817,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -3469,7 +3469,7 @@
                 "open_issues": 314,
                 "owner": "xmartlabs",
                 "repo": "XLPagerTabStrip",
-                "stars": 6988,
+                "stars": 6989,
                 "topics": [
                   "carthage",
                   "cocoapods",
@@ -3945,7 +3945,7 @@
                 "open_issues": 3,
                 "owner": "candostdagdeviren",
                 "repo": "CDAlertView",
-                "stars": 1134,
+                "stars": 1133,
                 "topics": [
                   "alert",
                   "alert-messages",
@@ -4856,7 +4856,7 @@
                 "open_issues": 96,
                 "owner": "slackhq",
                 "repo": "PanModal",
-                "stars": 3764,
+                "stars": 3762,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -4926,7 +4926,7 @@
                 "open_issues": 117,
                 "owner": "ElaWorkshop",
                 "repo": "TagListView",
-                "stars": 2662,
+                "stars": 2661,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -5541,7 +5541,7 @@
                 "open_issues": 11,
                 "owner": "efremidze",
                 "repo": "VisualEffectView",
-                "stars": 1432,
+                "stars": 1433,
                 "topics": [
                   "apple",
                   "blur",
@@ -5710,7 +5710,7 @@
                 "open_issues": 503,
                 "owner": "WenchaoD",
                 "repo": "FSCalendar",
-                "stars": 10627,
+                "stars": 10626,
                 "topics": [
                   "calendar",
                   "carthage",
@@ -5746,7 +5746,7 @@
                 "open_issues": 11,
                 "owner": "SvenTiigi",
                 "repo": "WhatsNewKit",
-                "stars": 4440,
+                "stars": 4439,
                 "topics": [
                   "ios",
                   "macos",
@@ -6325,7 +6325,7 @@
                 "open_issues": 7,
                 "owner": "raulriera",
                 "repo": "TextFieldEffects",
-                "stars": 6012,
+                "stars": 6011,
                 "topics": [
                   "animation",
                   "effects",
@@ -6611,7 +6611,7 @@
                 "open_issues": 50,
                 "owner": "0xced",
                 "repo": "XCDYouTubeKit",
-                "stars": 2919,
+                "stars": 2920,
                 "topics": [
                   "player",
                   "video",
@@ -6735,7 +6735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-22T07:57:07.808Z",
+    "last_updated": "2026-11-23T08:56:58.543Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
