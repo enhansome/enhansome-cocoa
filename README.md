@@ -1,4 +1,4 @@
-[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,303 | 🐛 103 | 📅 2026-09-02
+[![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome) ⭐ 541,959 | 🐛 103 | 📅 2026-09-02
 ![PR Welcome](https://img.shields.io/badge/PR-welcome-green.svg)
 
 # awesome-cocoa with stars
@@ -70,7 +70,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 # New
 
-**[Elephant](https://github.com/s2mr/Elephant) ⭐ 152 | 🐛 0 | 🌐 Swift | 📅 2026-05-24**
+**[Elephant](https://github.com/s2mr/Elephant) ⭐ 152 | 🐛 0 | 🌐 Swift | 📅 2026-11-24**
 *from [s2mr](https://github.com/s2mr):*
 
 > *Elegant SVG animation kit for swift*
@@ -106,7 +106,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-**[NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) ⭐ 1,793 | 🐛 31 | 🌐 Swift | 📅 2026-08-21**
+**[NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) ⭐ 1,792 | 🐛 31 | 🌐 Swift | 📅 2026-08-21**
 *from [muukii](https://github.com/muukii):*
 
 > *📝 The next in the generations of 'growing textviews' optimized for iOS 8 and above.*
@@ -133,7 +133,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,062 | 🐛 2 | 🌐 Swift | 📅 2026-11-06**
+**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,064 | 🐛 2 | 🌐 Swift | 📅 2026-11-06**
 *from [exyte](https://github.com/exyte):*
 
 > *Toasts and popups library written with SwiftUI*
@@ -162,7 +162,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Animation
 
-**[Elephant](https://github.com/s2mr/Elephant) ⭐ 152 | 🐛 0 | 🌐 Swift | 📅 2026-05-24**
+**[Elephant](https://github.com/s2mr/Elephant) ⭐ 152 | 🐛 0 | 🌐 Swift | 📅 2026-11-24**
 *from [s2mr](https://github.com/s2mr):*
 
 > *Elegant SVG animation kit for swift*
@@ -232,7 +232,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *:sparkles: Twinkle iOS/tvOS app elements in Swift*
 
-**[CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) ⭐ 3,471 | 🐛 22 | 🌐 Swift | 📅 2023-05-22**
+**[CHIPageControl](https://github.com/ChiliLabs/CHIPageControl) ⭐ 3,470 | 🐛 22 | 🌐 Swift | 📅 2023-05-22**
 *from [ChiliLabs](https://github.com/ChiliLabs):*
 
 > *A set of cool animated page controls written in Swift to replace boring UIPageControl.*
@@ -257,7 +257,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *A simple keyframe-based animation framework for UIKit. Perfect for scrolling app intros.*
 
-**[PulsingHalo](https://github.com/shu223/PulsingHalo) ⭐ 1,779 | 🐛 13 | 🌐 Objective-C | 📅 2021-10-12**
+**[PulsingHalo](https://github.com/shu223/PulsingHalo) ⭐ 1,778 | 🐛 13 | 🌐 Objective-C | 📅 2021-10-12**
 *from [shu223](https://github.com/shu223):*
 
 > *iOS Component for creating a pulsing animation.*
@@ -385,7 +385,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## TextField
 
-**[NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) ⭐ 1,793 | 🐛 31 | 🌐 Swift | 📅 2026-08-21**
+**[NextGrowingTextView](https://github.com/muukii/NextGrowingTextView) ⭐ 1,792 | 🐛 31 | 🌐 Swift | 📅 2026-08-21**
 *from [muukii](https://github.com/muukii):*
 
 > *📝 The next in the generations of 'growing textviews' optimized for iOS 8 and above.*
@@ -464,7 +464,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Toast
 
-**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,062 | 🐛 2 | 🌐 Swift | 📅 2026-11-06**
+**[PopupView](https://github.com/exyte/PopupView) ⭐ 4,064 | 🐛 2 | 🌐 Swift | 📅 2026-11-06**
 *from [exyte](https://github.com/exyte):*
 
 > *Toasts and popups library written with SwiftUI*
@@ -500,7 +500,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Easily customizable floating button menu created with SwiftUI*
 
-**[PMSuperButton](https://github.com/pmusolino/PMSuperButton) ⭐ 718 | 🐛 7 | 🌐 Swift | 📅 2023-03-07**
+**[PMSuperButton](https://github.com/pmusolino/PMSuperButton) ⭐ 717 | 🐛 7 | 🌐 Swift | 📅 2023-03-07**
 *from [pmusolino](https://github.com/pmusolino):*
 
 > *🔥 PMSuperButton is a powerful UIButton coming from the countryside, but with super powers! 😎*
@@ -525,7 +525,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Revamped Download Button. It's kinda a reverse engineering of Netflix's app download button.*
 
-**[MultiToggleButton](https://github.com/yonat/MultiToggleButton) ⭐ 86 | 🐛 0 | 🌐 Swift | 📅 2024-11-01**
+**[MultiToggleButton](https://github.com/yonat/MultiToggleButton) ⭐ 86 | 🐛 0 | 🌐 Swift | 📅 2026-11-23**
 *from [yonat](https://github.com/yonat):*
 
 > *Multiple state tap to toggle UIButton in Swift*
@@ -669,7 +669,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Collection of iOS drop-in components to visualize progress*
 
-**[GaugeKit](https://github.com/skywinder/GaugeKit) ⭐ 1,021 | 🐛 2 | 🌐 Swift | 📅 2022-04-10**
+**[GaugeKit](https://github.com/skywinder/GaugeKit) ⭐ 1,020 | 🐛 2 | 🌐 Swift | 📅 2022-04-10**
 *from [skywinder](https://github.com/skywinder):*
 
 > *Kit for building custom gauges + easy reproducible Apple's style ring gauges.*
@@ -858,7 +858,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *SwiftOverlays is a Swift GUI library for displaying various popups and notifications*
 
-**[PKHUD](https://github.com/pkluz/PKHUD) ⭐ 3,767 | 🐛 64 | 🌐 Swift | 📅 2023-02-16**
+**[PKHUD](https://github.com/pkluz/PKHUD) ⭐ 3,766 | 🐛 64 | 🌐 Swift | 📅 2023-02-16**
 *from [pkluz](https://github.com/pkluz):*
 
 > *A Swift based reimplementation of the Apple HUD (Volume, Ringer, Rotation,…) for iOS 8.*
@@ -920,7 +920,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Pinterest inspired layout for UICollectionViews*
 
-**[CheckmarkCollectionViewCell](https://github.com/yonat/CheckmarkCollectionViewCell) ⭐ 67 | 🐛 0 | 🌐 Swift | 📅 2024-11-01**
+**[CheckmarkCollectionViewCell](https://github.com/yonat/CheckmarkCollectionViewCell) ⭐ 67 | 🐛 0 | 🌐 Swift | 📅 2026-11-23**
 *from [yonat](https://github.com/yonat):*
 
 > *UICollectionViewCell with checkbox when it isSelected and empty circle when not - like Photos.app "Select" mode.*
@@ -1033,7 +1033,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 > *Inifinite swipeable stacked UIViews.*
 
-**[Koloda](https://github.com/Yalantis/Koloda) ⭐ 5,386 | 🐛 50 | 🌐 Swift | 📅 2024-05-29**
+**[Koloda](https://github.com/Yalantis/Koloda) ⭐ 5,385 | 🐛 50 | 🌐 Swift | 📅 2024-05-29**
 *from [Yalantis](https://github.com/Yalantis):*
 
 > \*KolodaView is a class designed to simplify the implementation of Tinder like cards on iOS. \*
@@ -1227,7 +1227,7 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ## Introduction
 
-**[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,439 | 🐛 11 | 🌐 Swift | 📅 2024-10-10**
+**[WhatsNewKit](https://github.com/SvenTiigi/WhatsNewKit) ⭐ 4,439 | 🐛 10 | 🌐 Swift | 📅 2024-10-10**
 *from [SvenTiigi](https://github.com/SvenTiigi):*
 
 > *Showcase your awesome new app features 📱*
@@ -1449,4 +1449,4 @@ Your repo will be published on the [cocoa.rocks](https://cocoa.rocks) website an
 
 ***
 
-> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-23._
+> _Enhansomed by [enhansome](https://github.com/enhansome) on 2026-11-24._
