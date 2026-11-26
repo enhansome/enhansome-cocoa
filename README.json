@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22496,
+                "stars": 22497,
                 "topics": [
                   "animation",
                   "animations",
@@ -717,7 +717,7 @@
                 "open_issues": 22,
                 "owner": "ChiliLabs",
                 "repo": "CHIPageControl",
-                "stars": 3470,
+                "stars": 3469,
                 "topics": [
                   "cocoapods",
                   "ibdesignable",
@@ -1152,7 +1152,7 @@
                 "open_issues": 77,
                 "owner": "SwipeCellKit",
                 "repo": "SwipeCellKit",
-                "stars": 6271,
+                "stars": 6270,
                 "topics": [
                   "drag",
                   "ios",
@@ -1500,7 +1500,7 @@
                 "open_issues": 6,
                 "owner": "orazz",
                 "repo": "CreditCardForm-iOS",
-                "stars": 1463,
+                "stars": 1464,
                 "topics": [
                   "credit-card",
                   "creditcardform",
@@ -2612,7 +2612,7 @@
                 "open_issues": 53,
                 "owner": "MatiBot",
                 "repo": "MBCircularProgressBar",
-                "stars": 996,
+                "stars": 997,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -3252,7 +3252,7 @@
                 "open_issues": 12,
                 "owner": "yysskk",
                 "repo": "SwipeMenuViewController",
-                "stars": 1274,
+                "stars": 1275,
                 "topics": [
                   "animation-library",
                   "ios",
@@ -3886,7 +3886,7 @@
                 "language": "Swift",
                 "license": "MIT",
                 "last_commit": "2023-02-16T17:26:12Z",
-                "open_issues": 64,
+                "open_issues": 63,
                 "owner": "pkluz",
                 "repo": "PKHUD",
                 "stars": 3766,
@@ -4947,7 +4947,7 @@
                 "open_issues": 29,
                 "owner": "optonaut",
                 "repo": "ActiveLabel.swift",
-                "stars": 4594,
+                "stars": 4593,
                 "topics": [
                   "activelabel",
                   "swift",
@@ -5359,7 +5359,7 @@
                 "open_issues": 10,
                 "owner": "louisdh",
                 "repo": "panelkit",
-                "stars": 3734,
+                "stars": 3733,
                 "topics": [
                   "ios",
                   "ipad",
@@ -6169,7 +6169,7 @@
                 "open_issues": 8,
                 "owner": "ParkGwangBeom",
                 "repo": "Windless",
-                "stars": 947,
+                "stars": 948,
                 "topics": [
                   "animation",
                   "indicator",
@@ -6559,7 +6559,7 @@
                 "language": "Objective-C",
                 "license": "MIT",
                 "last_commit": "2021-10-06T11:35:12Z",
-                "open_issues": 63,
+                "open_issues": 62,
                 "owner": "mariohahn",
                 "repo": "MHVideoPhotoGallery",
                 "stars": 1939,
@@ -6611,7 +6611,7 @@
                 "open_issues": 50,
                 "owner": "0xced",
                 "repo": "XCDYouTubeKit",
-                "stars": 2921,
+                "stars": 2922,
                 "topics": [
                   "player",
                   "video",
@@ -6735,7 +6735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-25T09:46:18.521Z",
+    "last_updated": "2026-11-26T09:27:22.947Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
