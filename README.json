@@ -151,7 +151,7 @@
             "open_issues": 48,
             "owner": "alexaubry",
             "repo": "BulletinBoard",
-            "stars": 5329,
+            "stars": 5328,
             "topics": [
               "card",
               "configuration",
@@ -495,7 +495,7 @@
                 "open_issues": 42,
                 "owner": "HeroTransitions",
                 "repo": "Hero",
-                "stars": 22496,
+                "stars": 22497,
                 "topics": [
                   "animation",
                   "animations",
@@ -1668,7 +1668,7 @@
                 "open_issues": 30,
                 "owner": "whitesmith",
                 "repo": "WSTagsField",
-                "stars": 1280,
+                "stars": 1279,
                 "topics": [
                   "carthage",
                   "carthage-installation",
@@ -1820,7 +1820,7 @@
                 "open_issues": 48,
                 "owner": "alexaubry",
                 "repo": "BulletinBoard",
-                "stars": 5329,
+                "stars": 5328,
                 "topics": [
                   "card",
                   "configuration",
@@ -2946,7 +2946,7 @@
                 "open_issues": 1,
                 "owner": "ninjaprox",
                 "repo": "NVActivityIndicatorView",
-                "stars": 10713,
+                "stars": 10712,
                 "topics": [
                   "animation",
                   "carthage",
@@ -5044,7 +5044,7 @@
                 "open_issues": 15,
                 "owner": "scihant",
                 "repo": "CTPanoramaView",
-                "stars": 1043,
+                "stars": 1044,
                 "topics": [
                   "360-photo",
                   "carthage",
@@ -6351,7 +6351,7 @@
                 "open_issues": 28,
                 "owner": "jverdi",
                 "repo": "JVFloatLabeledTextField",
-                "stars": 7128,
+                "stars": 7127,
                 "topics": [
                   "carthage",
                   "floating-labels",
@@ -6380,7 +6380,7 @@
                 "open_issues": 34,
                 "owner": "nghialv",
                 "repo": "MaterialKit",
-                "stars": 2486,
+                "stars": 2485,
                 "topics": []
               },
               "first_seen": "2026-08-28T12:43:03.687Z"
@@ -6735,7 +6735,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-11-27T09:37:42.080Z",
+    "last_updated": "2026-11-28T08:52:31.862Z",
     "original_repository_info": {
       "archived": false,
       "description": "A curated list of awesome Cocoa controls for iOS, watchOS and macOS",
